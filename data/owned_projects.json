@@ -1,0 +1,19 @@
+[
+  {
+    "name": "fengmo11/awesome-paper-research-skills",
+    "url": "https://github.com/fengmo11/awesome-paper-research-skills",
+    "description_en": "A bilingual curated map of paper-related AI skills and repositories across the full publication workflow.",
+    "description_zh": "一个中英双语的论文 AI skills 与开源仓库导航，覆盖选题、查论文、实验、写作、引用、排版、审稿和投稿。",
+    "stages": [
+      "idea-discovery",
+      "literature-search",
+      "citation-management",
+      "experiments-reproducibility",
+      "analysis-figures",
+      "writing-drafting",
+      "review-revision",
+      "formatting-submission"
+    ],
+    "maintainer": "fengmo11"
+  }
+]

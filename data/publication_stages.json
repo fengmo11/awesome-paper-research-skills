@@ -2,7 +2,9 @@
   {
     "id": "01-idea-discovery",
     "title": "Idea Discovery And Research Question",
+    "title_zh": "选题发现与研究问题",
     "description": "Find topics, generate hypotheses, check novelty, and turn broad interests into researchable questions.",
+    "description_zh": "用于发现研究方向、生成假设、初步判断创新性，并把宽泛想法转化为可执行的研究问题。",
     "relevance_keywords": ["idea", "ideation", "hypothesis", "ai-scientist", "research-agent", "scientific-discovery", "autoresearch"],
     "queries": [
       "research ideation ai scientist hypothesis generation in:name,description,readme",
@@ -12,7 +14,9 @@
   {
     "id": "02-literature-search",
     "title": "Literature Search And Reading",
+    "title_zh": "文献检索与论文阅读",
     "description": "Search papers, build reading lists, summarize PDFs, and organize literature review inputs.",
+    "description_zh": "用于检索论文、整理阅读列表、总结 PDF，并为 related work 和综述搭建资料库。",
     "relevance_keywords": ["literature", "review", "arxiv", "semantic", "scholar", "pubmed", "paper", "pdf"],
     "queries": [
       "academic literature review arxiv semantic scholar in:name,description,readme",
@@ -22,7 +26,9 @@
   {
     "id": "03-citation-management",
     "title": "Citation Management And Source Verification",
+    "title_zh": "引用管理与来源验证",
     "description": "Manage BibTeX, DOI metadata, citation graphs, references, and hallucination checks.",
+    "description_zh": "用于管理 BibTeX、DOI、参考文献元数据，检查引用错误、来源缺失和伪造引用风险。",
     "relevance_keywords": ["citation", "bibtex", "doi", "crossref", "reference", "bibliography", "zotero", "mendeley", "jabref"],
     "queries": [
       "bibtex citation in:name,description,readme",
@@ -35,7 +41,9 @@
   {
     "id": "04-experiments-reproducibility",
     "title": "Experiment Execution And Reproducibility",
+    "title_zh": "实验执行与可复现性",
     "description": "Run experiments, track results, manage datasets, and keep work reproducible.",
+    "description_zh": "用于运行实验、记录结果、管理数据和模型版本，并保持论文实验可复现。",
     "relevance_keywords": ["experiment", "tracking", "reproducible", "reproducibility", "mlflow", "wandb", "dvc", "sacred", "pipeline", "benchmark"],
     "queries": [
       "mlflow wandb dvc sacred experiment tracking in:name,description,readme",
@@ -46,7 +54,9 @@
   {
     "id": "05-analysis-figures",
     "title": "Analysis, Statistics, Figures And Tables",
+    "title_zh": "数据分析、统计、图表与表格",
     "description": "Analyze data, create publication-quality figures, tables, schematics, and statistical reports.",
+    "description_zh": "用于完成统计分析、可视化、论文级图表、表格和实验结果报告。",
     "relevance_keywords": ["visualization", "plot", "figure", "matplotlib", "statistics", "analysis", "table", "scientific", "publication"],
     "queries": [
       "scientific visualization publication figures matplotlib in:name,description,readme",
@@ -56,7 +66,9 @@
   {
     "id": "06-writing-drafting",
     "title": "Paper Writing And Drafting",
+    "title_zh": "论文写作与初稿生成",
     "description": "Draft abstracts, related work, methods, results, discussion, and full manuscripts.",
+    "description_zh": "用于撰写摘要、引言、相关工作、方法、结果、讨论以及完整论文初稿。",
     "relevance_keywords": ["writing", "manuscript", "paper", "academic", "latex", "docx", "thesis", "draft", "skill"],
     "queries": [
       "academic paper writing latex docx ai in:name,description,readme",
@@ -66,7 +78,9 @@
   {
     "id": "07-review-revision",
     "title": "Peer Review, Self Review And Revision",
+    "title_zh": "同行评审、自审与修改",
     "description": "Review manuscripts, score quality, generate rebuttals, and plan revisions.",
+    "description_zh": "用于模拟审稿、质量评分、发现论文缺陷、生成 rebuttal 和修改路线图。",
     "relevance_keywords": ["review", "reviewer", "peer-review", "rebuttal", "revision", "manuscript", "paper", "quality"],
     "queries": [
       "peer review academic paper reviewer in:name,description,readme",
@@ -77,7 +91,9 @@
   {
     "id": "08-formatting-submission",
     "title": "LaTeX, Word Formatting And Submission",
+    "title_zh": "LaTeX、Word 排版与投稿准备",
     "description": "Prepare LaTeX templates, DOCX/PDF exports, journal formatting, camera-ready packages, and submission checks.",
+    "description_zh": "用于准备 LaTeX/Word 模板、PDF/DOCX 导出、期刊会议格式检查和最终投稿包。",
     "relevance_keywords": ["latex", "docx", "template", "journal", "conference", "submission", "paper", "manuscript", "overleaf"],
     "queries": [
       "latex template journal conference paper in:name,description,readme",
