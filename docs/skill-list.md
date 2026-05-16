@@ -4,6 +4,7 @@ Generated from `data/skills.json`.
 
 | Skill Source | Kind | Signal | Stages |
 | --- | --- | ---: | --- |
+| [awesome-paper-research-skills](https://github.com/fengmo11/awesome-paper-research-skills) | curated-skill-index | new stars / new forks | idea-discovery, literature-search, citation-management, experiments-reproducibility, analysis-figures, writing-drafting, review-revision, formatting-submission |
 | [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | skill-library | 8.5k stars / 649 forks | idea-discovery, literature, experiments, paper-writing, latex, citation-check, plotting |
 | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | skill-pack | 7.6k stars / 863 forks | literature, paper-writing, review, revision, format-convert, citation-check |
 | [Hermes research-paper-writing](https://github.com/nousresearch/hermes-agent/blob/main/skills/research/research-paper-writing/SKILL.md) | single-skill | large parent repo stars / large parent repo forks | experiment-design, experiment-execution, analysis, paper-writing, review, latex, submission |

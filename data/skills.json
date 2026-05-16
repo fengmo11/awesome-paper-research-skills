@@ -1,5 +1,29 @@
 [
   {
+    "name": "awesome-paper-research-skills",
+    "repo": "fengmo11/awesome-paper-research-skills",
+    "url": "https://github.com/fengmo11/awesome-paper-research-skills",
+    "kind": "curated-skill-index",
+    "observed_stars": "new",
+    "observed_forks": "new",
+    "date_checked": "2026-05-16",
+    "paper_relevant_paths": [
+      "README.md",
+      "README.zh-CN.md",
+      "docs/skill-catalog.md",
+      "docs/stage-skill-map.md",
+      "docs/publication-flow-repositories.md",
+      "data/skills.json",
+      "data/publication_stage_repos.json"
+    ],
+    "stages": ["idea-discovery", "literature-search", "citation-management", "experiments-reproducibility", "analysis-figures", "writing-drafting", "review-revision", "formatting-submission"],
+    "takeaways": [
+      "Bilingual paper-skill index for the full publication workflow.",
+      "Homepage highlights top repositories while data files keep the full 400-repository map.",
+      "Maintainer-owned repo is listed as a first-class project, not only a homepage note."
+    ]
+  },
+  {
     "name": "AI-Research-SKILLs",
     "repo": "Orchestra-Research/AI-Research-SKILLs",
     "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",

@@ -4,6 +4,7 @@ Generated from `data/projects.json`.
 
 | Project | Category | Signal | Best For | Stages |
 | --- | --- | ---: | --- | --- |
+| [fengmo11/awesome-paper-research-skills](https://github.com/fengmo11/awesome-paper-research-skills) | curated-skill-index | new stars / new forks | Bilingual paper research skill index across the publication workflow | ideas, literature, citations, experiments, analysis, writing, review, latex, docx, submission |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | paper-writing | 152k stars / 24.2k forks | Research paper writing skill inside a large agent framework | writing, experiments, statistics, citations, latex, revision |
 | [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) | full-cycle | 13.6k stars / 1.9k forks | Automated scientific discovery loop | ideas, experiments, writing, review |
 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | full-cycle | 12.2k stars / 1.4k forks | End-to-end idea-to-paper automation | ideas, literature, experiments, statistics, writing, bibtex, latex, review |

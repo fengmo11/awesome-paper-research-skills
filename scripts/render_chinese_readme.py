@@ -28,6 +28,7 @@ SKILL_KIND_ZH = {
     "skill-pack": "技能包",
     "single-skill": "单个技能",
     "curated-skill-set": "精选技能集",
+    "curated-skill-index": "精选索引库",
 }
 
 TAKEAWAY_ZH = {
@@ -43,6 +44,9 @@ TAKEAWAY_ZH = {
     "Figure synthesis and critique can be part of a writing skill.": "适合学习把图表构思和图表审查纳入写作技能。",
     "IMRAD-specific skills are easier to apply than generic academic-writing prompts.": "适合参考 IMRAD 结构化论文写作流程。",
     "Quality checklists make the skill more trustworthy.": "适合学习如何用质量清单提高论文技能可靠性。",
+    "Bilingual paper-skill index for the full publication workflow.": "适合作为论文发表全流程的中英双语 skills 导航入口。",
+    "Homepage highlights top repositories while data files keep the full 400-repository map.": "首页展示每阶段高星仓库，数据目录保留完整 400 仓库地图。",
+    "Maintainer-owned repo is listed as a first-class project, not only a homepage note.": "维护者自有仓库已作为正式项目条目收录，而不仅仅是首页说明。",
 }
 
 PROJECT_BEST_FOR_ZH = {
@@ -54,6 +58,7 @@ PROJECT_BEST_FOR_ZH = {
     "AI-assisted meta-review": "AI 辅助论文 meta-review 和审稿总结参考。",
     "Reading list on AI Scientist and Robot Scientist literature": "AI Scientist 与 Robot Scientist 方向的论文阅读清单。",
     "Local literature database using OpenAlex": "基于 OpenAlex 的本地文献数据库参考。",
+    "Bilingual paper research skill index across the publication workflow": "覆盖论文发表全流程的中英双语 paper skills 索引库。",
 }
 
 

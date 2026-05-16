@@ -1,5 +1,16 @@
 [
   {
+    "name": "fengmo11/awesome-paper-research-skills",
+    "url": "https://github.com/fengmo11/awesome-paper-research-skills",
+    "category": "curated-skill-index",
+    "observed_stars": "new",
+    "observed_forks": "new",
+    "date_checked": "2026-05-16",
+    "best_for": "Bilingual paper research skill index across the publication workflow",
+    "stages": ["ideas", "literature", "citations", "experiments", "analysis", "writing", "review", "latex", "docx", "submission"],
+    "notes": "Maintainer-owned index repository with top-stage README tables, Chinese README, skill catalog, and 400-repository publication-flow dataset."
+  },
+  {
     "name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
     "category": "paper-writing",

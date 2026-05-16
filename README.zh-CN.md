@@ -40,6 +40,7 @@ flowchart LR
 
 | Skill / 项目 | 类型 | Stars / Forks | 中文简述 |
 | --- | --- | ---: | --- |
+| [awesome-paper-research-skills](https://github.com/fengmo11/awesome-paper-research-skills) | 精选索引库 | new / new | 适合作为论文发表全流程的中英双语 skills 导航入口。；首页展示每阶段高星仓库，数据目录保留完整 400 仓库地图。 |
 | [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 技能库 | 8.5k / 649 | 适合学习如何把科研能力拆成多个独立技能，而不是写成一个巨大的提示词。；适合参考其选题、自动科研和机器学习论文写作的分层方式。 |
 | [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 技能包 | 7.6k / 863 | 适合参考 12-agent 论文写作架构。；适合学习把审稿、修改和初稿写作分开的工作流设计。 |
 | [Hermes research-paper-writing](https://github.com/nousresearch/hermes-agent/blob/main/skills/research/research-paper-writing/SKILL.md) | 单个技能 | large parent repo / large parent repo | 适合学习单个深度 SKILL.md 如何组织阶段、依赖和工具调用。；适合参考实验执行与论文写作之间的迭代闭环。 |
@@ -53,6 +54,7 @@ flowchart LR
 
 | 项目 | Stars / Forks | 中文简述 | 覆盖环节 |
 | --- | ---: | --- | --- |
+| [fengmo11/awesome-paper-research-skills](https://github.com/fengmo11/awesome-paper-research-skills) | new / new | 覆盖论文发表全流程的中英双语 paper skills 索引库。 | ideas, literature, citations, experiments, analysis, writing, review, latex, docx, submission |
 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | 152k / 24.2k | 大型 agent 框架中的论文写作技能参考。 | writing, experiments, statistics, citations, latex, revision |
 | [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) | 13.6k / 1.9k | 自动科研闭环参考，覆盖想法、实验、写作和评审。 | ideas, experiments, writing, review |
 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 12.2k / 1.4k | 端到端 idea-to-paper 自动化架构参考。 | ideas, literature, experiments, statistics, writing, bibtex, latex, review |
@@ -60,7 +62,6 @@ flowchart LR
 | [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) | 114 / 24 | 长论文、毕业论文和研究草稿生成参考。 | literature, writing, citation-verification, pdf, docx, latex |
 | [poldrack/ai-peer-review](https://github.com/poldrack/ai-peer-review) | 106 / 18 | AI 辅助论文 meta-review 和审稿总结参考。 | review |
 | [openags/Awesome-AI-Scientist-Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) | 109 / 4 | AI Scientist 与 Robot Scientist 方向的论文阅读清单。 | literature |
-| [jkitchin/litdb](https://github.com/jkitchin/litdb) | 70 / 9 | 基于 OpenAlex 的本地文献数据库参考。 | literature, bibtex, related-work |
 
 ## 按论文发表流程分类的 Top 仓库
 

@@ -5,6 +5,7 @@ not just general research tools.
 
 | Skill Source | Kind | Signal | Most Useful For | What To Extract |
 | --- | --- | ---: | --- | --- |
+| [fengmo11/awesome-paper-research-skills](https://github.com/fengmo11/awesome-paper-research-skills) | Curated skill index | new | Bilingual full publication workflow map | Top-stage README tables, Chinese README, 400-repository dataset |
 | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | Skill library | ~8.5k stars / ~649 forks | Full AI research skill ecosystem | Autoresearch, ideation, ML paper writing, plotting |
 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Skill pack | ~7.6k stars / ~863 forks | Academic paper pipeline | Academic paper, reviewer, pipeline, deep research |
 | [Hermes research-paper-writing](https://github.com/nousresearch/hermes-agent/blob/main/skills/research/research-paper-writing/SKILL.md) | Single deep skill | large parent repo | Experiment-to-submission loop | Phase design, dependencies, tool usage, LaTeX compilation |
