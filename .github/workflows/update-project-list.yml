@@ -1,0 +1,30 @@
+name: Update project list
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 1"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Update GitHub stars and forks
+        run: python scripts/update_github_signal.py
+      - name: Collect publication flow repositories
+        run: python scripts/collect_publication_flow_repos.py --max-per-stage 50 --delay 4
+      - name: Render project list
+        run: python scripts/render_readme.py
+      - name: Render skill list
+        run: python scripts/render_skill_catalog.py
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update project signals

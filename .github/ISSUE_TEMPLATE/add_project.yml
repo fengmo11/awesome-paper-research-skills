@@ -1,0 +1,38 @@
+name: Add a project
+description: Suggest an open-source AI research workflow project
+title: "Add project: "
+labels: ["project"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: GitHub URL
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What does it do?
+      description: One or two factual sentences.
+    validations:
+      required: true
+  - type: checkboxes
+    id: stages
+    attributes:
+      label: Workflow stages
+      options:
+        - label: Idea discovery
+        - label: Literature search
+        - label: Experiment planning
+        - label: Experiment execution
+        - label: Paper writing
+        - label: Citation verification
+        - label: LaTeX export
+        - label: DOCX export
+        - label: Peer review
+  - type: input
+    id: signal
+    attributes:
+      label: Observed stars/forks and date checked
+      placeholder: "1.2k stars / 120 forks, checked 2026-05-16"

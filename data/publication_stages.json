@@ -1,0 +1,88 @@
+[
+  {
+    "id": "01-idea-discovery",
+    "title": "Idea Discovery And Research Question",
+    "description": "Find topics, generate hypotheses, check novelty, and turn broad interests into researchable questions.",
+    "relevance_keywords": ["idea", "ideation", "hypothesis", "ai-scientist", "research-agent", "scientific-discovery", "autoresearch"],
+    "queries": [
+      "research ideation ai scientist hypothesis generation in:name,description,readme",
+      "research ideas literature discovery hypothesis in:name,description,readme"
+    ]
+  },
+  {
+    "id": "02-literature-search",
+    "title": "Literature Search And Reading",
+    "description": "Search papers, build reading lists, summarize PDFs, and organize literature review inputs.",
+    "relevance_keywords": ["literature", "review", "arxiv", "semantic", "scholar", "pubmed", "paper", "pdf"],
+    "queries": [
+      "academic literature review arxiv semantic scholar in:name,description,readme",
+      "paper search literature review pubmed arxiv in:name,description,readme"
+    ]
+  },
+  {
+    "id": "03-citation-management",
+    "title": "Citation Management And Source Verification",
+    "description": "Manage BibTeX, DOI metadata, citation graphs, references, and hallucination checks.",
+    "relevance_keywords": ["citation", "bibtex", "doi", "crossref", "reference", "bibliography", "zotero", "mendeley", "jabref"],
+    "queries": [
+      "bibtex citation in:name,description,readme",
+      "zotero citation in:name,description,readme",
+      "doi crossref reference in:name,description,readme",
+      "bibliography references paper in:name,description,readme",
+      "citation reference academic in:name,description,readme"
+    ]
+  },
+  {
+    "id": "04-experiments-reproducibility",
+    "title": "Experiment Execution And Reproducibility",
+    "description": "Run experiments, track results, manage datasets, and keep work reproducible.",
+    "relevance_keywords": ["experiment", "tracking", "reproducible", "reproducibility", "mlflow", "wandb", "dvc", "sacred", "pipeline", "benchmark"],
+    "queries": [
+      "mlflow wandb dvc sacred experiment tracking in:name,description,readme",
+      "reproducible research workflow experiment pipeline in:name,description,readme",
+      "machine learning experiment manager reproducibility in:name,description,readme"
+    ]
+  },
+  {
+    "id": "05-analysis-figures",
+    "title": "Analysis, Statistics, Figures And Tables",
+    "description": "Analyze data, create publication-quality figures, tables, schematics, and statistical reports.",
+    "relevance_keywords": ["visualization", "plot", "figure", "matplotlib", "statistics", "analysis", "table", "scientific", "publication"],
+    "queries": [
+      "scientific visualization publication figures matplotlib in:name,description,readme",
+      "publication quality plots statistics research paper in:name,description,readme"
+    ]
+  },
+  {
+    "id": "06-writing-drafting",
+    "title": "Paper Writing And Drafting",
+    "description": "Draft abstracts, related work, methods, results, discussion, and full manuscripts.",
+    "relevance_keywords": ["writing", "manuscript", "paper", "academic", "latex", "docx", "thesis", "draft", "skill"],
+    "queries": [
+      "academic paper writing latex docx ai in:name,description,readme",
+      "research paper writing skill manuscript in:name,description,readme"
+    ]
+  },
+  {
+    "id": "07-review-revision",
+    "title": "Peer Review, Self Review And Revision",
+    "description": "Review manuscripts, score quality, generate rebuttals, and plan revisions.",
+    "relevance_keywords": ["review", "reviewer", "peer-review", "rebuttal", "revision", "manuscript", "paper", "quality"],
+    "queries": [
+      "peer review academic paper reviewer in:name,description,readme",
+      "paper review rebuttal revision manuscript in:name,description,readme",
+      "manuscript review academic quality checklist in:name,description,readme"
+    ]
+  },
+  {
+    "id": "08-formatting-submission",
+    "title": "LaTeX, Word Formatting And Submission",
+    "description": "Prepare LaTeX templates, DOCX/PDF exports, journal formatting, camera-ready packages, and submission checks.",
+    "relevance_keywords": ["latex", "docx", "template", "journal", "conference", "submission", "paper", "manuscript", "overleaf"],
+    "queries": [
+      "latex template journal conference paper in:name,description,readme",
+      "docx latex paper submission template academic in:name,description,readme",
+      "overleaf latex manuscript template thesis in:name,description,readme"
+    ]
+  }
+]

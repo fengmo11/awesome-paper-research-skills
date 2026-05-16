@@ -1,0 +1,122 @@
+[
+  {
+    "name": "AI-Research-SKILLs",
+    "repo": "Orchestra-Research/AI-Research-SKILLs",
+    "url": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+    "kind": "skill-library",
+    "observed_stars": "8.5k",
+    "observed_forks": "649",
+    "date_checked": "2026-05-16",
+    "paper_relevant_paths": [
+      "0-autoresearch-skill",
+      "20-ml-paper-writing",
+      "21-research-ideation",
+      "22-agent-native-research-artifact"
+    ],
+    "stages": ["idea-discovery", "literature", "experiments", "paper-writing", "latex", "citation-check", "plotting"],
+    "takeaways": [
+      "Use category-level skill libraries rather than one huge prompt.",
+      "Separate ideation, autoresearch, and ML paper writing.",
+      "Declare install and update flows clearly."
+    ]
+  },
+  {
+    "name": "academic-research-skills",
+    "repo": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "kind": "skill-pack",
+    "observed_stars": "7.6k",
+    "observed_forks": "863",
+    "date_checked": "2026-05-16",
+    "paper_relevant_paths": [
+      "academic-paper",
+      "academic-paper-reviewer",
+      "academic-pipeline",
+      "deep-research"
+    ],
+    "stages": ["literature", "paper-writing", "review", "revision", "format-convert", "citation-check"],
+    "takeaways": [
+      "12-agent paper writing architecture is a strong reusable pattern.",
+      "Reviewer and revision skills should be separate from drafting.",
+      "Bilingual abstracts and DOCX/PDF/LaTeX outputs are useful differentiators."
+    ]
+  },
+  {
+    "name": "Hermes research-paper-writing",
+    "repo": "NousResearch/hermes-agent",
+    "url": "https://github.com/nousresearch/hermes-agent/blob/main/skills/research/research-paper-writing/SKILL.md",
+    "kind": "single-skill",
+    "observed_stars": "large parent repo",
+    "observed_forks": "large parent repo",
+    "date_checked": "2026-05-16",
+    "paper_relevant_paths": [
+      "skills/research/research-paper-writing/SKILL.md"
+    ],
+    "stages": ["experiment-design", "experiment-execution", "analysis", "paper-writing", "review", "latex", "submission"],
+    "takeaways": [
+      "A single SKILL.md can still be deep if it has phases, dependencies, and tool usage.",
+      "Experiment execution and paper writing should be treated as an iterative loop.",
+      "Statistical analysis and LaTeX compilation belong in the same pipeline."
+    ]
+  },
+  {
+    "name": "RE-paper-writing",
+    "repo": "Research-Equality/RE-paper-writing",
+    "url": "https://github.com/Research-Equality/RE-paper-writing",
+    "kind": "curated-skill-set",
+    "observed_stars": "8",
+    "observed_forks": "1",
+    "date_checked": "2026-05-16",
+    "paper_relevant_paths": [
+      "skills/citation-management",
+      "skills/literature-search",
+      "skills/experiment-report-bridge",
+      "skills/ml-paper-writing",
+      "skills/claim-evidence-map",
+      "skills/citation-verification-gate",
+      "skills/submission-qa-gate"
+    ],
+    "stages": ["planning", "literature", "experiment-report", "claim-evidence", "citation-check", "latex", "revision", "submission-qa"],
+    "takeaways": [
+      "Paper skills should be auditable and artifact-first.",
+      "Claim-evidence maps and citation gates are high-value modules.",
+      "Submission QA and redline workflows are worth separating."
+    ]
+  },
+  {
+    "name": "paper-writing-skill",
+    "repo": "SNL-UCSB/paper-writing-skill",
+    "url": "https://github.com/SNL-UCSB/paper-writing-skill",
+    "kind": "single-skill",
+    "observed_stars": "dynamic",
+    "observed_forks": "dynamic",
+    "date_checked": "2026-05-16",
+    "paper_relevant_paths": [
+      "SKILL.md"
+    ],
+    "stages": ["brainstorm", "draft-zero", "evaluate", "write", "compress", "figures"],
+    "takeaways": [
+      "Editorial principles are useful when the user already has research material.",
+      "Figure synthesis and critique can be part of a writing skill.",
+      "A short memorable loop helps adoption."
+    ]
+  },
+  {
+    "name": "paper-writer-skill",
+    "repo": "kgraph57/paper-writer-skill",
+    "url": "https://github.com/kgraph57/paper-writer-skill",
+    "kind": "single-skill",
+    "observed_stars": "dynamic",
+    "observed_forks": "dynamic",
+    "date_checked": "2026-05-16",
+    "paper_relevant_paths": [
+      "SKILL.md"
+    ],
+    "stages": ["imrad", "literature-management", "quality-checklists"],
+    "takeaways": [
+      "IMRAD-specific skills are easier to apply than generic academic-writing prompts.",
+      "Quality checklists make the skill more trustworthy.",
+      "Literature management should be connected to drafting."
+    ]
+  }
+]

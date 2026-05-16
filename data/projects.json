@@ -1,0 +1,178 @@
+[
+  {
+    "name": "NousResearch/hermes-agent",
+    "url": "https://github.com/NousResearch/hermes-agent",
+    "category": "paper-writing",
+    "observed_stars": "152k",
+    "observed_forks": "24.2k",
+    "date_checked": "2026-05-16",
+    "best_for": "Research paper writing skill inside a large agent framework",
+    "stages": ["writing", "experiments", "statistics", "citations", "latex", "revision"],
+    "notes": "Dedicated research-paper-writing SKILL.md for ML/AI venues."
+  },
+  {
+    "name": "SakanaAI/AI-Scientist",
+    "url": "https://github.com/SakanaAI/AI-Scientist",
+    "category": "full-cycle",
+    "observed_stars": "13.6k",
+    "observed_forks": "1.9k",
+    "date_checked": "2026-05-16",
+    "best_for": "Automated scientific discovery loop",
+    "stages": ["ideas", "experiments", "writing", "review"],
+    "notes": "Canonical reference for ideation, experiment, paper, and review loop."
+  },
+  {
+    "name": "aiming-lab/AutoResearchClaw",
+    "url": "https://github.com/aiming-lab/AutoResearchClaw",
+    "category": "full-cycle",
+    "observed_stars": "12.2k",
+    "observed_forks": "1.4k",
+    "date_checked": "2026-05-16",
+    "best_for": "End-to-end idea-to-paper automation",
+    "stages": ["ideas", "literature", "experiments", "statistics", "writing", "bibtex", "latex", "review"],
+    "notes": "Strong reference architecture for human-in-the-loop research automation."
+  },
+  {
+    "name": "openags/paper-search-mcp",
+    "url": "https://github.com/openags/paper-search-mcp",
+    "category": "literature",
+    "observed_stars": "450",
+    "observed_forks": "71",
+    "date_checked": "2026-05-16",
+    "best_for": "Academic paper search and download through MCP",
+    "stages": ["literature", "paper-retrieval"],
+    "notes": "Useful building block for Codex/Claude/GPT research workflows."
+  },
+  {
+    "name": "federicodeponte/opendraft",
+    "url": "https://github.com/federicodeponte/opendraft",
+    "category": "paper-writing",
+    "observed_stars": "114",
+    "observed_forks": "24",
+    "date_checked": "2026-05-16",
+    "best_for": "Long-form thesis and research draft generation",
+    "stages": ["literature", "writing", "citation-verification", "pdf", "docx", "latex"],
+    "notes": "19 specialized agents with verified citations and multi-format export."
+  },
+  {
+    "name": "poldrack/ai-peer-review",
+    "url": "https://github.com/poldrack/ai-peer-review",
+    "category": "review",
+    "observed_stars": "106",
+    "observed_forks": "18",
+    "date_checked": "2026-05-16",
+    "best_for": "AI-assisted meta-review",
+    "stages": ["review"],
+    "notes": "Focused review utility for submitted papers."
+  },
+  {
+    "name": "openags/Awesome-AI-Scientist-Papers",
+    "url": "https://github.com/openags/Awesome-AI-Scientist-Papers",
+    "category": "reading-list",
+    "observed_stars": "109",
+    "observed_forks": "4",
+    "date_checked": "2026-05-16",
+    "best_for": "Reading list on AI Scientist and Robot Scientist literature",
+    "stages": ["literature"],
+    "notes": "Good source for related papers and field framing."
+  },
+  {
+    "name": "jkitchin/litdb",
+    "url": "https://github.com/jkitchin/litdb",
+    "category": "literature",
+    "observed_stars": "70",
+    "observed_forks": "9",
+    "date_checked": "2026-05-16",
+    "best_for": "Local literature database using OpenAlex",
+    "stages": ["literature", "bibtex", "related-work"],
+    "notes": "Useful for local paper memory and related-work workflows."
+  },
+  {
+    "name": "Technion-Kishony-lab/data-to-paper",
+    "url": "https://github.com/Technion-Kishony-lab/data-to-paper",
+    "category": "full-cycle",
+    "observed_stars": "dynamic",
+    "observed_forks": "92",
+    "date_checked": "2026-05-16",
+    "best_for": "Backward-traceable research from raw data to paper",
+    "stages": ["ideas", "literature", "analysis", "writing", "traceability", "review"],
+    "notes": "Strong emphasis on traceability and human-verifiable manuscripts."
+  },
+  {
+    "name": "InternScience/InternAgent",
+    "url": "https://github.com/InternScience/InternAgent",
+    "category": "full-cycle",
+    "observed_stars": "dynamic",
+    "observed_forks": "dynamic",
+    "date_checked": "2026-05-16",
+    "best_for": "Long-horizon autonomous scientific discovery",
+    "stages": ["ideas", "deep-research", "experiments", "memory", "reproduction"],
+    "notes": "Emerging full-cycle framework with recent 2026 updates."
+  },
+  {
+    "name": "jataware/open-coscientist",
+    "url": "https://github.com/jataware/open-coscientist",
+    "category": "hypothesis",
+    "observed_stars": "dynamic",
+    "observed_forks": "dynamic",
+    "date_checked": "2026-05-16",
+    "best_for": "Hypothesis generation, review, ranking, and evolution",
+    "stages": ["ideas", "literature-grounding", "experiment-design", "review"],
+    "notes": "Open adaptation of AI co-scientist style workflows."
+  },
+  {
+    "name": "nanoAgentTeam/research-claw",
+    "url": "https://github.com/nanoAgentTeam/research-claw",
+    "category": "research-assistant",
+    "observed_stars": "dynamic",
+    "observed_forks": "dynamic",
+    "date_checked": "2026-05-16",
+    "best_for": "Self-hosted research assistant with LaTeX and Overleaf workflows",
+    "stages": ["literature", "latex", "project-management", "writing"],
+    "notes": "Includes channel integrations and paper project management."
+  },
+  {
+    "name": "mlnjsh/ai-research-radar",
+    "url": "https://github.com/mlnjsh/ai-research-radar",
+    "category": "research-radar",
+    "observed_stars": "dynamic",
+    "observed_forks": "dynamic",
+    "date_checked": "2026-05-16",
+    "best_for": "Self-updating arXiv tracker and trend monitor",
+    "stages": ["literature", "summaries", "trends", "github-actions"],
+    "notes": "Good inspiration for an auto-updating awesome list."
+  },
+  {
+    "name": "tarun7r/deep-research-agent",
+    "url": "https://github.com/tarun7r/deep-research-agent",
+    "category": "deep-research",
+    "observed_stars": "dynamic",
+    "observed_forks": "dynamic",
+    "date_checked": "2026-05-16",
+    "best_for": "Citation-backed research reports with credibility scoring",
+    "stages": ["planning", "web-search", "synthesis", "report-writing", "credibility-scoring"],
+    "notes": "Good reference for report quality scoring."
+  },
+  {
+    "name": "sypsyp97/AutoCitation",
+    "url": "https://github.com/sypsyp97/AutoCitation",
+    "category": "citation",
+    "observed_stars": "dynamic",
+    "observed_forks": "dynamic",
+    "date_checked": "2026-05-16",
+    "best_for": "Citation generation and LaTeX cite insertion",
+    "stages": ["citation", "bibtex", "latex"],
+    "notes": "Citation assistant building block."
+  },
+  {
+    "name": "markrussinovich/refchecker",
+    "url": "https://github.com/markrussinovich/refchecker",
+    "category": "citation",
+    "observed_stars": "dynamic",
+    "observed_forks": "dynamic",
+    "date_checked": "2026-05-16",
+    "best_for": "Reference validation",
+    "stages": ["citation-verification", "bibliography-check"],
+    "notes": "Useful as a pre-submission reference QA gate."
+  }
+]
