@@ -11,8 +11,17 @@ study the best public `SKILL.md` packs and assemble a serious paper pipeline
 without opening fifty tabs.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Version](https://img.shields.io/badge/version-v0.2.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
+
+## Current Version
+
+Current workflow version: **v0.2.0**.
+
+- [Paper Research Workflow v0.2.0](docs/workflow-v0.2.md)
+- [Frontier Review - 2026-05-17](docs/frontier-review-2026-05-17.md)
+- [Changelog](CHANGELOG.md)
 
 ## Why This Exists
 

@@ -1,5 +1,7 @@
 # Workflow Map
 
+Current recommended version: [v0.2.0](workflow-v0.2.md).
+
 ## End-To-End Pipeline
 
 ```mermaid
