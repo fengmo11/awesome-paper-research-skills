@@ -1,5 +1,23 @@
 # Changelog
 
+## v3.0.0 - 2026-05-18
+
+### Added
+
+- Added a deep-dive analysis of `Yuan1z0825/nature-skills`, focusing on language style, figure design, citation discipline, data availability, reviewer response, installation structure, and contribution norms.
+- Added a Nature-inspired v3.0 paper skill pipeline that converts the catalog into a stricter, quality-gated operating system.
+- Added reusable templates for claim-evidence-boundary checks, figure contracts, and reviewer response maps.
+
+### Changed
+
+- Upgraded the recommended workflow from a general idea-to-submission map to a Nature-style publication pipeline with explicit language, figure, citation, data, and revision gates.
+- Updated README entry points and version badge to `v3.0.0`.
+
+### Notes
+
+- The version jump is intentional: v3.0.0 is a workflow-design release inspired by mature skill repositories, not a simple catalog refresh.
+- This release references public design patterns from `nature-skills` but does not vendor or copy its skill files.
+
 ## v0.2.0 - 2026-05-17
 
 ### Added

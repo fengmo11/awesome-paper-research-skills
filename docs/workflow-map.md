@@ -1,6 +1,6 @@
 # Workflow Map
 
-Current recommended version: [v0.2.0](workflow-v0.2.md).
+Current recommended version: [v3.0.0](workflow-v3.0.md).
 
 ## End-To-End Pipeline
 

@@ -1,6 +1,6 @@
 # Publication Playbook
 
-Current workflow version: [v0.2.0](workflow-v0.2.md).
+Current workflow version: [v3.0.0](workflow-v3.0.md).
 
 This is the suggested growth plan for this awesome list.
 
