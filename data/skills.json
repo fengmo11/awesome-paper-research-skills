@@ -16,7 +16,16 @@
       "data/skills.json",
       "data/publication_stage_repos.json"
     ],
-    "stages": ["idea-discovery", "literature-search", "citation-management", "experiments-reproducibility", "analysis-figures", "writing-drafting", "review-revision", "formatting-submission"],
+    "stages": [
+      "idea-discovery",
+      "literature-search",
+      "citation-management",
+      "experiments-reproducibility",
+      "analysis-figures",
+      "writing-drafting",
+      "review-revision",
+      "formatting-submission"
+    ],
     "takeaways": [
       "Bilingual paper-skill index for the full publication workflow.",
       "Homepage highlights top repositories while data files keep the full 400-repository map.",
@@ -37,7 +46,15 @@
       "21-research-ideation",
       "22-agent-native-research-artifact"
     ],
-    "stages": ["idea-discovery", "literature", "experiments", "paper-writing", "latex", "citation-check", "plotting"],
+    "stages": [
+      "idea-discovery",
+      "literature",
+      "experiments",
+      "paper-writing",
+      "latex",
+      "citation-check",
+      "plotting"
+    ],
     "takeaways": [
       "Use category-level skill libraries rather than one huge prompt.",
       "Separate ideation, autoresearch, and ML paper writing.",
@@ -58,7 +75,14 @@
       "academic-pipeline",
       "deep-research"
     ],
-    "stages": ["literature", "paper-writing", "review", "revision", "format-convert", "citation-check"],
+    "stages": [
+      "literature",
+      "paper-writing",
+      "review",
+      "revision",
+      "format-convert",
+      "citation-check"
+    ],
     "takeaways": [
       "12-agent paper writing architecture is a strong reusable pattern.",
       "Reviewer and revision skills should be separate from drafting.",
@@ -76,7 +100,15 @@
     "paper_relevant_paths": [
       "skills/research/research-paper-writing/SKILL.md"
     ],
-    "stages": ["experiment-design", "experiment-execution", "analysis", "paper-writing", "review", "latex", "submission"],
+    "stages": [
+      "experiment-design",
+      "experiment-execution",
+      "analysis",
+      "paper-writing",
+      "review",
+      "latex",
+      "submission"
+    ],
     "takeaways": [
       "A single SKILL.md can still be deep if it has phases, dependencies, and tool usage.",
       "Experiment execution and paper writing should be treated as an iterative loop.",
@@ -100,7 +132,16 @@
       "skills/citation-verification-gate",
       "skills/submission-qa-gate"
     ],
-    "stages": ["planning", "literature", "experiment-report", "claim-evidence", "citation-check", "latex", "revision", "submission-qa"],
+    "stages": [
+      "planning",
+      "literature",
+      "experiment-report",
+      "claim-evidence",
+      "citation-check",
+      "latex",
+      "revision",
+      "submission-qa"
+    ],
     "takeaways": [
       "Paper skills should be auditable and artifact-first.",
       "Claim-evidence maps and citation gates are high-value modules.",
@@ -118,7 +159,14 @@
     "paper_relevant_paths": [
       "SKILL.md"
     ],
-    "stages": ["brainstorm", "draft-zero", "evaluate", "write", "compress", "figures"],
+    "stages": [
+      "brainstorm",
+      "draft-zero",
+      "evaluate",
+      "write",
+      "compress",
+      "figures"
+    ],
     "takeaways": [
       "Editorial principles are useful when the user already has research material.",
       "Figure synthesis and critique can be part of a writing skill.",
@@ -136,7 +184,11 @@
     "paper_relevant_paths": [
       "SKILL.md"
     ],
-    "stages": ["imrad", "literature-management", "quality-checklists"],
+    "stages": [
+      "imrad",
+      "literature-management",
+      "quality-checklists"
+    ],
     "takeaways": [
       "IMRAD-specific skills are easier to apply than generic academic-writing prompts.",
       "Quality checklists make the skill more trustworthy.",

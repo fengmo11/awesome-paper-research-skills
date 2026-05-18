@@ -7,7 +7,18 @@
     "observed_forks": "new",
     "date_checked": "2026-05-16",
     "best_for": "Bilingual paper research skill index across the publication workflow",
-    "stages": ["ideas", "literature", "citations", "experiments", "analysis", "writing", "review", "latex", "docx", "submission"],
+    "stages": [
+      "ideas",
+      "literature",
+      "citations",
+      "experiments",
+      "analysis",
+      "writing",
+      "review",
+      "latex",
+      "docx",
+      "submission"
+    ],
     "notes": "Maintainer-owned index repository with top-stage README tables, Chinese README, skill catalog, and 400-repository publication-flow dataset."
   },
   {
@@ -18,7 +29,14 @@
     "observed_forks": "24.2k",
     "date_checked": "2026-05-16",
     "best_for": "Research paper writing skill inside a large agent framework",
-    "stages": ["writing", "experiments", "statistics", "citations", "latex", "revision"],
+    "stages": [
+      "writing",
+      "experiments",
+      "statistics",
+      "citations",
+      "latex",
+      "revision"
+    ],
     "notes": "Dedicated research-paper-writing SKILL.md for ML/AI venues."
   },
   {
@@ -29,7 +47,12 @@
     "observed_forks": "1.9k",
     "date_checked": "2026-05-16",
     "best_for": "Automated scientific discovery loop",
-    "stages": ["ideas", "experiments", "writing", "review"],
+    "stages": [
+      "ideas",
+      "experiments",
+      "writing",
+      "review"
+    ],
     "notes": "Canonical reference for ideation, experiment, paper, and review loop."
   },
   {
@@ -40,7 +63,16 @@
     "observed_forks": "1.4k",
     "date_checked": "2026-05-16",
     "best_for": "End-to-end idea-to-paper automation",
-    "stages": ["ideas", "literature", "experiments", "statistics", "writing", "bibtex", "latex", "review"],
+    "stages": [
+      "ideas",
+      "literature",
+      "experiments",
+      "statistics",
+      "writing",
+      "bibtex",
+      "latex",
+      "review"
+    ],
     "notes": "Strong reference architecture for human-in-the-loop research automation."
   },
   {
@@ -51,7 +83,10 @@
     "observed_forks": "71",
     "date_checked": "2026-05-16",
     "best_for": "Academic paper search and download through MCP",
-    "stages": ["literature", "paper-retrieval"],
+    "stages": [
+      "literature",
+      "paper-retrieval"
+    ],
     "notes": "Useful building block for Codex/Claude/GPT research workflows."
   },
   {
@@ -62,7 +97,14 @@
     "observed_forks": "24",
     "date_checked": "2026-05-16",
     "best_for": "Long-form thesis and research draft generation",
-    "stages": ["literature", "writing", "citation-verification", "pdf", "docx", "latex"],
+    "stages": [
+      "literature",
+      "writing",
+      "citation-verification",
+      "pdf",
+      "docx",
+      "latex"
+    ],
     "notes": "19 specialized agents with verified citations and multi-format export."
   },
   {
@@ -73,7 +115,9 @@
     "observed_forks": "18",
     "date_checked": "2026-05-16",
     "best_for": "AI-assisted meta-review",
-    "stages": ["review"],
+    "stages": [
+      "review"
+    ],
     "notes": "Focused review utility for submitted papers."
   },
   {
@@ -84,7 +128,9 @@
     "observed_forks": "4",
     "date_checked": "2026-05-16",
     "best_for": "Reading list on AI Scientist and Robot Scientist literature",
-    "stages": ["literature"],
+    "stages": [
+      "literature"
+    ],
     "notes": "Good source for related papers and field framing."
   },
   {
@@ -95,7 +141,11 @@
     "observed_forks": "9",
     "date_checked": "2026-05-16",
     "best_for": "Local literature database using OpenAlex",
-    "stages": ["literature", "bibtex", "related-work"],
+    "stages": [
+      "literature",
+      "bibtex",
+      "related-work"
+    ],
     "notes": "Useful for local paper memory and related-work workflows."
   },
   {
@@ -106,7 +156,14 @@
     "observed_forks": "92",
     "date_checked": "2026-05-16",
     "best_for": "Backward-traceable research from raw data to paper",
-    "stages": ["ideas", "literature", "analysis", "writing", "traceability", "review"],
+    "stages": [
+      "ideas",
+      "literature",
+      "analysis",
+      "writing",
+      "traceability",
+      "review"
+    ],
     "notes": "Strong emphasis on traceability and human-verifiable manuscripts."
   },
   {
@@ -117,7 +174,13 @@
     "observed_forks": "dynamic",
     "date_checked": "2026-05-16",
     "best_for": "Long-horizon autonomous scientific discovery",
-    "stages": ["ideas", "deep-research", "experiments", "memory", "reproduction"],
+    "stages": [
+      "ideas",
+      "deep-research",
+      "experiments",
+      "memory",
+      "reproduction"
+    ],
     "notes": "Emerging full-cycle framework with recent 2026 updates."
   },
   {
@@ -128,7 +191,12 @@
     "observed_forks": "dynamic",
     "date_checked": "2026-05-16",
     "best_for": "Hypothesis generation, review, ranking, and evolution",
-    "stages": ["ideas", "literature-grounding", "experiment-design", "review"],
+    "stages": [
+      "ideas",
+      "literature-grounding",
+      "experiment-design",
+      "review"
+    ],
     "notes": "Open adaptation of AI co-scientist style workflows."
   },
   {
@@ -139,7 +207,12 @@
     "observed_forks": "dynamic",
     "date_checked": "2026-05-16",
     "best_for": "Self-hosted research assistant with LaTeX and Overleaf workflows",
-    "stages": ["literature", "latex", "project-management", "writing"],
+    "stages": [
+      "literature",
+      "latex",
+      "project-management",
+      "writing"
+    ],
     "notes": "Includes channel integrations and paper project management."
   },
   {
@@ -150,7 +223,12 @@
     "observed_forks": "dynamic",
     "date_checked": "2026-05-16",
     "best_for": "Self-updating arXiv tracker and trend monitor",
-    "stages": ["literature", "summaries", "trends", "github-actions"],
+    "stages": [
+      "literature",
+      "summaries",
+      "trends",
+      "github-actions"
+    ],
     "notes": "Good inspiration for an auto-updating awesome list."
   },
   {
@@ -161,7 +239,13 @@
     "observed_forks": "dynamic",
     "date_checked": "2026-05-16",
     "best_for": "Citation-backed research reports with credibility scoring",
-    "stages": ["planning", "web-search", "synthesis", "report-writing", "credibility-scoring"],
+    "stages": [
+      "planning",
+      "web-search",
+      "synthesis",
+      "report-writing",
+      "credibility-scoring"
+    ],
     "notes": "Good reference for report quality scoring."
   },
   {
@@ -172,7 +256,11 @@
     "observed_forks": "dynamic",
     "date_checked": "2026-05-16",
     "best_for": "Citation generation and LaTeX cite insertion",
-    "stages": ["citation", "bibtex", "latex"],
+    "stages": [
+      "citation",
+      "bibtex",
+      "latex"
+    ],
     "notes": "Citation assistant building block."
   },
   {
@@ -183,7 +271,10 @@
     "observed_forks": "dynamic",
     "date_checked": "2026-05-16",
     "best_for": "Reference validation",
-    "stages": ["citation-verification", "bibliography-check"],
+    "stages": [
+      "citation-verification",
+      "bibliography-check"
+    ],
     "notes": "Useful as a pre-submission reference QA gate."
   }
 ]
