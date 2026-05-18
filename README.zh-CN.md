@@ -7,15 +7,17 @@
 这个仓库适合研究生、科研工作者、AI agent 构建者和想搭建论文工作流的人使用。项目名、仓库名、链接、Stars/Forks 和编程语言保留原始英文，说明与阅读指引尽量使用中文。
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Version](https://img.shields.io/badge/version-v3.0.0-blue)
+![Version](https://img.shields.io/badge/version-v3.1.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
 
 ## 当前版本
 
-当前工作流版本：**v3.0.0**。
+当前工作流版本：**v3.1.0**。
 
 - [Paper Research Workflow v3.0.0](docs/workflow-v3.0.md)
+- [Skill Roadmap](docs/skill-roadmap.md)
+- [Installable Skill Index](skills/INDEX.md)
 - [Nature Skills Deep Dive](docs/nature-skills-deep-dive.md)
 - [Paper Research Workflow v0.2.0](docs/workflow-v0.2.md)
 - [Frontier Review - 2026-05-17](docs/frontier-review-2026-05-17.md)

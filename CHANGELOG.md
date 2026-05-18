@@ -1,5 +1,17 @@
 # Changelog
 
+## v3.1.0 - 2026-05-18
+
+### Added
+
+- Added six installable paper workflow skill skeletons under `skills/`.
+- Added focused references for language polishing, figure planning, citation auditing, data availability, reviewer response, and submission checks.
+- Added `skills/INDEX.md` and `docs/skill-roadmap.md` to make the skill split easier to understand and maintain.
+
+### Changed
+
+- Updated `workflow-v3.0.md` to point to the new skill folders and mark the v3.0 acceptance checklist as implemented.
+
 ## v3.0.0 - 2026-05-18
 
 ### Added

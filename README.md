@@ -11,15 +11,17 @@ study the best public `SKILL.md` packs and assemble a serious paper pipeline
 without opening fifty tabs.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Version](https://img.shields.io/badge/version-v3.0.0-blue)
+![Version](https://img.shields.io/badge/version-v3.1.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
 
 ## Current Version
 
-Current workflow version: **v3.0.0**.
+Current workflow version: **v3.1.0**.
 
 - [Paper Research Workflow v3.0.0](docs/workflow-v3.0.md)
+- [Skill Roadmap](docs/skill-roadmap.md)
+- [Installable Skill Index](skills/INDEX.md)
 - [Nature Skills Deep Dive](docs/nature-skills-deep-dive.md)
 - [Paper Research Workflow v0.2.0](docs/workflow-v0.2.md)
 - [Frontier Review - 2026-05-17](docs/frontier-review-2026-05-17.md)

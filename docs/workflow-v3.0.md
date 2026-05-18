@@ -203,6 +203,7 @@ Every reviewer comment must have:
 
 ```text
 skills/
+  INDEX.md
   paper-language-polishing/
   paper-figure-contract/
   paper-citation-audit/
@@ -211,21 +212,20 @@ skills/
   paper-submission-gate/
 ```
 
-Each folder should eventually contain:
+Each folder currently contains:
 
 ```text
-README.md
 SKILL.md
 references/
-examples/
-tests/
 ```
+
+See [Skill Roadmap](skill-roadmap.md) and [Skill Index](../skills/INDEX.md).
 
 ## v3.0 Acceptance Checklist
 
-- [ ] README points to the current workflow version.
-- [ ] A deep-dive reference note explains the source inspiration.
-- [ ] Claim, figure, and reviewer-response templates exist.
-- [ ] Citation and data gates are explicit.
-- [ ] Future skills have a folder structure plan.
-- [ ] The workflow warns against fabricated claims, citations, data, and reviewer promises.
+- [x] README points to the current workflow version.
+- [x] A deep-dive reference note explains the source inspiration.
+- [x] Claim, figure, and reviewer-response templates exist.
+- [x] Citation and data gates are explicit.
+- [x] Core skill folders exist with `SKILL.md` and focused references.
+- [x] The workflow warns against fabricated claims, citations, data, and reviewer promises.

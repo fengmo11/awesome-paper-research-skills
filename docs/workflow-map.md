@@ -1,6 +1,6 @@
 # Workflow Map
 
-Current recommended version: [v3.0.0](workflow-v3.0.md).
+Current recommended version: [v3.1.0](workflow-v3.0.md), with installable skills listed in [Skill Roadmap](skill-roadmap.md).
 
 ## End-To-End Pipeline
 
