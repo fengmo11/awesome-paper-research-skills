@@ -11,15 +11,18 @@ study the best public `SKILL.md` packs and assemble a serious paper pipeline
 without opening fifty tabs.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Version](https://img.shields.io/badge/version-v3.2.1-blue)
+![Version](https://img.shields.io/badge/version-v3.2.2-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
 
 ## Current Version
 
-Current workflow version: **v3.2.1**.
+Current workflow version: **v3.2.2**.
 
-- [Paper Research Workflow v3.2.1](docs/workflow-v3.2.md)
+- [Paper Research Workflow v3.2.2](docs/workflow-v3.2.md)
+- [Machine-Readable Publication Pipeline](pipeline/paper-publication-pipeline.json)
+- [Example Pipeline Run Record](examples/pipeline-run-record.json)
+- [Skill Package Architecture](docs/skill-package-architecture.md)
 - [Frontier Update - 2026-06-04](docs/frontier-update-2026-06-04.md)
 - [Skill Roadmap](docs/skill-roadmap.md)
 - [Installable Skill Index](skills/INDEX.md)
@@ -51,6 +54,11 @@ and flag prompt-injection or data-exfiltration risks before adoption.
 The language layer also includes an AI-voice cleanup pass: reduce decorative
 quotation marks, em dashes, parentheses, adverb overuse, generic transitions,
 and inflated novelty language before reviewer simulation.
+
+The repository now has a machine-readable pipeline layer in `pipeline/` plus
+example run records in `examples/`, so the workflow is not only prose: scripts
+and agents can inspect expected stages, gates, artifacts, skill calls, and
+submission blockers.
 
 ## Quick Map
 

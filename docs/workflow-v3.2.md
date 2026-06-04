@@ -1,6 +1,6 @@
-# Paper Research Workflow v3.2.1
+# Paper Research Workflow v3.2.2
 
-Version: `3.2.1`
+Version: `3.2.2`
 
 Date: `2026-06-04`
 
@@ -8,6 +8,10 @@ This version keeps the strict v3.0 Nature-inspired gates, then adds a current
 frontier layer: Agent Skills compatibility, `gh skill` installability, skill
 provenance, safety scanning, Zotero/MCP-aware literature access, and durable
 research-state capture.
+
+The machine-readable version of this workflow lives at
+[`pipeline/paper-publication-pipeline.json`](../pipeline/paper-publication-pipeline.json).
+Example structured inputs and run records live in [`examples/`](../examples/).
 
 ## v3.2 Pipeline
 

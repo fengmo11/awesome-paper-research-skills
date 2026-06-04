@@ -1,5 +1,17 @@
 # Changelog
 
+## v3.2.2 - 2026-06-04
+
+### Added
+
+- Added `pipeline/paper-publication-pipeline.json`, a machine-readable end-to-end publication pipeline with stages, gates, artifacts, skills, and templates.
+- Added `examples/mini-paper-intake.json` and `examples/pipeline-run-record.json` so readers can see the expected structured inputs and run records.
+- Added `scripts/validate_pipeline.py` to check that pipeline stages, skill paths, template paths, and example references stay consistent.
+
+### Changed
+
+- Updated README and workflow docs to point to the machine-readable pipeline layer.
+
 ## v3.2.1 - 2026-06-04
 
 ### Added

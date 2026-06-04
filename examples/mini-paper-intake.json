@@ -1,0 +1,19 @@
+{
+  "topic": "AI-assisted citation verification for academic manuscripts",
+  "target_venue": "general academic journal",
+  "paper_type": "methods or workflow paper",
+  "language": "English with Chinese author notes",
+  "available_inputs": {
+    "seed_papers": [],
+    "draft_sections": [],
+    "figures": [],
+    "bibtex": null,
+    "zotero_collection": null
+  },
+  "constraints": {
+    "human_review_required": true,
+    "no_fabricated_citations": true,
+    "ai_voice_cleanup_required": true,
+    "five_reviewer_panel_required": true
+  }
+}

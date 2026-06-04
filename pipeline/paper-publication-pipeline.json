@@ -1,0 +1,122 @@
+{
+  "name": "paper-publication-pipeline",
+  "version": "3.2.2",
+  "description": "Machine-readable pipeline for AI-assisted paper research, writing, five-reviewer revision, and submission readiness.",
+  "entrypoint": "frontier-radar",
+  "quality_policy": {
+    "cannot_skip": [
+      "citation-data-provenance-audit",
+      "five-reviewer-panel",
+      "re-review-verification",
+      "submission-gate"
+    ],
+    "submission_requires": [
+      "all_high_risk_review_comments_resolved_or_disclosed",
+      "no_metadata_only_citations_for_core_claims",
+      "figures_have_source_data",
+      "ai_voice_cleanup_completed",
+      "data_and_code_availability_checked"
+    ]
+  },
+  "stages": [
+    {
+      "id": "frontier-radar",
+      "order": 0,
+      "skill": "skills/paper-frontier-radar/SKILL.md",
+      "outputs": ["frontier_ledger", "watchlist", "adoption_backlog"],
+      "gate": "Recent sources are classified as verified, metadata-only, stale, conflicting, or needs-human-review."
+    },
+    {
+      "id": "intake-venue-target",
+      "order": 1,
+      "outputs": ["paper_brief", "venue_profile"],
+      "gate": "Topic, target venue, audience, data, ethics, and AI-use constraints are explicit."
+    },
+    {
+      "id": "research-question-novelty",
+      "order": 2,
+      "outputs": ["research_question_brief", "novelty_boundary"],
+      "gate": "The proposed contribution is falsifiable and scoped to a field bottleneck."
+    },
+    {
+      "id": "literature-citation-search",
+      "order": 3,
+      "outputs": ["search_log", "bibtex_candidates", "related_work_map"],
+      "gate": "Search concepts, sources, local-library hits, and candidate references are recorded."
+    },
+    {
+      "id": "claim-evidence-boundary",
+      "order": 4,
+      "skill": "skills/paper-citation-audit/SKILL.md",
+      "templates": ["templates/claim-evidence-boundary.md"],
+      "outputs": ["claim_evidence_boundary_table"],
+      "gate": "Core claims have evidence, support grade, citation status, and boundary."
+    },
+    {
+      "id": "method-experiment-plan",
+      "order": 5,
+      "outputs": ["experiment_plan", "baseline_matrix", "metric_plan"],
+      "gate": "Baselines, datasets, metrics, failure cases, and reproducibility choices are defined."
+    },
+    {
+      "id": "execution-ledger",
+      "order": 6,
+      "outputs": ["result_ledger", "error_log", "metric_table"],
+      "gate": "Commands, configs, outputs, metrics, and failed routes are auditable."
+    },
+    {
+      "id": "figure-contract",
+      "order": 7,
+      "skill": "skills/paper-figure-contract/SKILL.md",
+      "templates": ["templates/figure-contract.md"],
+      "outputs": ["figure_contract", "caption_plan"],
+      "gate": "Every panel has a scientific question, source data, statistic, and caption claim."
+    },
+    {
+      "id": "language-section-drafting",
+      "order": 8,
+      "skill": "skills/paper-language-polishing/SKILL.md",
+      "outputs": ["draft_sections", "language_logic_audit", "ai_voice_cleanup_log"],
+      "gate": "Sections follow argument movement, evidence anchors, hedging, and AI-voice cleanup."
+    },
+    {
+      "id": "citation-data-provenance-audit",
+      "order": 9,
+      "skills": [
+        "skills/paper-citation-audit/SKILL.md",
+        "skills/paper-data-availability/SKILL.md"
+      ],
+      "outputs": ["integrity_report", "availability_statement", "skill_provenance_notes"],
+      "gate": "References, data/code availability, and adopted skill provenance are checked."
+    },
+    {
+      "id": "five-reviewer-panel",
+      "order": 10,
+      "skill": "skills/paper-five-reviewer-panel/SKILL.md",
+      "outputs": ["five_reviews", "editorial_synthesis", "major_minor_revision_map"],
+      "gate": "EIC, methods, domain, figure/data, and Devil's Advocate reports are complete."
+    },
+    {
+      "id": "author-revision-response",
+      "order": 11,
+      "skill": "skills/paper-review-response/SKILL.md",
+      "templates": ["templates/reviewer-response-map.md"],
+      "outputs": ["response_map", "revised_draft", "response_letter"],
+      "gate": "Every reviewer comment has an ID, action, evidence, and manuscript location."
+    },
+    {
+      "id": "re-review-verification",
+      "order": 12,
+      "skill": "skills/paper-five-reviewer-panel/SKILL.md",
+      "outputs": ["re_review_checklist", "residual_risk_register"],
+      "gate": "High-risk comments are resolved, deferred with reason, or acknowledged as limitations."
+    },
+    {
+      "id": "submission-gate",
+      "order": 13,
+      "skill": "skills/paper-submission-gate/SKILL.md",
+      "outputs": ["final_package_check", "submission_blockers", "export_manifest"],
+      "gate": "Manuscript, references, figures, supplements, AI-use notes, and venue files align."
+    }
+  ]
+}

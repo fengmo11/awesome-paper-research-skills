@@ -1,0 +1,37 @@
+{
+  "pipeline": "paper-publication-pipeline",
+  "pipeline_version": "3.2.2",
+  "run_id": "example-run-001",
+  "status": "in_progress",
+  "current_stage": "language-section-drafting",
+  "completed_stages": [
+    "frontier-radar",
+    "intake-venue-target",
+    "research-question-novelty",
+    "literature-citation-search",
+    "claim-evidence-boundary",
+    "method-experiment-plan",
+    "execution-ledger",
+    "figure-contract"
+  ],
+  "artifacts": {
+    "frontier_ledger": "artifacts/frontier-ledger.md",
+    "paper_brief": "artifacts/paper-brief.md",
+    "claim_evidence_boundary_table": "artifacts/claim-evidence-boundary.md",
+    "figure_contract": "artifacts/figure-contract.md"
+  },
+  "blockers": [
+    {
+      "stage": "language-section-drafting",
+      "type": "author_input",
+      "message": "Confirm whether the Discussion should emphasize method utility or field-specific findings."
+    }
+  ],
+  "next_required_gates": [
+    "citation-data-provenance-audit",
+    "five-reviewer-panel",
+    "author-revision-response",
+    "re-review-verification",
+    "submission-gate"
+  ]
+}
