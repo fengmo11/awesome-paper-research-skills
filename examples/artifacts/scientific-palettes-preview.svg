@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="808" viewBox="0 0 980 808">
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="1464" viewBox="0 0 980 1464">
 <rect width="100%" height="100%" fill="#ffffff"/>
 <text x="28" y="36" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" fill="#111111">Scientific palette preview</text>
 <text x="28" y="72" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">okabe_ito_categorical</text>
@@ -55,110 +55,256 @@
 <text x="472" y="314" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#7F7F7F</text>
 <rect x="546" y="268" width="34" height="34" rx="2" fill="#BCBD22" stroke="#222222" stroke-width="0.5"/>
 <text x="546" y="314" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#BCBD22</text>
-<text x="28" y="318" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">cell_mechanism</text>
-<text x="28" y="338" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - Biology, pathway, mechanism, cell-state, and schematic figures.</text>
-<rect x="28" y="350" width="34" height="34" rx="2" fill="#2E5EAA" stroke="#222222" stroke-width="0.5"/>
-<text x="28" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2E5EAA</text>
-<rect x="102" y="350" width="34" height="34" rx="2" fill="#00A087" stroke="#222222" stroke-width="0.5"/>
-<text x="102" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#00A087</text>
-<rect x="176" y="350" width="34" height="34" rx="2" fill="#E64B35" stroke="#222222" stroke-width="0.5"/>
-<text x="176" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#E64B35</text>
-<rect x="250" y="350" width="34" height="34" rx="2" fill="#F39B7F" stroke="#222222" stroke-width="0.5"/>
-<text x="250" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F39B7F</text>
-<rect x="324" y="350" width="34" height="34" rx="2" fill="#7E6148" stroke="#222222" stroke-width="0.5"/>
-<text x="324" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#7E6148</text>
-<rect x="398" y="350" width="34" height="34" rx="2" fill="#3C5488" stroke="#222222" stroke-width="0.5"/>
-<text x="398" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#3C5488</text>
-<rect x="472" y="350" width="34" height="34" rx="2" fill="#8491B4" stroke="#222222" stroke-width="0.5"/>
-<text x="472" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#8491B4</text>
-<rect x="546" y="350" width="34" height="34" rx="2" fill="#4DBBD5" stroke="#222222" stroke-width="0.5"/>
-<text x="546" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#4DBBD5</text>
-<text x="28" y="400" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">clinical_neutral_accent</text>
-<text x="28" y="420" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - Clinical cohorts, demographic comparisons, survival plots, and restrained medical figures.</text>
-<rect x="28" y="432" width="34" height="34" rx="2" fill="#4D4D4D" stroke="#222222" stroke-width="0.5"/>
-<text x="28" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#4D4D4D</text>
-<rect x="102" y="432" width="34" height="34" rx="2" fill="#7A7A7A" stroke="#222222" stroke-width="0.5"/>
-<text x="102" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#7A7A7A</text>
-<rect x="176" y="432" width="34" height="34" rx="2" fill="#BDBDBD" stroke="#222222" stroke-width="0.5"/>
-<text x="176" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#BDBDBD</text>
-<rect x="250" y="432" width="34" height="34" rx="2" fill="#2166AC" stroke="#222222" stroke-width="0.5"/>
-<text x="250" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2166AC</text>
-<rect x="324" y="432" width="34" height="34" rx="2" fill="#67A9CF" stroke="#222222" stroke-width="0.5"/>
-<text x="324" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#67A9CF</text>
-<rect x="398" y="432" width="34" height="34" rx="2" fill="#D6604D" stroke="#222222" stroke-width="0.5"/>
-<text x="398" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#D6604D</text>
-<rect x="472" y="432" width="34" height="34" rx="2" fill="#F4A582" stroke="#222222" stroke-width="0.5"/>
-<text x="472" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F4A582</text>
-<rect x="546" y="432" width="34" height="34" rx="2" fill="#1B7837" stroke="#222222" stroke-width="0.5"/>
-<text x="546" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#1B7837</text>
-<text x="28" y="482" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">earth_continuous</text>
-<text x="28" y="502" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">sequential - Continuous environmental, spatial, intensity, or model-output data.</text>
-<rect x="28" y="514" width="34" height="34" rx="2" fill="#0D0887" stroke="#222222" stroke-width="0.5"/>
-<text x="28" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#0D0887</text>
-<rect x="102" y="514" width="34" height="34" rx="2" fill="#5B02A3" stroke="#222222" stroke-width="0.5"/>
-<text x="102" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#5B02A3</text>
-<rect x="176" y="514" width="34" height="34" rx="2" fill="#9A179B" stroke="#222222" stroke-width="0.5"/>
-<text x="176" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#9A179B</text>
-<rect x="250" y="514" width="34" height="34" rx="2" fill="#CB4679" stroke="#222222" stroke-width="0.5"/>
-<text x="250" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#CB4679</text>
-<rect x="324" y="514" width="34" height="34" rx="2" fill="#ED7953" stroke="#222222" stroke-width="0.5"/>
-<text x="324" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#ED7953</text>
-<rect x="398" y="514" width="34" height="34" rx="2" fill="#FBB32F" stroke="#222222" stroke-width="0.5"/>
-<text x="398" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#FBB32F</text>
-<rect x="472" y="514" width="34" height="34" rx="2" fill="#F0F921" stroke="#222222" stroke-width="0.5"/>
-<text x="472" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F0F921</text>
-<text x="28" y="564" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">cividis_accessible_continuous</text>
-<text x="28" y="584" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">sequential - Continuous data that must remain readable for color-vision-deficient readers.</text>
-<rect x="28" y="596" width="34" height="34" rx="2" fill="#00204C" stroke="#222222" stroke-width="0.5"/>
-<text x="28" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#00204C</text>
-<rect x="102" y="596" width="34" height="34" rx="2" fill="#123570" stroke="#222222" stroke-width="0.5"/>
-<text x="102" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#123570</text>
-<rect x="176" y="596" width="34" height="34" rx="2" fill="#3B496C" stroke="#222222" stroke-width="0.5"/>
-<text x="176" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#3B496C</text>
-<rect x="250" y="596" width="34" height="34" rx="2" fill="#575D6D" stroke="#222222" stroke-width="0.5"/>
-<text x="250" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#575D6D</text>
-<rect x="324" y="596" width="34" height="34" rx="2" fill="#707173" stroke="#222222" stroke-width="0.5"/>
-<text x="324" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#707173</text>
-<rect x="398" y="596" width="34" height="34" rx="2" fill="#8A8678" stroke="#222222" stroke-width="0.5"/>
-<text x="398" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#8A8678</text>
-<rect x="472" y="596" width="34" height="34" rx="2" fill="#A59C74" stroke="#222222" stroke-width="0.5"/>
-<text x="472" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#A59C74</text>
-<rect x="546" y="596" width="34" height="34" rx="2" fill="#C1B36D" stroke="#222222" stroke-width="0.5"/>
-<text x="546" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#C1B36D</text>
-<rect x="620" y="596" width="34" height="34" rx="2" fill="#DEC95F" stroke="#222222" stroke-width="0.5"/>
-<text x="620" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#DEC95F</text>
-<rect x="694" y="596" width="34" height="34" rx="2" fill="#FFE945" stroke="#222222" stroke-width="0.5"/>
-<text x="694" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#FFE945</text>
-<text x="28" y="646" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">blue_orange_diverging</text>
-<text x="28" y="666" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">diverging - Effect direction, residuals, enrichment/depletion, and signed change.</text>
-<rect x="28" y="678" width="34" height="34" rx="2" fill="#2166AC" stroke="#222222" stroke-width="0.5"/>
-<text x="28" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2166AC</text>
-<rect x="102" y="678" width="34" height="34" rx="2" fill="#4393C3" stroke="#222222" stroke-width="0.5"/>
-<text x="102" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#4393C3</text>
-<rect x="176" y="678" width="34" height="34" rx="2" fill="#92C5DE" stroke="#222222" stroke-width="0.5"/>
-<text x="176" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#92C5DE</text>
-<rect x="250" y="678" width="34" height="34" rx="2" fill="#F7F7F7" stroke="#222222" stroke-width="0.5"/>
-<text x="250" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F7F7F7</text>
-<rect x="324" y="678" width="34" height="34" rx="2" fill="#F4A582" stroke="#222222" stroke-width="0.5"/>
-<text x="324" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F4A582</text>
-<rect x="398" y="678" width="34" height="34" rx="2" fill="#D6604D" stroke="#222222" stroke-width="0.5"/>
-<text x="398" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#D6604D</text>
-<rect x="472" y="678" width="34" height="34" rx="2" fill="#B2182B" stroke="#222222" stroke-width="0.5"/>
-<text x="472" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#B2182B</text>
-<text x="28" y="728" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">grayscale_with_accent</text>
-<text x="28" y="748" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - Print-safe figures, methods diagrams, and figures where one finding needs emphasis.</text>
-<rect x="28" y="760" width="34" height="34" rx="2" fill="#111111" stroke="#222222" stroke-width="0.5"/>
-<text x="28" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#111111</text>
-<rect x="102" y="760" width="34" height="34" rx="2" fill="#4D4D4D" stroke="#222222" stroke-width="0.5"/>
-<text x="102" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#4D4D4D</text>
-<rect x="176" y="760" width="34" height="34" rx="2" fill="#7A7A7A" stroke="#222222" stroke-width="0.5"/>
-<text x="176" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#7A7A7A</text>
-<rect x="250" y="760" width="34" height="34" rx="2" fill="#BDBDBD" stroke="#222222" stroke-width="0.5"/>
-<text x="250" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#BDBDBD</text>
-<rect x="324" y="760" width="34" height="34" rx="2" fill="#E0E0E0" stroke="#222222" stroke-width="0.5"/>
-<text x="324" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#E0E0E0</text>
-<rect x="398" y="760" width="34" height="34" rx="2" fill="#0072B2" stroke="#222222" stroke-width="0.5"/>
-<text x="398" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#0072B2</text>
-<rect x="472" y="760" width="34" height="34" rx="2" fill="#D55E00" stroke="#222222" stroke-width="0.5"/>
-<text x="472" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#D55E00</text>
+<text x="28" y="318" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">cs_ml_algorithm_comparison</text>
+<text x="28" y="338" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - Computer science and machine learning papers: method comparisons, ablations, benchmarks, and line plots.</text>
+<rect x="28" y="350" width="34" height="34" rx="2" fill="#1B4F72" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#1B4F72</text>
+<rect x="102" y="350" width="34" height="34" rx="2" fill="#D35400" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#D35400</text>
+<rect x="176" y="350" width="34" height="34" rx="2" fill="#148F77" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#148F77</text>
+<rect x="250" y="350" width="34" height="34" rx="2" fill="#7D3C98" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#7D3C98</text>
+<rect x="324" y="350" width="34" height="34" rx="2" fill="#566573" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#566573</text>
+<rect x="398" y="350" width="34" height="34" rx="2" fill="#C0392B" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#C0392B</text>
+<rect x="472" y="350" width="34" height="34" rx="2" fill="#2E86C1" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2E86C1</text>
+<rect x="546" y="350" width="34" height="34" rx="2" fill="#B7950B" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="396" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#B7950B</text>
+<text x="28" y="400" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">ieee_grayscale_markers</text>
+<text x="28" y="420" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - IEEE-style two-column papers where figures must remain readable in grayscale print.</text>
+<rect x="28" y="432" width="34" height="34" rx="2" fill="#111111" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#111111</text>
+<rect x="102" y="432" width="34" height="34" rx="2" fill="#4D4D4D" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#4D4D4D</text>
+<rect x="176" y="432" width="34" height="34" rx="2" fill="#7F7F7F" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#7F7F7F</text>
+<rect x="250" y="432" width="34" height="34" rx="2" fill="#BDBDBD" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#BDBDBD</text>
+<rect x="324" y="432" width="34" height="34" rx="2" fill="#005AB5" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#005AB5</text>
+<rect x="398" y="432" width="34" height="34" rx="2" fill="#DC3220" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#DC3220</text>
+<rect x="472" y="432" width="34" height="34" rx="2" fill="#009E73" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#009E73</text>
+<rect x="546" y="432" width="34" height="34" rx="2" fill="#E69F00" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="478" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#E69F00</text>
+<text x="28" y="482" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">acm_interface_study</text>
+<text x="28" y="502" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - ACM/HCI/user-study papers: conditions, interface variants, task outcomes, and accessible figure descriptions.</text>
+<rect x="28" y="514" width="34" height="34" rx="2" fill="#2C3E50" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2C3E50</text>
+<rect x="102" y="514" width="34" height="34" rx="2" fill="#2980B9" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2980B9</text>
+<rect x="176" y="514" width="34" height="34" rx="2" fill="#E67E22" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#E67E22</text>
+<rect x="250" y="514" width="34" height="34" rx="2" fill="#27AE60" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#27AE60</text>
+<rect x="324" y="514" width="34" height="34" rx="2" fill="#8E44AD" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#8E44AD</text>
+<rect x="398" y="514" width="34" height="34" rx="2" fill="#C0392B" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#C0392B</text>
+<rect x="472" y="514" width="34" height="34" rx="2" fill="#95A5A6" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#95A5A6</text>
+<rect x="546" y="514" width="34" height="34" rx="2" fill="#F1C40F" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="560" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F1C40F</text>
+<text x="28" y="564" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">mechanical_stress_strain</text>
+<text x="28" y="584" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - Mechanical engineering plots: stress-strain curves, load-displacement curves, fatigue comparisons, and material tests.</text>
+<rect x="28" y="596" width="34" height="34" rx="2" fill="#111111" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#111111</text>
+<rect x="102" y="596" width="34" height="34" rx="2" fill="#666666" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#666666</text>
+<rect x="176" y="596" width="34" height="34" rx="2" fill="#005F73" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#005F73</text>
+<rect x="250" y="596" width="34" height="34" rx="2" fill="#CA6702" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#CA6702</text>
+<rect x="324" y="596" width="34" height="34" rx="2" fill="#0A9396" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#0A9396</text>
+<rect x="398" y="596" width="34" height="34" rx="2" fill="#9B2226" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#9B2226</text>
+<rect x="472" y="596" width="34" height="34" rx="2" fill="#94D2BD" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#94D2BD</text>
+<rect x="546" y="596" width="34" height="34" rx="2" fill="#E9D8A6" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="642" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#E9D8A6</text>
+<text x="28" y="646" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">robotics_control</text>
+<text x="28" y="666" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - Robotics, control, trajectory tracking, state estimation, and hardware experiment figures.</text>
+<rect x="28" y="678" width="34" height="34" rx="2" fill="#003F5C" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#003F5C</text>
+<rect x="102" y="678" width="34" height="34" rx="2" fill="#FFA600" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#FFA600</text>
+<rect x="176" y="678" width="34" height="34" rx="2" fill="#58508D" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#58508D</text>
+<rect x="250" y="678" width="34" height="34" rx="2" fill="#BC5090" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#BC5090</text>
+<rect x="324" y="678" width="34" height="34" rx="2" fill="#2F4B7C" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2F4B7C</text>
+<rect x="398" y="678" width="34" height="34" rx="2" fill="#A05195" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#A05195</text>
+<rect x="472" y="678" width="34" height="34" rx="2" fill="#665191" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#665191</text>
+<rect x="546" y="678" width="34" height="34" rx="2" fill="#D45087" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="724" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#D45087</text>
+<text x="28" y="728" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">manufacturing_quality</text>
+<text x="28" y="748" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - Manufacturing, process monitoring, tolerance, quality control, and defect classification figures.</text>
+<rect x="28" y="760" width="34" height="34" rx="2" fill="#264653" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#264653</text>
+<rect x="102" y="760" width="34" height="34" rx="2" fill="#2A9D8F" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2A9D8F</text>
+<rect x="176" y="760" width="34" height="34" rx="2" fill="#E9C46A" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#E9C46A</text>
+<rect x="250" y="760" width="34" height="34" rx="2" fill="#F4A261" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F4A261</text>
+<rect x="324" y="760" width="34" height="34" rx="2" fill="#E76F51" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#E76F51</text>
+<rect x="398" y="760" width="34" height="34" rx="2" fill="#6D6875" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#6D6875</text>
+<rect x="472" y="760" width="34" height="34" rx="2" fill="#A8DADC" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#A8DADC</text>
+<rect x="546" y="760" width="34" height="34" rx="2" fill="#457B9D" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="806" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#457B9D</text>
+<text x="28" y="810" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">thermal_cfd_sequential</text>
+<text x="28" y="830" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">sequential - Mechanical/thermal/CFD scalar fields: temperature, pressure, velocity magnitude, and stress intensity.</text>
+<rect x="28" y="842" width="34" height="34" rx="2" fill="#081D58" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="888" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#081D58</text>
+<rect x="102" y="842" width="34" height="34" rx="2" fill="#253494" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="888" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#253494</text>
+<rect x="176" y="842" width="34" height="34" rx="2" fill="#225EA8" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="888" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#225EA8</text>
+<rect x="250" y="842" width="34" height="34" rx="2" fill="#1D91C0" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="888" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#1D91C0</text>
+<rect x="324" y="842" width="34" height="34" rx="2" fill="#41B6C4" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="888" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#41B6C4</text>
+<rect x="398" y="842" width="34" height="34" rx="2" fill="#7FCDBB" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="888" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#7FCDBB</text>
+<rect x="472" y="842" width="34" height="34" rx="2" fill="#C7E9B4" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="888" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#C7E9B4</text>
+<rect x="546" y="842" width="34" height="34" rx="2" fill="#EDF8B1" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="888" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#EDF8B1</text>
+<rect x="620" y="842" width="34" height="34" rx="2" fill="#FFFFD9" stroke="#222222" stroke-width="0.5"/>
+<text x="620" y="888" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#FFFFD9</text>
+<text x="28" y="892" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">materials_phase_map</text>
+<text x="28" y="912" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">diverging - Materials, design space, phase maps, optimization landscapes, and signed performance deltas.</text>
+<rect x="28" y="924" width="34" height="34" rx="2" fill="#313695" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="970" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#313695</text>
+<rect x="102" y="924" width="34" height="34" rx="2" fill="#4575B4" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="970" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#4575B4</text>
+<rect x="176" y="924" width="34" height="34" rx="2" fill="#74ADD1" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="970" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#74ADD1</text>
+<rect x="250" y="924" width="34" height="34" rx="2" fill="#E0F3F8" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="970" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#E0F3F8</text>
+<rect x="324" y="924" width="34" height="34" rx="2" fill="#FFFFBF" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="970" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#FFFFBF</text>
+<rect x="398" y="924" width="34" height="34" rx="2" fill="#FEE090" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="970" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#FEE090</text>
+<rect x="472" y="924" width="34" height="34" rx="2" fill="#F46D43" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="970" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F46D43</text>
+<rect x="546" y="924" width="34" height="34" rx="2" fill="#A50026" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="970" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#A50026</text>
+<text x="28" y="974" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">cell_mechanism</text>
+<text x="28" y="994" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - Biology, pathway, mechanism, cell-state, and schematic figures.</text>
+<rect x="28" y="1006" width="34" height="34" rx="2" fill="#2E5EAA" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="1052" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2E5EAA</text>
+<rect x="102" y="1006" width="34" height="34" rx="2" fill="#00A087" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="1052" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#00A087</text>
+<rect x="176" y="1006" width="34" height="34" rx="2" fill="#E64B35" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="1052" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#E64B35</text>
+<rect x="250" y="1006" width="34" height="34" rx="2" fill="#F39B7F" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="1052" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F39B7F</text>
+<rect x="324" y="1006" width="34" height="34" rx="2" fill="#7E6148" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="1052" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#7E6148</text>
+<rect x="398" y="1006" width="34" height="34" rx="2" fill="#3C5488" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="1052" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#3C5488</text>
+<rect x="472" y="1006" width="34" height="34" rx="2" fill="#8491B4" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="1052" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#8491B4</text>
+<rect x="546" y="1006" width="34" height="34" rx="2" fill="#4DBBD5" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="1052" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#4DBBD5</text>
+<text x="28" y="1056" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">clinical_neutral_accent</text>
+<text x="28" y="1076" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - Clinical cohorts, demographic comparisons, survival plots, and restrained medical figures.</text>
+<rect x="28" y="1088" width="34" height="34" rx="2" fill="#4D4D4D" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#4D4D4D</text>
+<rect x="102" y="1088" width="34" height="34" rx="2" fill="#7A7A7A" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#7A7A7A</text>
+<rect x="176" y="1088" width="34" height="34" rx="2" fill="#BDBDBD" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#BDBDBD</text>
+<rect x="250" y="1088" width="34" height="34" rx="2" fill="#2166AC" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2166AC</text>
+<rect x="324" y="1088" width="34" height="34" rx="2" fill="#67A9CF" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#67A9CF</text>
+<rect x="398" y="1088" width="34" height="34" rx="2" fill="#D6604D" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#D6604D</text>
+<rect x="472" y="1088" width="34" height="34" rx="2" fill="#F4A582" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F4A582</text>
+<rect x="546" y="1088" width="34" height="34" rx="2" fill="#1B7837" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="1134" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#1B7837</text>
+<text x="28" y="1138" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">earth_continuous</text>
+<text x="28" y="1158" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">sequential - Continuous environmental, spatial, intensity, or model-output data.</text>
+<rect x="28" y="1170" width="34" height="34" rx="2" fill="#0D0887" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#0D0887</text>
+<rect x="102" y="1170" width="34" height="34" rx="2" fill="#5B02A3" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#5B02A3</text>
+<rect x="176" y="1170" width="34" height="34" rx="2" fill="#9A179B" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#9A179B</text>
+<rect x="250" y="1170" width="34" height="34" rx="2" fill="#CB4679" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#CB4679</text>
+<rect x="324" y="1170" width="34" height="34" rx="2" fill="#ED7953" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#ED7953</text>
+<rect x="398" y="1170" width="34" height="34" rx="2" fill="#FBB32F" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#FBB32F</text>
+<rect x="472" y="1170" width="34" height="34" rx="2" fill="#F0F921" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="1216" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F0F921</text>
+<text x="28" y="1220" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">cividis_accessible_continuous</text>
+<text x="28" y="1240" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">sequential - Continuous data that must remain readable for color-vision-deficient readers.</text>
+<rect x="28" y="1252" width="34" height="34" rx="2" fill="#00204C" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#00204C</text>
+<rect x="102" y="1252" width="34" height="34" rx="2" fill="#123570" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#123570</text>
+<rect x="176" y="1252" width="34" height="34" rx="2" fill="#3B496C" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#3B496C</text>
+<rect x="250" y="1252" width="34" height="34" rx="2" fill="#575D6D" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#575D6D</text>
+<rect x="324" y="1252" width="34" height="34" rx="2" fill="#707173" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#707173</text>
+<rect x="398" y="1252" width="34" height="34" rx="2" fill="#8A8678" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#8A8678</text>
+<rect x="472" y="1252" width="34" height="34" rx="2" fill="#A59C74" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#A59C74</text>
+<rect x="546" y="1252" width="34" height="34" rx="2" fill="#C1B36D" stroke="#222222" stroke-width="0.5"/>
+<text x="546" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#C1B36D</text>
+<rect x="620" y="1252" width="34" height="34" rx="2" fill="#DEC95F" stroke="#222222" stroke-width="0.5"/>
+<text x="620" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#DEC95F</text>
+<rect x="694" y="1252" width="34" height="34" rx="2" fill="#FFE945" stroke="#222222" stroke-width="0.5"/>
+<text x="694" y="1298" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#FFE945</text>
+<text x="28" y="1302" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">blue_orange_diverging</text>
+<text x="28" y="1322" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">diverging - Effect direction, residuals, enrichment/depletion, and signed change.</text>
+<rect x="28" y="1334" width="34" height="34" rx="2" fill="#2166AC" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="1380" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#2166AC</text>
+<rect x="102" y="1334" width="34" height="34" rx="2" fill="#4393C3" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="1380" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#4393C3</text>
+<rect x="176" y="1334" width="34" height="34" rx="2" fill="#92C5DE" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="1380" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#92C5DE</text>
+<rect x="250" y="1334" width="34" height="34" rx="2" fill="#F7F7F7" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="1380" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F7F7F7</text>
+<rect x="324" y="1334" width="34" height="34" rx="2" fill="#F4A582" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="1380" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#F4A582</text>
+<rect x="398" y="1334" width="34" height="34" rx="2" fill="#D6604D" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="1380" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#D6604D</text>
+<rect x="472" y="1334" width="34" height="34" rx="2" fill="#B2182B" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="1380" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#B2182B</text>
+<text x="28" y="1384" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#111111">grayscale_with_accent</text>
+<text x="28" y="1404" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#555555">categorical - Print-safe figures, methods diagrams, and figures where one finding needs emphasis.</text>
+<rect x="28" y="1416" width="34" height="34" rx="2" fill="#111111" stroke="#222222" stroke-width="0.5"/>
+<text x="28" y="1462" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#111111</text>
+<rect x="102" y="1416" width="34" height="34" rx="2" fill="#4D4D4D" stroke="#222222" stroke-width="0.5"/>
+<text x="102" y="1462" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#4D4D4D</text>
+<rect x="176" y="1416" width="34" height="34" rx="2" fill="#7A7A7A" stroke="#222222" stroke-width="0.5"/>
+<text x="176" y="1462" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#7A7A7A</text>
+<rect x="250" y="1416" width="34" height="34" rx="2" fill="#BDBDBD" stroke="#222222" stroke-width="0.5"/>
+<text x="250" y="1462" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#BDBDBD</text>
+<rect x="324" y="1416" width="34" height="34" rx="2" fill="#E0E0E0" stroke="#222222" stroke-width="0.5"/>
+<text x="324" y="1462" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#E0E0E0</text>
+<rect x="398" y="1416" width="34" height="34" rx="2" fill="#0072B2" stroke="#222222" stroke-width="0.5"/>
+<text x="398" y="1462" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#0072B2</text>
+<rect x="472" y="1416" width="34" height="34" rx="2" fill="#D55E00" stroke="#222222" stroke-width="0.5"/>
+<text x="472" y="1462" font-family="Arial, Helvetica, sans-serif" font-size="9" fill="#444444">#D55E00</text>
 </svg>

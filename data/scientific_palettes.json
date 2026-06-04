@@ -55,6 +55,128 @@
         "warning": "#BCBD22"
       }
     },
+    "cs_ml_algorithm_comparison": {
+      "type": "categorical",
+      "best_for": "Computer science and machine learning papers: method comparisons, ablations, benchmarks, and line plots.",
+      "source_inspiration": "IEEE/ACM-style accessible plots: color plus marker/line style, strong contrast, and grayscale readability.",
+      "colors": ["#1B4F72", "#D35400", "#148F77", "#7D3C98", "#566573", "#C0392B", "#2E86C1", "#B7950B"],
+      "semantics": {
+        "proposed_method": "#1B4F72",
+        "strong_baseline": "#D35400",
+        "classical_baseline": "#566573",
+        "ablation": "#148F77",
+        "variant": "#7D3C98",
+        "failure_or_error": "#C0392B",
+        "secondary_metric": "#2E86C1",
+        "resource_cost": "#B7950B"
+      }
+    },
+    "ieee_grayscale_markers": {
+      "type": "categorical",
+      "best_for": "IEEE-style two-column papers where figures must remain readable in grayscale print.",
+      "source_inspiration": "IEEE guidance to use color plus shape, thick lines, unique markers, brightness contrast, and grayscale checks.",
+      "colors": ["#111111", "#4D4D4D", "#7F7F7F", "#BDBDBD", "#005AB5", "#DC3220", "#009E73", "#E69F00"],
+      "semantics": {
+        "text_or_primary_line": "#111111",
+        "baseline_1": "#4D4D4D",
+        "baseline_2": "#7F7F7F",
+        "confidence_band": "#BDBDBD",
+        "proposed": "#005AB5",
+        "error": "#DC3220",
+        "improvement": "#009E73",
+        "resource_cost": "#E69F00"
+      }
+    },
+    "acm_interface_study": {
+      "type": "categorical",
+      "best_for": "ACM/HCI/user-study papers: conditions, interface variants, task outcomes, and accessible figure descriptions.",
+      "source_inspiration": "ACM accessibility guidance: figures should not rely on color alone and should be describable in text.",
+      "colors": ["#2C3E50", "#2980B9", "#E67E22", "#27AE60", "#8E44AD", "#C0392B", "#95A5A6", "#F1C40F"],
+      "semantics": {
+        "control": "#2C3E50",
+        "condition_a": "#2980B9",
+        "condition_b": "#E67E22",
+        "positive_outcome": "#27AE60",
+        "qualitative_theme": "#8E44AD",
+        "negative_outcome": "#C0392B",
+        "neutral": "#95A5A6",
+        "attention": "#F1C40F"
+      }
+    },
+    "mechanical_stress_strain": {
+      "type": "categorical",
+      "best_for": "Mechanical engineering plots: stress-strain curves, load-displacement curves, fatigue comparisons, and material tests.",
+      "source_inspiration": "ASME-style print-aware engineering figures: black/gray baselines with clear blue/orange/green accents.",
+      "colors": ["#111111", "#666666", "#005F73", "#CA6702", "#0A9396", "#9B2226", "#94D2BD", "#E9D8A6"],
+      "semantics": {
+        "reference_material": "#111111",
+        "baseline": "#666666",
+        "specimen_a": "#005F73",
+        "specimen_b": "#CA6702",
+        "optimized_design": "#0A9396",
+        "failure_region": "#9B2226",
+        "elastic_region": "#94D2BD",
+        "plastic_region": "#E9D8A6"
+      }
+    },
+    "robotics_control": {
+      "type": "categorical",
+      "best_for": "Robotics, control, trajectory tracking, state estimation, and hardware experiment figures.",
+      "source_inspiration": "Engineering control plots requiring clear actual/reference/error separation.",
+      "colors": ["#003F5C", "#FFA600", "#58508D", "#BC5090", "#2F4B7C", "#A05195", "#665191", "#D45087"],
+      "semantics": {
+        "reference": "#003F5C",
+        "measured": "#FFA600",
+        "controller_a": "#58508D",
+        "controller_b": "#BC5090",
+        "state_estimate": "#2F4B7C",
+        "uncertainty": "#665191",
+        "disturbance": "#A05195",
+        "tracking_error": "#D45087"
+      }
+    },
+    "manufacturing_quality": {
+      "type": "categorical",
+      "best_for": "Manufacturing, process monitoring, tolerance, quality control, and defect classification figures.",
+      "source_inspiration": "Industrial engineering style with neutral process colors and explicit warning/failure colors.",
+      "colors": ["#264653", "#2A9D8F", "#E9C46A", "#F4A261", "#E76F51", "#6D6875", "#A8DADC", "#457B9D"],
+      "semantics": {
+        "nominal_process": "#264653",
+        "in_control": "#2A9D8F",
+        "warning": "#E9C46A",
+        "drift": "#F4A261",
+        "defect": "#E76F51",
+        "baseline": "#6D6875",
+        "inspection": "#A8DADC",
+        "model_prediction": "#457B9D"
+      }
+    },
+    "thermal_cfd_sequential": {
+      "type": "sequential",
+      "best_for": "Mechanical/thermal/CFD scalar fields: temperature, pressure, velocity magnitude, and stress intensity.",
+      "source_inspiration": "Perceptual engineering colormap alternative to rainbow/jet.",
+      "colors": ["#081D58", "#253494", "#225EA8", "#1D91C0", "#41B6C4", "#7FCDBB", "#C7E9B4", "#EDF8B1", "#FFFFD9"],
+      "semantics": {
+        "low": "#081D58",
+        "mid_low": "#225EA8",
+        "mid": "#41B6C4",
+        "mid_high": "#C7E9B4",
+        "high": "#FFFFD9"
+      }
+    },
+    "materials_phase_map": {
+      "type": "diverging",
+      "best_for": "Materials, design space, phase maps, optimization landscapes, and signed performance deltas.",
+      "source_inspiration": "Engineering design maps where low/high and negative/positive regions must be separable.",
+      "colors": ["#313695", "#4575B4", "#74ADD1", "#E0F3F8", "#FFFFBF", "#FEE090", "#F46D43", "#A50026"],
+      "semantics": {
+        "low_or_negative": "#313695",
+        "moderate_low": "#74ADD1",
+        "neutral": "#FFFFBF",
+        "moderate_high": "#FEE090",
+        "high_or_positive": "#A50026"
+      }
+    },
     "cell_mechanism": {
       "type": "categorical",
       "best_for": "Biology, pathway, mechanism, cell-state, and schematic figures.",

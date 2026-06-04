@@ -26,6 +26,7 @@ skills/paper-publication-orchestrator/SKILL.md
 | Scan current papers/tools | `paper-frontier-radar` | "Use paper-frontier-radar to scan recent tools and papers for this topic." |
 | Check claims and citations | `paper-citation-audit` | "Use paper-citation-audit on these Results claims and grade citation support." |
 | Plan a figure | `paper-figure-contract` | "Use paper-figure-contract to design Figure 2 from this result table." |
+| Choose figure colors | `paper-figure-contract` | "Use paper-figure-contract and choose a palette for a CS/ML method-comparison plot." |
 | Polish language and remove AI voice | `paper-language-polishing` | "Use paper-language-polishing on this Discussion section; preserve claims and remove AI-like phrasing." |
 | Check data/code availability | `paper-data-availability` | "Use paper-data-availability to draft a data/code availability statement." |
 | Simulate reviewers | `paper-five-reviewer-panel` | "Use paper-five-reviewer-panel for a pre-submission review of this manuscript." |

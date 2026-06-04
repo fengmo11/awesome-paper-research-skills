@@ -21,6 +21,9 @@
 - Prefer colorblind-safe palettes such as Okabe-Ito for categorical groups.
 - Use perceptually ordered maps such as cividis/viridis-style schemes for continuous data.
 - Avoid `jet`, `rainbow`, and red-green diverging maps unless a field convention explicitly requires them and an accessible alternative is also provided.
+- For CS/IEEE-style plots, use color plus marker, line style, or fill pattern.
+- For mechanical/ASME-style plots, verify black-and-white print readability.
+- For ACM/HCI figures, ensure the figure can be described without relying on color names.
 - See `palette-system.md` and `../../../data/scientific_palettes.json` for reusable palette choices.
 
 ## Caption

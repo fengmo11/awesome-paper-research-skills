@@ -1,6 +1,6 @@
 {
   "name": "paper-publication-pipeline",
-  "version": "3.2.4",
+  "version": "3.2.5",
   "description": "Machine-readable pipeline for AI-assisted paper research, writing, five-reviewer revision, and submission readiness.",
   "entrypoint": "frontier-radar",
   "orchestrator_skill": "skills/paper-publication-orchestrator/SKILL.md",

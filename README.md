@@ -11,15 +11,15 @@ study the best public `SKILL.md` packs and assemble a serious paper pipeline
 without opening fifty tabs.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Version](https://img.shields.io/badge/version-v3.2.4-blue)
+![Version](https://img.shields.io/badge/version-v3.2.5-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
 
 ## Current Version
 
-Current workflow version: **v3.2.4**.
+Current workflow version: **v3.2.5**.
 
-- [Paper Research Workflow v3.2.4](docs/workflow-v3.2.md)
+- [Paper Research Workflow v3.2.5](docs/workflow-v3.2.md)
 - [How To Use Individual Modules](docs/module-usage.md)
 - [Paper Publication Orchestrator Skill](skills/paper-publication-orchestrator/SKILL.md)
 - [Machine-Readable Publication Pipeline](pipeline/paper-publication-pipeline.json)

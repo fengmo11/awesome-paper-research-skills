@@ -7,15 +7,15 @@
 这个仓库适合研究生、科研工作者、AI agent 构建者和想搭建论文工作流的人使用。项目名、仓库名、链接、Stars/Forks 和编程语言保留原始英文，说明与阅读指引尽量使用中文。
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Version](https://img.shields.io/badge/version-v3.2.4-blue)
+![Version](https://img.shields.io/badge/version-v3.2.5-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
 
 ## 当前版本
 
-当前工作流版本：**v3.2.4**。
+当前工作流版本：**v3.2.5**。
 
-- [Paper Research Workflow v3.2.4](docs/workflow-v3.2.md)
+- [Paper Research Workflow v3.2.5](docs/workflow-v3.2.md)
 - [How To Use Individual Modules](docs/module-usage.md)
 - [Paper Publication Orchestrator Skill](skills/paper-publication-orchestrator/SKILL.md)
 - [Machine-Readable Publication Pipeline](pipeline/paper-publication-pipeline.json)

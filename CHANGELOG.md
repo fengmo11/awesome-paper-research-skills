@@ -1,5 +1,16 @@
 # Changelog
 
+## v3.2.5 - 2026-06-04
+
+### Added
+
+- Added CS/ML, IEEE-style, ACM/HCI, mechanical engineering, robotics/control, manufacturing, thermal/CFD, and materials/optimization palettes.
+
+### Changed
+
+- Rebalanced the palette guide toward computer science and mechanical/engineering papers rather than biology-first examples.
+- Updated figure style gates to emphasize color plus marker/line style for CS papers, grayscale print checks for mechanical papers, and color-independent descriptions for ACM/HCI figures.
+
 ## v3.2.4 - 2026-06-04
 
 ### Added
