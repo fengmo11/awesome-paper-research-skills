@@ -8,8 +8,11 @@ Open an issue or pull request with:
 
 - Project name and GitHub URL.
 - One-sentence description.
+- Project type: tool, awesome list, skill pack, agent framework, citation
+  utility, LaTeX/DOCX template, review tool, benchmark, or dataset.
 - Workflow stages covered.
 - Observed stars/forks and date checked.
+- License and runnable status.
 - Evidence for any claims about citation verification, experiments, LaTeX,
   DOCX, or peer review.
 
@@ -33,3 +36,4 @@ workflow stage. Small projects are welcome if they solve a clear problem.
 - Avoid hype-only language.
 - Mention human review requirements for autonomous systems.
 - Prefer verified links over second-hand summaries.
+- Treat stars and forks as discovery signals, not proof of quality.

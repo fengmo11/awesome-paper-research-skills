@@ -1,6 +1,6 @@
 # Publication Playbook
 
-Current workflow version: [v3.1.0](workflow-v3.0.md), with installable skills listed in [Skill Roadmap](skill-roadmap.md).
+Current workflow version: [v3.2.0](workflow-v3.2.md), with installable skills listed in [Skill Roadmap](skill-roadmap.md).
 
 This is the suggested growth plan for this awesome list.
 
@@ -19,6 +19,8 @@ Use a clear promise:
   `literature-review`, `latex`, `citations`, `research-agents`,
   `awesome-list`.
 - Add the Awesome badge.
+- Keep skills installable through the Agent Skills folder format and document `gh skill` compatibility as the ecosystem stabilizes.
+- Add provenance and safety notes for any third-party skill recommended by the repo.
 - Pin the repo on the GitHub profile.
 - Post a short launch note on X, Reddit, Hacker News, and relevant Discords.
 - Open issues for missing projects so contributors can help.
@@ -27,6 +29,7 @@ Use a clear promise:
 
 - Weekly: add new projects and update categories.
 - Monthly: update observed star/fork signals.
+- Monthly: inspect `gh skill`, Agent Skills spec, MCP servers, Zotero tools, and skill-scanner updates.
 - Quarterly: add a trend report and "best new tools" section.
 
 ## Star Drivers

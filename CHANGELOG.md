@@ -1,5 +1,32 @@
 # Changelog
 
+## v3.2.0 - 2026-06-04
+
+### Added
+
+- Added `docs/workflow-v3.2.md`, upgrading the paper workflow around a new frontier-radar stage, Agent Skills compatibility, skill provenance, safety scanning, Zotero/MCP-backed literature access, and long-running research-state capture.
+- Added `docs/frontier-update-2026-06-04.md`, a current online update based on recent GitHub and official Agent Skills ecosystem signals.
+- Added the installable `paper-frontier-radar` skill with watchlists, freshness scoring, novelty tagging, evidence ledger rules, and source-hygiene checks.
+
+### Changed
+
+- Updated README entry points and version badge to `v3.2.0`.
+- Updated the skill index and workflow map so `paper-frontier-radar` runs before citation, figure, language, data, review, and submission gates.
+- Updated the publication playbook to emphasize `gh skill` installability, provenance metadata, and skill security review as current repo-growth signals.
+
+## v3.1.1 - 2026-05-29
+
+### Added
+
+- Added `docs/public-repo-landscape-2026-05-29.md`, a verified snapshot of public repositories around paper writing, literature review, research agents, citation management, and LaTeX workflows.
+- Added `docs/choose-a-paper-workflow-stack.md`, a practical guide for choosing paper workflow tool combinations.
+
+### Changed
+
+- Updated README entry points and version badge to `v3.1.1`.
+- Clarified that the next growth step is sharper workflow-first positioning, verified public signals, and contribution fields rather than adding more undifferentiated links.
+- Expanded the project recommendation issue template with project type, license, runnable status, and evidence fields.
+
 ## v3.1.0 - 2026-05-18
 
 ### Added

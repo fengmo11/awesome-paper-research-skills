@@ -17,6 +17,21 @@ body:
       description: One or two factual sentences.
     validations:
       required: true
+  - type: dropdown
+    id: project_type
+    attributes:
+      label: Project type
+      options:
+        - Tool
+        - Awesome list
+        - Skill pack
+        - Agent framework
+        - Citation utility
+        - LaTeX or DOCX template
+        - Review tool
+        - Benchmark or dataset
+    validations:
+      required: true
   - type: checkboxes
     id: stages
     attributes:
@@ -35,4 +50,31 @@ body:
     id: signal
     attributes:
       label: Observed stars/forks and date checked
-      placeholder: "1.2k stars / 120 forks, checked 2026-05-16"
+      placeholder: "1.2k stars / 120 forks, checked 2026-05-29"
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      placeholder: "MIT / Apache-2.0 / GPL / unknown"
+  - type: dropdown
+    id: runnable_status
+    attributes:
+      label: Runnable status
+      options:
+        - Runnable tool or package
+        - Documentation-only list
+        - Skill or prompt pack
+        - Paper implementation
+        - Unknown
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence for inclusion
+      description: Explain which publication-stage problem it solves and link docs/examples if available.
+      placeholder: "This improves citation verification because..."
+    validations:
+      required: true

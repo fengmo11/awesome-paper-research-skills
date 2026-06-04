@@ -11,18 +11,23 @@ study the best public `SKILL.md` packs and assemble a serious paper pipeline
 without opening fifty tabs.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Version](https://img.shields.io/badge/version-v3.1.0-blue)
+![Version](https://img.shields.io/badge/version-v3.2.0-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
 
 ## Current Version
 
-Current workflow version: **v3.1.0**.
+Current workflow version: **v3.2.0**.
 
-- [Paper Research Workflow v3.0.0](docs/workflow-v3.0.md)
+- [Paper Research Workflow v3.2.0](docs/workflow-v3.2.md)
+- [Frontier Update - 2026-06-04](docs/frontier-update-2026-06-04.md)
 - [Skill Roadmap](docs/skill-roadmap.md)
 - [Installable Skill Index](skills/INDEX.md)
+- [Paper Frontier Radar Skill](skills/paper-frontier-radar/SKILL.md)
+- [Paper Research Workflow v3.0.0](docs/workflow-v3.0.md)
 - [Nature Skills Deep Dive](docs/nature-skills-deep-dive.md)
+- [Public Repository Landscape - 2026-05-29](docs/public-repo-landscape-2026-05-29.md)
+- [How To Choose A Paper Workflow Stack](docs/choose-a-paper-workflow-stack.md)
 - [Paper Research Workflow v0.2.0](docs/workflow-v0.2.md)
 - [Frontier Review - 2026-05-17](docs/frontier-review-2026-05-17.md)
 - [Changelog](CHANGELOG.md)
@@ -35,18 +40,25 @@ pipelines, and some are citation or formatting utilities. This list organizes
 them by workflow stage so you can study, compare, fork, and compose practical
 paper skills.
 
+The v3.2 direction follows the current Agent Skills ecosystem: keep skills
+portable, source-grounded, inspectable, and ready for `gh skill`-style
+installation as the GitHub CLI preview matures. Third-party skills should be
+treated like executable dependencies: record provenance, inspect instructions,
+and flag prompt-injection or data-exfiltration risks before adoption.
+
 ## Quick Map
 
 ```mermaid
 flowchart LR
-  A["Idea discovery"] --> B["Literature search"]
-  B --> C["Experiment planning"]
-  C --> D["Experiment execution"]
-  D --> E["Analysis and figures"]
-  E --> F["Paper drafting"]
-  F --> G["Citation verification"]
-  G --> H["LaTeX / DOCX export"]
-  H --> I["Peer review and revision"]
+  A["Frontier radar"] --> B["Idea discovery"]
+  B --> C["Literature search"]
+  C --> D["Experiment planning"]
+  D --> E["Experiment execution"]
+  E --> F["Analysis and figures"]
+  F --> G["Paper drafting"]
+  G --> H["Citation and provenance verification"]
+  H --> I["LaTeX / DOCX export"]
+  I --> J["Peer review and revision"]
 ```
 
 ## Top Skill Packs
