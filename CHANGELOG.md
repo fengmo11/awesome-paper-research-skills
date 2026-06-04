@@ -1,5 +1,17 @@
 # Changelog
 
+## v3.2.1 - 2026-06-04
+
+### Added
+
+- Added `paper-five-reviewer-panel`, a pre-submission review skill that runs five independent reviewer agents: Editor-in-Chief, methodology/statistics reviewer, domain reviewer, figure/data reviewer, and Devil's Advocate.
+- Added reviewer role, scorecard, editorial synthesis, revision, and re-review gates so a manuscript is revised before submission instead of going directly from drafting to packaging.
+
+### Changed
+
+- Updated `workflow-v3.2.md`, README, skill index, and roadmap so five-reviewer agent review sits between manuscript drafting/auditing and final submission.
+- Updated the recommended skill order to route synthetic review comments through `paper-review-response` before `paper-submission-gate`.
+
 ## v3.2.0 - 2026-06-04
 
 ### Added

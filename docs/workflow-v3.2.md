@@ -1,6 +1,6 @@
-# Paper Research Workflow v3.2.0
+# Paper Research Workflow v3.2.1
 
-Version: `3.2.0`
+Version: `3.2.1`
 
 Date: `2026-06-04`
 
@@ -22,9 +22,10 @@ flowchart TD
   G --> H["7. Figure contract"]
   H --> I["8. Language and section drafting"]
   I --> J["9. Citation, data, and provenance audit"]
-  J --> K["10. Internal review"]
-  K --> L["11. Revision and response"]
-  L --> M["12. Format, export, and submission gate"]
+  J --> K["10. Five-reviewer agent panel"]
+  K --> L["11. Author revision and response map"]
+  L --> M["12. Re-review verification"]
+  M --> N["13. Format, export, and submission gate"]
 ```
 
 ## What v3.2 Adds
@@ -51,9 +52,10 @@ flowchart TD
 | 7. Figure contract | Figure plan | Every panel has a unique scientific question, source data, and export plan. |
 | 8. Language and section drafting | Manuscript sections | Section movement, tense, hedging, and evidence anchors pass review. |
 | 9. Citation, data, and provenance audit | Integrity report | No fabricated references; datasets and adopted skills have provenance. |
-| 10. Internal review | Review scorecard | Major rejection risks are listed with fix plans and owner input needed. |
-| 11. Revision and response | Response map | Each comment has an ID, action, evidence, and manuscript location. |
-| 12. Format, export, and submission gate | Final package | Markdown, BibTeX, LaTeX/DOCX/PDF, figures, supplements, and AI-use notes align. |
+| 10. Five-reviewer agent panel | Five independent reviews and editorial synthesis | EIC, methodology/statistics, domain, figure/data, and Devil's Advocate reviews are complete. |
+| 11. Author revision and response map | Response map and revised draft | Each comment has an ID, action, evidence, and manuscript location. |
+| 12. Re-review verification | Re-review checklist | High-risk reviewer comments are resolved, explicitly deferred, or acknowledged as limitations. |
+| 13. Format, export, and submission gate | Final package | Markdown, BibTeX, LaTeX/DOCX/PDF, figures, supplements, and AI-use notes align. |
 
 ## Skill Order
 
@@ -63,6 +65,7 @@ paper-frontier-radar
 -> paper-figure-contract
 -> paper-language-polishing
 -> paper-data-availability
+-> paper-five-reviewer-panel
 -> paper-review-response
 -> paper-submission-gate
 ```
@@ -87,6 +90,8 @@ Use these fields when scanning public updates:
 - [x] README points to `workflow-v3.2.md`.
 - [x] A current frontier update note exists.
 - [x] `paper-frontier-radar` exists as an installable skill folder.
+- [x] `paper-five-reviewer-panel` exists as a pre-submission peer-review gate.
 - [x] Skill index starts with the frontier-radar stage.
 - [x] Workflow map reflects provenance, local-library, and safety-scanning gates.
 - [x] The workflow separates verified evidence from metadata-only discovery.
+- [x] The manuscript cannot go from drafting directly to submission without review, revision, and re-review.

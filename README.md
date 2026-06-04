@@ -11,19 +11,20 @@ study the best public `SKILL.md` packs and assemble a serious paper pipeline
 without opening fifty tabs.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Version](https://img.shields.io/badge/version-v3.2.0-blue)
+![Version](https://img.shields.io/badge/version-v3.2.1-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
 
 ## Current Version
 
-Current workflow version: **v3.2.0**.
+Current workflow version: **v3.2.1**.
 
-- [Paper Research Workflow v3.2.0](docs/workflow-v3.2.md)
+- [Paper Research Workflow v3.2.1](docs/workflow-v3.2.md)
 - [Frontier Update - 2026-06-04](docs/frontier-update-2026-06-04.md)
 - [Skill Roadmap](docs/skill-roadmap.md)
 - [Installable Skill Index](skills/INDEX.md)
 - [Paper Frontier Radar Skill](skills/paper-frontier-radar/SKILL.md)
+- [Paper Five Reviewer Panel Skill](skills/paper-five-reviewer-panel/SKILL.md)
 - [Paper Research Workflow v3.0.0](docs/workflow-v3.0.md)
 - [Nature Skills Deep Dive](docs/nature-skills-deep-dive.md)
 - [Public Repository Landscape - 2026-05-29](docs/public-repo-landscape-2026-05-29.md)
@@ -57,8 +58,10 @@ flowchart LR
   E --> F["Analysis and figures"]
   F --> G["Paper drafting"]
   G --> H["Citation and provenance verification"]
-  H --> I["LaTeX / DOCX export"]
-  I --> J["Peer review and revision"]
+  H --> I["Five-reviewer agent panel"]
+  I --> J["Revision and re-review"]
+  J --> K["LaTeX / DOCX export"]
+  K --> L["Submission QA"]
 ```
 
 ## Top Skill Packs

@@ -18,10 +18,11 @@ The repository now has two layers:
 | `paper-figure-contract` | 0.1 | Beta | Figure contract | Panel-evidence maps, SVG-first figure design |
 | `paper-citation-audit` | 0.1 | Beta | Citation integrity | Claim segmentation and support grading |
 | `paper-data-availability` | 0.1 | Beta | Data/code availability | FAIR-style availability statements |
+| `paper-five-reviewer-panel` | 0.1 | Beta | Five-reviewer pre-submission review | EIC, methods/statistics, domain, figure/data, and Devil's Advocate reviewers |
 | `paper-review-response` | 0.1 | Beta | Revision and response | Traceable reviewer response maps |
 | `paper-submission-gate` | 0.1 | Beta | Final submission | Package completeness and venue checks |
 
-## Why These Seven First
+## Why These Eight First
 
 These are the highest-risk paper workflow gates. If they work, the repository becomes useful even before building a fully autonomous research agent.
 
@@ -30,6 +31,7 @@ These are the highest-risk paper workflow gates. If they work, the repository be
 - Figure skill prevents decorative or redundant figures.
 - Citation skill prevents hallucinated references and weak support.
 - Data skill prevents missing availability statements.
+- Five-reviewer panel prevents going straight from polished draft to real submission without simulated peer-review pressure.
 - Review response skill prevents incomplete rebuttals.
 - Submission gate prevents final packaging errors.
 
