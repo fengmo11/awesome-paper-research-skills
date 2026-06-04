@@ -48,6 +48,10 @@ installation as the GitHub CLI preview matures. Third-party skills should be
 treated like executable dependencies: record provenance, inspect instructions,
 and flag prompt-injection or data-exfiltration risks before adoption.
 
+The language layer also includes an AI-voice cleanup pass: reduce decorative
+quotation marks, em dashes, parentheses, adverb overuse, generic transitions,
+and inflated novelty language before reviewer simulation.
+
 ## Quick Map
 
 ```mermaid

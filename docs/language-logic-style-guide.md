@@ -329,6 +329,77 @@ Rules:
 - Replace rhetorical emphasis with measurable evidence.
 - Keep terms consistent across title, abstract, figures, and conclusion.
 
+## AI-Voice Cleanup
+
+AI-assisted drafts often look fluent but unnatural. The problem is not that the
+text is grammatically wrong; the problem is that the rhythm, punctuation, and
+claim style become too polished, too symmetrical, and too emphatic.
+
+### Common AI-Looking Signals
+
+| Signal | Why It Feels Artificial | Repair |
+| --- | --- | --- |
+| Too many quotation marks | Makes ordinary terms look branded or ironic. | Use quotes only for exact terms, participant wording, or contested concepts. |
+| Too many em dashes | Creates a dramatic rhythm uncommon in restrained academic prose. | Replace with commas, semicolons, parentheses, or separate sentences. |
+| Too many parentheses | Makes the prose look like compressed notes rather than a clean argument. | Move essential details into the sentence; move nonessential details to Methods, captions, or footnotes. |
+| Too many adverbs | Words such as notably, significantly, remarkably, clearly, fundamentally, and critically often add emphasis without evidence. | Delete the adverb or replace it with the actual measured contrast. |
+| Template transitions | Phrases such as "It is important to note that" and "This underscores the importance of" sound generic. | Start with the specific claim or evidence. |
+| Inflated novelty | "Novel", "groundbreaking", "paradigm-shifting", and "unprecedented" invite reviewer resistance. | State the concrete difference from prior work. |
+| Over-balanced sentences | Repeated "not only... but also..." and three-part parallel lists can sound machine-generated. | Use simpler ordering and vary sentence structure. |
+| Excessive signposting | "In this paper, we aim to..." repeated across sections adds bulk. | Use direct action verbs and section-specific claims. |
+
+### Punctuation Rules
+
+- Use quotation marks only for exact quoted wording, field-specific labels, or
+  terms whose meaning is being questioned.
+- Avoid using quotes to make normal scientific terms sound special.
+- Use em dashes sparingly. In journal prose, a comma, colon, semicolon, or new
+  sentence is usually calmer.
+- Do not use parentheses to hide important assumptions. If the detail matters,
+  integrate it into the main sentence.
+- Avoid stacking parentheses after every noun phrase.
+
+### Adverb And Intensifier Rules
+
+Delete or justify these words:
+
+```text
+notably, importantly, significantly, remarkably, clearly, fundamentally,
+substantially, dramatically, highly, extremely, uniquely, effectively,
+seamlessly, robustly, comprehensively, critically
+```
+
+Keep an adverb only when it changes the meaning and is supported by evidence.
+For example, "significantly" should normally refer to a defined statistical
+result, not a feeling that the finding is important.
+
+### Replace AI-Like Phrases
+
+| AI-Like Phrase | More Natural Scientific Version |
+| --- | --- |
+| It is important to note that X | X |
+| This underscores the importance of X | This result suggests that X matters in Y setting |
+| A comprehensive understanding of X is crucial | X remains poorly resolved in Y |
+| This study sheds light on X | These results identify/test/estimate X |
+| This finding has important implications | This finding suggests X for Y, but Z remains untested |
+| In today's rapidly evolving landscape | In recent work / In current practice |
+| Seamlessly integrates | combines / links / connects |
+| Robust and comprehensive framework | framework tested on X and Y |
+| Groundbreaking / transformative | new for this dataset/task/setting |
+
+### Naturalization Pass
+
+Before final polishing:
+
+1. Count quotation marks, em dashes, parentheses, and adverbs in each section.
+2. Delete decorative punctuation.
+3. Replace inflated transitions with specific claims.
+4. Convert generic praise into measured evidence.
+5. Vary paragraph openings.
+6. Check that the abstract and conclusion do not sound more promotional than
+   the Results.
+7. Preserve necessary technical precision; do not make the text casual.
+
 ## Final Language Audit
 
 Before the five-reviewer panel:
@@ -337,8 +408,10 @@ Before the five-reviewer panel:
 2. Each paragraph starts from a question, claim, or transition.
 3. Each important claim has evidence or citation support.
 4. Overclaim verbs are softened.
-5. Figures and captions do not exceed source data.
-6. Limitations are explicit.
-7. The abstract, introduction, and conclusion tell the same scoped story.
-8. The manuscript can survive a skeptical methodology reviewer and Devil's
+5. AI-looking punctuation, adverbs, generic transitions, and inflated novelty
+   language are removed or justified.
+6. Figures and captions do not exceed source data.
+7. Limitations are explicit.
+8. The abstract, introduction, and conclusion tell the same scoped story.
+9. The manuscript can survive a skeptical methodology reviewer and Devil's
    Advocate review.
