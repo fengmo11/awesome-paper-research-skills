@@ -19,6 +19,7 @@
 - [Frontier Update - 2026-06-04](docs/frontier-update-2026-06-04.md)
 - [Skill Roadmap](docs/skill-roadmap.md)
 - [Installable Skill Index](skills/INDEX.md)
+- [Paper Language And Logic Style Guide](docs/language-logic-style-guide.md)
 - [Paper Frontier Radar Skill](skills/paper-frontier-radar/SKILL.md)
 - [Paper Five Reviewer Panel Skill](skills/paper-five-reviewer-panel/SKILL.md)
 - [Paper Research Workflow v3.0.0](docs/workflow-v3.0.md)

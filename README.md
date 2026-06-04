@@ -23,6 +23,7 @@ Current workflow version: **v3.2.1**.
 - [Frontier Update - 2026-06-04](docs/frontier-update-2026-06-04.md)
 - [Skill Roadmap](docs/skill-roadmap.md)
 - [Installable Skill Index](skills/INDEX.md)
+- [Paper Language And Logic Style Guide](docs/language-logic-style-guide.md)
 - [Paper Frontier Radar Skill](skills/paper-frontier-radar/SKILL.md)
 - [Paper Five Reviewer Panel Skill](skills/paper-five-reviewer-panel/SKILL.md)
 - [Paper Research Workflow v3.0.0](docs/workflow-v3.0.md)
@@ -57,11 +58,12 @@ flowchart LR
   D --> E["Experiment execution"]
   E --> F["Analysis and figures"]
   F --> G["Paper drafting"]
-  G --> H["Citation and provenance verification"]
-  H --> I["Five-reviewer agent panel"]
-  I --> J["Revision and re-review"]
-  J --> K["LaTeX / DOCX export"]
-  K --> L["Submission QA"]
+  G --> H["Language and logic audit"]
+  H --> I["Citation and provenance verification"]
+  I --> J["Five-reviewer agent panel"]
+  J --> K["Revision and re-review"]
+  K --> L["LaTeX / DOCX export"]
+  L --> M["Submission QA"]
 ```
 
 ## Top Skill Packs

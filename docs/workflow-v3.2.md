@@ -70,6 +70,13 @@ paper-frontier-radar
 -> paper-submission-gate
 ```
 
+## Language And Logic Guide
+
+Use [Paper Language And Logic Style Guide](language-logic-style-guide.md) during
+stage 8 and before the five-reviewer panel. The guide defines section-level
+argument movement, language style, overclaim control, Chinese-to-English
+scientific rewriting, figure caption logic, and reviewer-facing risk checks.
+
 ## Frontier Ledger Fields
 
 Use these fields when scanning public updates:

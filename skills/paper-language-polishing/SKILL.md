@@ -38,3 +38,4 @@ Use this skill when the task is to polish, rewrite, translate, or audit manuscri
 
 - For section-specific moves, read `references/section-moves.md`.
 - For overclaim and hedging patterns, read `references/hedging-and-overclaim.md`.
+- For the full chapter logic and language style system, read `../../docs/language-logic-style-guide.md`.
