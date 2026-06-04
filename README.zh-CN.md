@@ -16,6 +16,7 @@
 当前工作流版本：**v3.2.5**。
 
 - [Paper Research Workflow v3.2.5](docs/workflow-v3.2.md)
+- [Root Claude/Codex Skill](SKILL.md)
 - [How To Use Individual Modules](docs/module-usage.md)
 - [Paper Publication Orchestrator Skill](skills/paper-publication-orchestrator/SKILL.md)
 - [Machine-Readable Publication Pipeline](pipeline/paper-publication-pipeline.json)

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome Paper Research Skills"
+  short_description: "Full paper publication workflow with modular skills, review gates, and engineering palettes."
+  default_prompt: "Run or select modules from the paper publication workflow for this topic, draft, figure, review, or submission package."
