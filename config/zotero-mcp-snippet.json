@@ -1,0 +1,19 @@
+{
+  "name": "zotero-mcp-literature-memory",
+  "purpose": "Optional local-library literature source for the paper publication pipeline.",
+  "notes": [
+    "Use only when Zotero or a compatible MCP server is configured locally.",
+    "Do not treat semantic-search hits as verified citations until the source text is inspected.",
+    "Record Zotero collection, item key, DOI, and access date in the search log."
+  ],
+  "pipeline_stages": [
+    "literature-citation-search",
+    "claim-evidence-boundary",
+    "citation-data-provenance-audit"
+  ],
+  "example_mcp_server": {
+    "command": "zotero-mcp",
+    "transport": "stdio",
+    "status": "placeholder"
+  }
+}

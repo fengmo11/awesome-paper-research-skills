@@ -4,6 +4,7 @@ This directory contains the installable paper workflow skills developed by this 
 
 | Skill | Status | Use When |
 | --- | --- | --- |
+| `paper-publication-orchestrator` | Beta | Running the complete machine-readable paper publication pipeline and routing work to each stage skill. |
 | `paper-frontier-radar` | Beta | Scanning recent papers, GitHub repos, Agent Skills, MCP servers, venue rules, and workflow updates before planning or refreshing the paper pipeline. |
 | `paper-language-polishing` | Beta | Polishing academic language, Chinese-to-English scientific prose, hedging, overclaim control, and section-aware rewriting. |
 | `paper-figure-contract` | Beta | Planning, auditing, or generating manuscript figures with panel-evidence maps and export rules. |
@@ -16,7 +17,7 @@ This directory contains the installable paper workflow skills developed by this 
 ## Recommended Order
 
 ```text
-paper-frontier-radar -> paper-citation-audit -> paper-figure-contract -> paper-language-polishing -> paper-data-availability -> paper-five-reviewer-panel -> paper-review-response -> paper-submission-gate
+paper-publication-orchestrator -> paper-frontier-radar -> paper-citation-audit -> paper-figure-contract -> paper-language-polishing -> paper-data-availability -> paper-five-reviewer-panel -> paper-review-response -> paper-submission-gate
 ```
 
 For a full paper from scratch, use `docs/workflow-v3.2.md` as the orchestrator and call these skills at the relevant gates.

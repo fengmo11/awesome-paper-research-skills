@@ -1,0 +1,25 @@
+{
+  "artifact_type": "language-cleanup-log",
+  "version": "0.1.0",
+  "section": "abstract",
+  "removed_patterns": [
+    {
+      "type": "inflated_novelty",
+      "before": "a groundbreaking framework",
+      "after": "a workflow"
+    },
+    {
+      "type": "generic_transition",
+      "before": "It is important to note that citation quality is crucial.",
+      "after": "Citation quality affects whether manuscript claims are auditable."
+    },
+    {
+      "type": "adverb_overuse",
+      "before": "remarkably improves",
+      "after": "improves in the tested examples"
+    }
+  ],
+  "remaining_human_review": [
+    "Confirm whether the claimed improvement has measured evidence."
+  ]
+}

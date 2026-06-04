@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Language Polishing"
+  short_description: "Polish section-aware academic language while preserving claims and removing AI voice."
+  default_prompt: "Polish this manuscript section for academic logic, evidence strength, hedging, and AI-voice cleanup without changing scientific meaning."

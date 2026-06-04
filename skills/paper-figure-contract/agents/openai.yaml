@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Figure Contract"
+  short_description: "Plan manuscript figures with panel claims, source data, statistics, and caption boundaries."
+  default_prompt: "Create a figure contract for this manuscript result, including panel questions, source data, statistics, and caption claims."

@@ -1,6 +1,6 @@
-# Paper Research Workflow v3.2.2
+# Paper Research Workflow v3.2.3
 
-Version: `3.2.2`
+Version: `3.2.3`
 
 Date: `2026-06-04`
 
@@ -9,6 +9,8 @@ frontier layer: Agent Skills compatibility, `gh skill` installability, skill
 provenance, safety scanning, Zotero/MCP-aware literature access, and durable
 research-state capture.
 
+The orchestrator skill lives at
+[`skills/paper-publication-orchestrator/SKILL.md`](../skills/paper-publication-orchestrator/SKILL.md).
 The machine-readable version of this workflow lives at
 [`pipeline/paper-publication-pipeline.json`](../pipeline/paper-publication-pipeline.json).
 Example structured inputs and run records live in [`examples/`](../examples/).

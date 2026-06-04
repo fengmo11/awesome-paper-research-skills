@@ -1,6 +1,6 @@
 # Publication Playbook
 
-Current workflow version: [v3.2.1](workflow-v3.2.md), with installable skills listed in [Skill Roadmap](skill-roadmap.md).
+Current workflow version: [v3.2.3](workflow-v3.2.md), with installable skills listed in [Skill Roadmap](skill-roadmap.md).
 
 This is the suggested growth plan for this awesome list.
 

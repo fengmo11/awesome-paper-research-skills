@@ -11,17 +11,19 @@ study the best public `SKILL.md` packs and assemble a serious paper pipeline
 without opening fifty tabs.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Version](https://img.shields.io/badge/version-v3.2.2-blue)
+![Version](https://img.shields.io/badge/version-v3.2.3-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
 
 ## Current Version
 
-Current workflow version: **v3.2.2**.
+Current workflow version: **v3.2.3**.
 
-- [Paper Research Workflow v3.2.2](docs/workflow-v3.2.md)
+- [Paper Research Workflow v3.2.3](docs/workflow-v3.2.md)
+- [Paper Publication Orchestrator Skill](skills/paper-publication-orchestrator/SKILL.md)
 - [Machine-Readable Publication Pipeline](pipeline/paper-publication-pipeline.json)
 - [Example Pipeline Run Record](examples/pipeline-run-record.json)
+- [Personal Use Config](config/codex-personal-use.json)
 - [Skill Package Architecture](docs/skill-package-architecture.md)
 - [Frontier Update - 2026-06-04](docs/frontier-update-2026-06-04.md)
 - [Skill Roadmap](docs/skill-roadmap.md)
@@ -55,10 +57,11 @@ The language layer also includes an AI-voice cleanup pass: reduce decorative
 quotation marks, em dashes, parentheses, adverb overuse, generic transitions,
 and inflated novelty language before reviewer simulation.
 
-The repository now has a machine-readable pipeline layer in `pipeline/` plus
-example run records in `examples/`, so the workflow is not only prose: scripts
-and agents can inspect expected stages, gates, artifacts, skill calls, and
-submission blockers.
+The repository now has a machine-readable pipeline layer in `pipeline/`, example
+run records and artifacts in `examples/`, per-skill manifests and OpenAI metadata
+under `skills/*/`, and validation in `.github/workflows/validate.yml`, so the
+workflow is not only prose: scripts and agents can inspect expected stages,
+gates, artifacts, skill calls, and submission blockers.
 
 ## Quick Map
 

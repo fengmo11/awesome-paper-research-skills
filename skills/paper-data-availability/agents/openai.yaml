@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Data Availability"
+  short_description: "Draft and audit data/code availability statements and result traceability."
+  default_prompt: "Audit the data and code availability for this manuscript and map each result to its source data or access route."

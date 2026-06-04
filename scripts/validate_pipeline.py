@@ -9,6 +9,7 @@ from typing import Any
 ROOT = Path(__file__).resolve().parents[1]
 PIPELINE_PATH = ROOT / "pipeline" / "paper-publication-pipeline.json"
 RUN_RECORD_PATH = ROOT / "examples" / "pipeline-run-record.json"
+SKILLS_DIR = ROOT / "skills"
 
 
 def load_json(path: Path) -> dict[str, Any]:
@@ -22,6 +23,68 @@ def require_path(relative_path: str, errors: list[str]) -> None:
     path = ROOT / relative_path
     if not path.exists():
         errors.append(f"Missing referenced path: {relative_path}")
+
+
+def read_text(path: Path) -> str:
+    return path.read_text(encoding="utf-8")
+
+
+def parse_skill_frontmatter(path: Path, errors: list[str]) -> dict[str, str]:
+    text = read_text(path)
+    if not text.startswith("---\n"):
+        errors.append(f"{path.relative_to(ROOT)} must start with YAML frontmatter.")
+        return {}
+    try:
+        _, frontmatter, _ = text.split("---", 2)
+    except ValueError:
+        errors.append(f"{path.relative_to(ROOT)} has malformed frontmatter.")
+        return {}
+    fields: dict[str, str] = {}
+    for line in frontmatter.splitlines():
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        fields[key.strip()] = value.strip().strip('"')
+    for key in ("name", "description"):
+        if not fields.get(key):
+            errors.append(f"{path.relative_to(ROOT)} frontmatter missing {key!r}.")
+    return fields
+
+
+def validate_skill_packages() -> list[str]:
+    errors: list[str] = []
+    skill_dirs = sorted(path for path in SKILLS_DIR.iterdir() if path.is_dir())
+    if not skill_dirs:
+        return ["No skill directories found."]
+
+    for skill_dir in skill_dirs:
+        skill_path = skill_dir / "SKILL.md"
+        manifest_path = skill_dir / "manifest.yaml"
+        openai_path = skill_dir / "agents" / "openai.yaml"
+        for path in (skill_path, manifest_path, openai_path):
+            if not path.exists():
+                errors.append(f"Missing {path.relative_to(ROOT)}.")
+        if not skill_path.exists():
+            continue
+        fields = parse_skill_frontmatter(skill_path, errors)
+        expected_name = skill_dir.name
+        if fields.get("name") != expected_name:
+            errors.append(
+                f"{skill_path.relative_to(ROOT)} name must match folder {expected_name!r}."
+            )
+        if manifest_path.exists():
+            manifest_text = read_text(manifest_path)
+            for required in ("name:", "version:", "status:", "entrypoint:"):
+                if required not in manifest_text:
+                    errors.append(f"{manifest_path.relative_to(ROOT)} missing {required}")
+            if f"name: {expected_name}" not in manifest_text:
+                errors.append(f"{manifest_path.relative_to(ROOT)} name must be {expected_name}.")
+        if openai_path.exists():
+            openai_text = read_text(openai_path)
+            for required in ("interface:", "display_name:", "short_description:", "default_prompt:"):
+                if required not in openai_text:
+                    errors.append(f"{openai_path.relative_to(ROOT)} missing {required}")
+    return errors
 
 
 def validate_pipeline(pipeline: dict[str, Any]) -> list[str]:
@@ -71,6 +134,9 @@ def validate_pipeline(pipeline: dict[str, Any]) -> list[str]:
     entrypoint = pipeline.get("entrypoint")
     if entrypoint not in ids:
         errors.append(f"Entrypoint {entrypoint!r} does not match any stage id.")
+    orchestrator_skill = pipeline.get("orchestrator_skill")
+    if isinstance(orchestrator_skill, str):
+        require_path(orchestrator_skill, errors)
     return errors
 
 
@@ -96,6 +162,7 @@ def main() -> int:
     run_record = load_json(RUN_RECORD_PATH)
     errors = validate_pipeline(pipeline)
     errors.extend(validate_run_record(run_record, pipeline))
+    errors.extend(validate_skill_packages())
     if errors:
         for error in errors:
             print(f"ERROR: {error}", file=sys.stderr)

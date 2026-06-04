@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Frontier Radar"
+  short_description: "Scan recent papers, repositories, MCP servers, venue rules, and skill updates."
+  default_prompt: "Scan recent sources for this paper topic and produce a frontier ledger with verified, stale, and watch-only items."

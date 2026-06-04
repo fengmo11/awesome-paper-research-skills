@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Review Response"
+  short_description: "Map reviewer comments to actions, manuscript changes, and response letters."
+  default_prompt: "Turn these reviewer comments into a response map with stable IDs, actions, manuscript locations, and a response letter."

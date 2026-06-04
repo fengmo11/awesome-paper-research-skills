@@ -1,0 +1,13 @@
+{
+  "name": "awesome-paper-research-skills-personal-use",
+  "recommended_entry_skill": "skills/paper-publication-orchestrator/SKILL.md",
+  "required_human_checkpoints": [
+    "research question approval",
+    "citation verification",
+    "experiment and result validation",
+    "five-reviewer revision decision",
+    "final submission package approval"
+  ],
+  "default_artifacts_dir": "examples/artifacts",
+  "validation_command": "python scripts/validate_pipeline.py"
+}

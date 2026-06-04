@@ -1,0 +1,9 @@
+name: paper-five-reviewer-panel
+version: "0.1.0"
+status: beta
+type: stage-skill
+entrypoint: SKILL.md
+data_access_level: verified_only
+task_type: open-ended
+requires_human_review: true
+stage: five-reviewer-panel

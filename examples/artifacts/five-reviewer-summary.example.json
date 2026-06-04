@@ -1,0 +1,39 @@
+{
+  "artifact_type": "five-reviewer-summary",
+  "version": "0.1.0",
+  "decision": "major-revision",
+  "confidence": "medium",
+  "reviewers": [
+    {
+      "role": "Editor-in-Chief",
+      "recommendation": "major-revision",
+      "major_concern": "Venue fit and contribution boundary need clearer framing."
+    },
+    {
+      "role": "Methodology/Statistics Reviewer",
+      "recommendation": "major-revision",
+      "major_concern": "Evaluation design needs a measurable baseline and error taxonomy."
+    },
+    {
+      "role": "Domain Reviewer",
+      "recommendation": "minor-revision",
+      "major_concern": "Related work should distinguish citation checking from general literature review."
+    },
+    {
+      "role": "Figure/Data Reviewer",
+      "recommendation": "minor-revision",
+      "major_concern": "Figure captions need source-data and metric definitions."
+    },
+    {
+      "role": "Devil's Advocate",
+      "recommendation": "major-revision",
+      "major_concern": "The draft implies automation reliability without enough human-audit evidence."
+    }
+  ],
+  "required_actions": [
+    "add a baseline comparison",
+    "soften automation claims",
+    "add limitation paragraph",
+    "map every figure panel to source data"
+  ]
+}

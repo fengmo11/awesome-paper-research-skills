@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Citation Audit"
+  short_description: "Audit claims, citations, support strength, and fabricated-reference risk."
+  default_prompt: "Audit these manuscript claims and produce a claim-evidence-boundary table with support grades."

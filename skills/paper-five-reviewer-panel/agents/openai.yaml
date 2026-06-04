@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Five Reviewer Panel"
+  short_description: "Run five pre-submission reviewer agents and synthesize revision risks."
+  default_prompt: "Run a five-reviewer pre-submission review for this manuscript and produce an editorial synthesis plus revision map."

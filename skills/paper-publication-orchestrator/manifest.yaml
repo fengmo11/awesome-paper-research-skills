@@ -1,0 +1,18 @@
+name: paper-publication-orchestrator
+version: "0.1.0"
+status: beta
+type: orchestrator
+entrypoint: SKILL.md
+pipeline: ../../pipeline/paper-publication-pipeline.json
+data_access_level: verified_only
+task_type: open-ended
+requires_human_review: true
+related_skills:
+  - paper-frontier-radar
+  - paper-citation-audit
+  - paper-figure-contract
+  - paper-language-polishing
+  - paper-data-availability
+  - paper-five-reviewer-panel
+  - paper-review-response
+  - paper-submission-gate

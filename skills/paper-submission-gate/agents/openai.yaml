@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Submission Gate"
+  short_description: "Audit the final manuscript package before submission or preprint posting."
+  default_prompt: "Run the final submission gate for this manuscript package and list blockers, warnings, and human-review items."

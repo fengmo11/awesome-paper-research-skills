@@ -1,0 +1,18 @@
+{
+  "artifact_type": "claim-evidence-boundary",
+  "version": "0.1.0",
+  "claim_id": "C01",
+  "claim": "AI-assisted citation verification can reduce unsupported manuscript claims during pre-submission review.",
+  "phenomenon": "unsupported manuscript claims",
+  "entity": "AI-assisted citation verification workflow",
+  "relationship": "can reduce",
+  "context": "pre-submission academic writing workflow",
+  "boundary": "requires human review and verified source inspection",
+  "support_grade": "metadata-only",
+  "evidence_needed": [
+    "benchmark comparing unsupported claims before and after audit",
+    "manual verification sample",
+    "clear definition of unsupported claim"
+  ],
+  "recommended_revision": "AI-assisted citation verification may help identify unsupported manuscript claims before submission, but its effect should be verified by human review."
+}

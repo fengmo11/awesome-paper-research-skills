@@ -29,20 +29,27 @@ checks.
 | `pipeline/` | Machine-readable publication pipeline with stages, gates, artifacts, and skill paths. |
 | `examples/` | Structured intake and run-record examples. |
 | `scripts/` | Renderers, GitHub signal update helpers, and pipeline validation. |
+| `config/` | Personal-use and MCP integration snippets. |
+| `skills/*/manifest.yaml` | Per-skill package metadata. |
+| `skills/*/agents/openai.yaml` | OpenAI/Codex-facing UI metadata and default prompts. |
+| `.github/workflows/validate.yml` | CI validation for pipeline and skill package structure. |
 
 ## Current Design Decision
 
 The repository uses JSON for the main pipeline because Python can validate it
-with the standard library. YAML manifests can be added later for per-skill
-packaging, but JSON gives us a reliable first machine-readable layer without
-adding dependencies.
+with the standard library. Per-skill YAML manifests are intentionally simple so
+they remain human-readable and easy to inspect without adding a packaging
+dependency.
 
 ## Next Structural Upgrades
 
-1. Add per-skill `manifest.yaml` files for install metadata and provenance.
-2. Add `examples/artifacts/` with realistic claim maps, figure contracts,
-   reviewer reports, and response letters.
-3. Add preflight checks for broken links, missing templates, and unsafe scripts.
-4. Add `agents/openai.yaml` metadata for the most important skills.
-5. Add CI to run `scripts/validate_pipeline.py` and skill validation on pull
-   requests.
+1. Expand `examples/artifacts/` with full realistic claim maps, figure
+   contracts, reviewer reports, response letters, and submission manifests.
+2. Add preflight checks for broken links, missing templates, unsafe scripts, and
+   suspicious third-party skill instructions.
+3. Add a lightweight exporter for Markdown -> DOCX/LaTeX/PDF submission
+   packages.
+4. Add installation notes for Codex, Claude Code, Cursor, and GitHub Copilot
+   skill directories.
+5. Add optional Zotero/MCP smoke tests for users who configure local literature
+   memory.

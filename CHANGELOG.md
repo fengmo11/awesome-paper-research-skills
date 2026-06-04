@@ -1,5 +1,19 @@
 # Changelog
 
+## v3.2.3 - 2026-06-04
+
+### Added
+
+- Added `paper-publication-orchestrator`, a top-level skill that runs the machine-readable pipeline and routes work to the stage skills.
+- Added per-skill `manifest.yaml` and `agents/openai.yaml` metadata for installability, UI discovery, and personal use.
+- Added example artifact JSON files and MCP/config snippets for Zotero-style literature integration.
+- Added GitHub Actions validation for the pipeline and skill package structure.
+
+### Changed
+
+- Extended `scripts/validate_pipeline.py` so it also checks skill frontmatter, manifests, and OpenAI metadata.
+- Updated README, workflow docs, and skill index to point to the orchestrator layer.
+
 ## v3.2.2 - 2026-06-04
 
 ### Added
