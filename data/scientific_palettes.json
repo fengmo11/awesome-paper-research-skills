@@ -1,0 +1,141 @@
+{
+  "version": "0.1.0",
+  "notes": [
+    "Journal-inspired palettes for scientific figures.",
+    "These are not official journal brand palettes.",
+    "Prefer semantic consistency across all figures in one manuscript.",
+    "Always test grayscale and color-vision-deficiency readability before submission."
+  ],
+  "palettes": {
+    "okabe_ito_categorical": {
+      "type": "categorical",
+      "best_for": "General categorical groups, line plots, bar plots, scatter groups.",
+      "source_inspiration": "Okabe-Ito / Wong colorblind-safe scientific palette.",
+      "colors": ["#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7"],
+      "semantics": {
+        "neutral": "#000000",
+        "group_1": "#0072B2",
+        "group_2": "#D55E00",
+        "group_3": "#009E73",
+        "highlight": "#E69F00",
+        "secondary": "#56B4E9",
+        "caution": "#F0E442",
+        "annotation": "#CC79A7"
+      }
+    },
+    "nature_muted_evidence": {
+      "type": "categorical",
+      "best_for": "Nature-style multi-panel figures needing calm, low-saturation evidence colors.",
+      "source_inspiration": "Muted journal figure styling plus colorblind-safe contrast.",
+      "colors": ["#355C7D", "#6C9A8B", "#C06C54", "#B56576", "#7D7C84", "#E6B655", "#4C6A92", "#8AA399"],
+      "semantics": {
+        "baseline": "#7D7C84",
+        "method": "#355C7D",
+        "treatment": "#C06C54",
+        "control": "#6C9A8B",
+        "highlight": "#E6B655",
+        "secondary_method": "#4C6A92",
+        "annotation": "#B56576",
+        "neutral_fill": "#8AA399"
+      }
+    },
+    "science_high_contrast": {
+      "type": "categorical",
+      "best_for": "Dense comparison plots where groups must separate clearly.",
+      "source_inspiration": "High-contrast research figure styling with colorblind-aware blue/orange/teal anchors.",
+      "colors": ["#1F77B4", "#FF7F0E", "#2CA02C", "#9467BD", "#17BECF", "#8C564B", "#7F7F7F", "#BCBD22"],
+      "semantics": {
+        "baseline": "#7F7F7F",
+        "primary": "#1F77B4",
+        "contrast": "#FF7F0E",
+        "positive": "#2CA02C",
+        "secondary": "#17BECF",
+        "model": "#9467BD",
+        "material": "#8C564B",
+        "warning": "#BCBD22"
+      }
+    },
+    "cell_mechanism": {
+      "type": "categorical",
+      "best_for": "Biology, pathway, mechanism, cell-state, and schematic figures.",
+      "source_inspiration": "Cell-style mechanism figures with warm highlight and cool structural colors.",
+      "colors": ["#2E5EAA", "#00A087", "#E64B35", "#F39B7F", "#7E6148", "#3C5488", "#8491B4", "#4DBBD5"],
+      "semantics": {
+        "structure": "#3C5488",
+        "state_a": "#00A087",
+        "state_b": "#E64B35",
+        "activation": "#F39B7F",
+        "inhibition": "#2E5EAA",
+        "background_entity": "#8491B4",
+        "protein_or_gene": "#4DBBD5",
+        "material": "#7E6148"
+      }
+    },
+    "clinical_neutral_accent": {
+      "type": "categorical",
+      "best_for": "Clinical cohorts, demographic comparisons, survival plots, and restrained medical figures.",
+      "source_inspiration": "Medical journal style: neutral base with one or two strong accents.",
+      "colors": ["#4D4D4D", "#7A7A7A", "#BDBDBD", "#2166AC", "#67A9CF", "#D6604D", "#F4A582", "#1B7837"],
+      "semantics": {
+        "neutral_dark": "#4D4D4D",
+        "neutral_mid": "#7A7A7A",
+        "neutral_light": "#BDBDBD",
+        "primary_cohort": "#2166AC",
+        "secondary_cohort": "#67A9CF",
+        "risk": "#D6604D",
+        "mild_risk": "#F4A582",
+        "protective": "#1B7837"
+      }
+    },
+    "earth_continuous": {
+      "type": "sequential",
+      "best_for": "Continuous environmental, spatial, intensity, or model-output data.",
+      "source_inspiration": "Perceptually ordered viridis-style scientific colormap.",
+      "colors": ["#0D0887", "#5B02A3", "#9A179B", "#CB4679", "#ED7953", "#FBB32F", "#F0F921"],
+      "semantics": {
+        "low": "#0D0887",
+        "mid_low": "#5B02A3",
+        "mid": "#CB4679",
+        "mid_high": "#ED7953",
+        "high": "#F0F921"
+      }
+    },
+    "cividis_accessible_continuous": {
+      "type": "sequential",
+      "best_for": "Continuous data that must remain readable for color-vision-deficient readers.",
+      "source_inspiration": "Cividis-like blue-yellow perceptually ordered map.",
+      "colors": ["#00204C", "#123570", "#3B496C", "#575D6D", "#707173", "#8A8678", "#A59C74", "#C1B36D", "#DEC95F", "#FFE945"],
+      "semantics": {
+        "low": "#00204C",
+        "mid": "#707173",
+        "high": "#FFE945"
+      }
+    },
+    "blue_orange_diverging": {
+      "type": "diverging",
+      "best_for": "Effect direction, residuals, enrichment/depletion, and signed change.",
+      "source_inspiration": "Blue-orange diverging maps used as red-green alternatives.",
+      "colors": ["#2166AC", "#4393C3", "#92C5DE", "#F7F7F7", "#F4A582", "#D6604D", "#B2182B"],
+      "semantics": {
+        "negative_strong": "#2166AC",
+        "negative": "#4393C3",
+        "neutral": "#F7F7F7",
+        "positive": "#D6604D",
+        "positive_strong": "#B2182B"
+      }
+    },
+    "grayscale_with_accent": {
+      "type": "categorical",
+      "best_for": "Print-safe figures, methods diagrams, and figures where one finding needs emphasis.",
+      "source_inspiration": "Print-first journal figures with one color accent.",
+      "colors": ["#111111", "#4D4D4D", "#7A7A7A", "#BDBDBD", "#E0E0E0", "#0072B2", "#D55E00"],
+      "semantics": {
+        "text": "#111111",
+        "baseline": "#7A7A7A",
+        "background": "#E0E0E0",
+        "primary_accent": "#0072B2",
+        "secondary_accent": "#D55E00"
+      }
+    }
+  }
+}

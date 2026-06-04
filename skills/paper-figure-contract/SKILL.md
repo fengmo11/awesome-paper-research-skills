@@ -34,8 +34,10 @@ Use this skill before drawing or revising a manuscript figure. The goal is to ma
 - Text remains editable in SVG.
 - Numbers in caption are traceable.
 - Palette meaning is consistent across panels.
+- Palette choice is named and checked for accessibility and grayscale readability.
 
 ## When To Read References
 
 - For chart selection, read `references/chart-selection.md`.
 - For visual style, read `references/style-gate.md`.
+- For scientific color palettes, read `references/palette-system.md` and `../../data/scientific_palettes.json`.

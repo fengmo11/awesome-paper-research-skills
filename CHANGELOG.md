@@ -1,5 +1,19 @@
 # Changelog
 
+## v3.2.4 - 2026-06-04
+
+### Added
+
+- Added `docs/module-usage.md`, explaining how to call each paper workflow module independently.
+- Added `data/scientific_palettes.json`, a reusable set of journal-inspired scientific plotting palettes.
+- Added `skills/paper-figure-contract/references/palette-system.md`, a palette selection guide for categorical, sequential, diverging, clinical, mechanism, and print-first figures.
+- Added `scripts/export_palette_preview.py` for generating an SVG palette preview.
+
+### Changed
+
+- Updated `paper-figure-contract` so palette choice is now an explicit figure gate.
+- Extended `scripts/validate_pipeline.py` to validate scientific palette definitions.
+
 ## v3.2.3 - 2026-06-04
 
 ### Added

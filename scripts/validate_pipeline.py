@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PIPELINE_PATH = ROOT / "pipeline" / "paper-publication-pipeline.json"
 RUN_RECORD_PATH = ROOT / "examples" / "pipeline-run-record.json"
 SKILLS_DIR = ROOT / "skills"
+PALETTES_PATH = ROOT / "data" / "scientific_palettes.json"
 
 
 def load_json(path: Path) -> dict[str, Any]:
@@ -157,12 +158,37 @@ def validate_run_record(run_record: dict[str, Any], pipeline: dict[str, Any]) ->
     return errors
 
 
+def validate_palettes(palettes: dict[str, Any]) -> list[str]:
+    errors: list[str] = []
+    palette_items = palettes.get("palettes")
+    if not isinstance(palette_items, dict) or not palette_items:
+        return ["Palette file must contain a non-empty palettes object."]
+    for name, palette in palette_items.items():
+        if not isinstance(palette, dict):
+            errors.append(f"Palette {name!r} must be an object.")
+            continue
+        colors = palette.get("colors")
+        if not isinstance(colors, list) or not colors:
+            errors.append(f"Palette {name!r} must contain colors.")
+            continue
+        for color in colors:
+            if not isinstance(color, str) or len(color) != 7 or not color.startswith("#"):
+                errors.append(f"Palette {name!r} has invalid color {color!r}.")
+        if not palette.get("type"):
+            errors.append(f"Palette {name!r} must include a type.")
+        if not palette.get("best_for"):
+            errors.append(f"Palette {name!r} must include best_for.")
+    return errors
+
+
 def main() -> int:
     pipeline = load_json(PIPELINE_PATH)
     run_record = load_json(RUN_RECORD_PATH)
+    palettes = load_json(PALETTES_PATH)
     errors = validate_pipeline(pipeline)
     errors.extend(validate_run_record(run_record, pipeline))
     errors.extend(validate_skill_packages())
+    errors.extend(validate_palettes(palettes))
     if errors:
         for error in errors:
             print(f"ERROR: {error}", file=sys.stderr)

@@ -18,6 +18,10 @@
 - Use color to encode meaning, not decoration.
 - Keep method, baseline, improvement, neutral, and warning colors stable.
 - Check grayscale and print readability.
+- Prefer colorblind-safe palettes such as Okabe-Ito for categorical groups.
+- Use perceptually ordered maps such as cividis/viridis-style schemes for continuous data.
+- Avoid `jet`, `rainbow`, and red-green diverging maps unless a field convention explicitly requires them and an accessible alternative is also provided.
+- See `palette-system.md` and `../../../data/scientific_palettes.json` for reusable palette choices.
 
 ## Caption
 

@@ -1,6 +1,6 @@
 {
   "pipeline": "paper-publication-pipeline",
-  "pipeline_version": "3.2.3",
+  "pipeline_version": "3.2.4",
   "run_id": "example-run-001",
   "status": "in_progress",
   "current_stage": "language-section-drafting",

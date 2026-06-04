@@ -1,6 +1,6 @@
-# Paper Research Workflow v3.2.3
+# Paper Research Workflow v3.2.4
 
-Version: `3.2.3`
+Version: `3.2.4`
 
 Date: `2026-06-04`
 
