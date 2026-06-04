@@ -1,8 +1,8 @@
 # How To Use Individual Modules
 
-Use the orchestrator when you want the full paper pipeline. Use individual
-modules when you only need one gate, such as citation audit, figure planning, or
-language cleanup.
+Use the orchestrator when you want the full paper pipeline. For day-to-day use,
+you do not need to remember module names. Describe the task naturally and let
+the root skill route it.
 
 ## Full Pipeline
 
@@ -19,7 +19,33 @@ Recommended entry file:
 skills/paper-publication-orchestrator/SKILL.md
 ```
 
-## Individual Module Calls
+## Natural-Language Calls
+
+You can say:
+
+```text
+帮我润色这段 Discussion，去掉 AI 腔，但不要改变科学含义。
+```
+
+```text
+帮我给这个算法对比图选一套计算机论文配色，并说明每个颜色代表什么。
+```
+
+```text
+帮我检查这些结论有没有足够引用支撑。
+```
+
+```text
+帮我模拟 5 个审稿人审这篇论文，并给出修改优先级。
+```
+
+```text
+帮我做投稿前最终检查。
+```
+
+The skill should infer the module automatically.
+
+## Explicit Module Calls
 
 | Need | Skill To Call | Example Prompt |
 | --- | --- | --- |

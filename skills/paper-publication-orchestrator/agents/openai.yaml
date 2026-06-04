@@ -1,4 +1,4 @@
 interface:
   display_name: "Paper Publication Orchestrator"
-  short_description: "Run the full paper workflow from intake to submission gate."
-  default_prompt: "Run the complete paper publication pipeline for this topic or draft, and keep a stage-by-stage run record."
+  short_description: "Infer the correct paper pipeline stage and route to the needed skill."
+  default_prompt: "Infer the current paper workflow stage from my request, route automatically, and keep a stage-by-stage run record."
