@@ -7,8 +7,39 @@
 这个仓库适合研究生、科研工作者、AI agent 构建者和想搭建论文工作流的人使用。项目名、仓库名、链接、Stars/Forks 和编程语言保留原始英文，说明与阅读指引尽量使用中文。
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![Version](https://img.shields.io/badge/version-v3.2.6-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
+
+## 当前版本
+
+当前工作流版本：**v3.2.6**。
+
+- [Paper Research Workflow v3.2.6](docs/workflow-v3.2.md)
+- [Root Claude/Codex Skill](SKILL.md)
+- [How To Use Individual Modules](docs/module-usage.md)
+- [Paper Publication Orchestrator Skill](skills/paper-publication-orchestrator/SKILL.md)
+- [Machine-Readable Publication Pipeline](pipeline/paper-publication-pipeline.json)
+- [Example Pipeline Run Record](examples/pipeline-run-record.json)
+- [Personal Use Config](config/codex-personal-use.json)
+- [Skill Package Architecture](docs/skill-package-architecture.md)
+- [Frontier Update - 2026-06-04](docs/frontier-update-2026-06-04.md)
+- [Skill Roadmap](docs/skill-roadmap.md)
+- [Installable Skill Index](skills/INDEX.md)
+- [Paper Language And Logic Style Guide](docs/language-logic-style-guide.md)
+- [Top Journal Section Writing Playbook](docs/top-journal-section-playbook.md)
+- [顶刊章节写作手法中文指南](docs/top-journal-section-playbook.zh-CN.md)
+- [Scientific Palettes](data/scientific_palettes.json)
+- [Palette Preview SVG](examples/artifacts/scientific-palettes-preview.svg)
+- [Paper Frontier Radar Skill](skills/paper-frontier-radar/SKILL.md)
+- [Paper Five Reviewer Panel Skill](skills/paper-five-reviewer-panel/SKILL.md)
+- [Paper Research Workflow v3.0.0](docs/workflow-v3.0.md)
+- [Nature Skills Deep Dive](docs/nature-skills-deep-dive.md)
+- [Public Repository Landscape - 2026-05-29](docs/public-repo-landscape-2026-05-29.md)
+- [How To Choose A Paper Workflow Stack](docs/choose-a-paper-workflow-stack.md)
+- [Paper Research Workflow v0.2.0](docs/workflow-v0.2.md)
+- [Frontier Review - 2026-05-17](docs/frontier-review-2026-05-17.md)
+- [Changelog](CHANGELOG.md)
 
 ## 这个仓库解决什么问题
 

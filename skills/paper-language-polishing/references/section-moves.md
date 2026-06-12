@@ -7,12 +7,18 @@ Context -> gap -> approach -> key result -> implication -> boundary.
 Style: compact, evidence-specific, and bounded. Put the result before the broad
 implication.
 
+Top-journal default: one continuous paragraph unless the target venue explicitly
+requires a structured abstract.
+
 ## Introduction
 
 Field stake -> unresolved bottleneck -> prior attempts -> remaining gap -> present study.
 
 Style: move from field need to precise gap quickly. Do not turn related work
 into a chronological list.
+
+Top-journal default: avoid fine-grained subheadings in the Introduction unless
+the venue or article type expects them. Build the gap paragraph by paragraph.
 
 Final paragraph: present study -> core method or data -> contribution -> what
 evidence will decide the claim.
@@ -30,6 +36,9 @@ Question -> action -> quantitative result -> evidence -> short interpretation.
 
 Style: lead with the test, then the finding. Keep interpretation short and avoid
 Discussion-level claims.
+
+Results subheadings should ideally be declarative logical steps, not generic
+labels such as "Experiment results".
 
 ## Methods
 

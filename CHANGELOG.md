@@ -1,5 +1,17 @@
 # Changelog
 
+## v3.2.6 - 2026-06-12
+
+### Added
+
+- Added `docs/top-journal-section-playbook.md`, a Nature/PLOS-inspired section writing playbook covering abstract, introduction, related work, methods, results, figures, discussion, and conclusion.
+- Added `docs/top-journal-section-playbook.zh-CN.md`, a Chinese companion guide for practical drafting and self-auditing.
+
+### Changed
+
+- Updated the language polishing skill to route top-journal paragraphing and section-movement requests to the new playbook.
+- Updated the v3.2 workflow and machine-readable pipeline so section movement is now an explicit language-stage gate.
+
 ## v3.2.5 - 2026-06-04
 
 ### Added

@@ -1,6 +1,6 @@
 {
   "name": "paper-publication-pipeline",
-  "version": "3.2.5",
+  "version": "3.2.6",
   "description": "Machine-readable pipeline for AI-assisted paper research, writing, five-reviewer revision, and submission readiness.",
   "entrypoint": "frontier-radar",
   "orchestrator_skill": "skills/paper-publication-orchestrator/SKILL.md",
@@ -77,8 +77,8 @@
       "id": "language-section-drafting",
       "order": 8,
       "skill": "skills/paper-language-polishing/SKILL.md",
-      "outputs": ["draft_sections", "language_logic_audit", "ai_voice_cleanup_log"],
-      "gate": "Sections follow argument movement, evidence anchors, hedging, and AI-voice cleanup."
+      "outputs": ["draft_sections", "section_movement_audit", "language_logic_audit", "ai_voice_cleanup_log"],
+      "gate": "Sections follow top-journal movement, paragraph logic, evidence anchors, hedging, and AI-voice cleanup."
     },
     {
       "id": "citation-data-provenance-audit",

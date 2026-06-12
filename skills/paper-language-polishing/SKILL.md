@@ -42,4 +42,5 @@ Use this skill when the task is to polish, rewrite, translate, or audit manuscri
 - For section-specific moves, read `references/section-moves.md`.
 - For overclaim and hedging patterns, read `references/hedging-and-overclaim.md`.
 - For AI-looking punctuation, adverbs, and generic phrasing, read `references/ai-voice-cleanup.md`.
+- For top-journal section structure and paragraphing, read `../../docs/top-journal-section-playbook.md`; for Chinese drafting guidance, read `../../docs/top-journal-section-playbook.zh-CN.md`.
 - For the full chapter logic and language style system, read `../../docs/language-logic-style-guide.md`.

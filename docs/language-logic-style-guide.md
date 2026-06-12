@@ -5,6 +5,11 @@ for AI-assisted drafting, polishing, reviewer simulation, and final manuscript
 audits. The core rule is simple: language quality is not decoration. Good
 scientific prose makes the argument, evidence, uncertainty, and boundary visible.
 
+For top-journal paragraphing and section-level drafting patterns, also read
+[`top-journal-section-playbook.md`](top-journal-section-playbook.md). For
+Chinese drafting guidance, read
+[`top-journal-section-playbook.zh-CN.md`](top-journal-section-playbook.zh-CN.md).
+
 ## Core Argument Chain
 
 Every manuscript should preserve this chain from title to conclusion:

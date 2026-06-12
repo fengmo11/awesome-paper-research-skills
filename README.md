@@ -11,15 +11,15 @@ study the best public `SKILL.md` packs and assemble a serious paper pipeline
 without opening fifty tabs.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Version](https://img.shields.io/badge/version-v3.2.5-blue)
+![Version](https://img.shields.io/badge/version-v3.2.6-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Focus](https://img.shields.io/badge/focus-paper%20research%20skills-blue)
 
 ## Current Version
 
-Current workflow version: **v3.2.5**.
+Current workflow version: **v3.2.6**.
 
-- [Paper Research Workflow v3.2.5](docs/workflow-v3.2.md)
+- [Paper Research Workflow v3.2.6](docs/workflow-v3.2.md)
 - [Root Claude/Codex Skill](SKILL.md)
 - [How To Use Individual Modules](docs/module-usage.md)
 - [Paper Publication Orchestrator Skill](skills/paper-publication-orchestrator/SKILL.md)
@@ -31,6 +31,8 @@ Current workflow version: **v3.2.5**.
 - [Skill Roadmap](docs/skill-roadmap.md)
 - [Installable Skill Index](skills/INDEX.md)
 - [Paper Language And Logic Style Guide](docs/language-logic-style-guide.md)
+- [Top Journal Section Writing Playbook](docs/top-journal-section-playbook.md)
+- [Top Journal Section Writing Playbook - Chinese](docs/top-journal-section-playbook.zh-CN.md)
 - [Scientific Palettes](data/scientific_palettes.json)
 - [Palette Preview SVG](examples/artifacts/scientific-palettes-preview.svg)
 - [Paper Frontier Radar Skill](skills/paper-frontier-radar/SKILL.md)

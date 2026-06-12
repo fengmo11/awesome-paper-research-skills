@@ -1,13 +1,12 @@
-# Paper Research Workflow v3.2.5
+# Paper Research Workflow v3.2.6
 
-Version: `3.2.5`
+Version: `3.2.6`
 
-Date: `2026-06-04`
+Date: `2026-06-12`
 
-This version keeps the strict v3.0 Nature-inspired gates, then adds a current
-frontier layer: Agent Skills compatibility, `gh skill` installability, skill
-provenance, safety scanning, Zotero/MCP-aware literature access, and durable
-research-state capture.
+This version keeps the strict v3.0 Nature-inspired gates and the v3.2 frontier
+layer, then adds top-journal section writing gates for abstract, introduction,
+methods, results, figures, discussion, and conclusion.
 
 The orchestrator skill lives at
 [`skills/paper-publication-orchestrator/SKILL.md`](../skills/paper-publication-orchestrator/SKILL.md).
@@ -83,6 +82,12 @@ stage 8 and before the five-reviewer panel. The guide defines section-level
 argument movement, language style, overclaim control, Chinese-to-English
 scientific rewriting, figure caption logic, and reviewer-facing risk checks.
 
+Use [Top Journal Section Writing Playbook](top-journal-section-playbook.md) for
+section paragraphing and top-journal movement. It makes the abstract/summary
+paragraph a single story by default, keeps the Introduction as a continuous
+gap-building argument unless the venue expects subsections, and turns Results
+into a chain of answered questions supported by figures.
+
 ## Frontier Ledger Fields
 
 Use these fields when scanning public updates:
@@ -108,3 +113,4 @@ Use these fields when scanning public updates:
 - [x] Workflow map reflects provenance, local-library, and safety-scanning gates.
 - [x] The workflow separates verified evidence from metadata-only discovery.
 - [x] The manuscript cannot go from drafting directly to submission without review, revision, and re-review.
+- [x] Top-journal section writing rules are linked from the workflow and language skill.
