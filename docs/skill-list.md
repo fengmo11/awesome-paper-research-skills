@@ -4,10 +4,10 @@ Generated from `data/skills.json`.
 
 | Skill Source | Kind | Signal | Stages |
 | --- | --- | ---: | --- |
-| [awesome-paper-research-skills](https://github.com/fengmo11/awesome-paper-research-skills) | curated-skill-index | 7 stars / 0 forks | idea-discovery, literature-search, citation-management, experiments-reproducibility, analysis-figures, writing-drafting, review-revision, formatting-submission |
-| [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | skill-library | 12.2k stars / 885 forks | idea-discovery, literature, experiments, paper-writing, latex, citation-check, plotting |
-| [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | skill-pack | 44.4k stars / 3.5k forks | literature, paper-writing, review, revision, format-convert, citation-check |
-| [Hermes research-paper-writing](https://github.com/nousresearch/hermes-agent/blob/main/skills/research/research-paper-writing/SKILL.md) | single-skill | 238.7k stars / 48.6k forks | experiment-design, experiment-execution, analysis, paper-writing, review, latex, submission |
+| [awesome-paper-research-skills](https://github.com/fengmo11/awesome-paper-research-skills) | curated-skill-index | 9 stars / 0 forks | idea-discovery, literature-search, citation-management, experiments-reproducibility, analysis-figures, writing-drafting, review-revision, formatting-submission |
+| [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | skill-library | 12.4k stars / 896 forks | idea-discovery, literature, experiments, paper-writing, latex, citation-check, plotting |
+| [academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | skill-pack | 46.7k stars / 3.7k forks | literature, paper-writing, review, revision, format-convert, citation-check |
+| [Hermes research-paper-writing](https://github.com/nousresearch/hermes-agent/blob/main/skills/research/research-paper-writing/SKILL.md) | single-skill | 242.7k stars / 49.9k forks | experiment-design, experiment-execution, analysis, paper-writing, review, latex, submission |
 | [RE-paper-writing](https://github.com/Research-Equality/RE-paper-writing) | curated-skill-set | 21 stars / 1 forks | planning, literature, experiment-report, claim-evidence, citation-check, latex, revision, submission-qa |
-| [paper-writing-skill](https://github.com/SNL-UCSB/paper-writing-skill) | single-skill | 179 stars / 10 forks | brainstorm, draft-zero, evaluate, write, compress, figures |
-| [paper-writer-skill](https://github.com/kgraph57/paper-writer-skill) | single-skill | 53 stars / 6 forks | imrad, literature-management, quality-checklists |
+| [paper-writing-skill](https://github.com/SNL-UCSB/paper-writing-skill) | single-skill | 183 stars / 11 forks | brainstorm, draft-zero, evaluate, write, compress, figures |
+| [paper-writer-skill](https://github.com/kgraph57/paper-writer-skill) | single-skill | 55 stars / 6 forks | imrad, literature-management, quality-checklists |
