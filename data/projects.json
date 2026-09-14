@@ -5,7 +5,7 @@
     "category": "curated-skill-index",
     "observed_stars": "9",
     "observed_forks": "0",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Bilingual paper research skill index across the publication workflow",
     "stages": [
       "ideas",
@@ -25,9 +25,9 @@
     "name": "NousResearch/hermes-agent",
     "url": "https://github.com/NousResearch/hermes-agent",
     "category": "paper-writing",
-    "observed_stars": "242.7k",
-    "observed_forks": "49.9k",
-    "date_checked": "2026-09-07",
+    "observed_stars": "245.3k",
+    "observed_forks": "51.0k",
+    "date_checked": "2026-09-14",
     "best_for": "Research paper writing skill inside a large agent framework",
     "stages": [
       "writing",
@@ -45,7 +45,7 @@
     "category": "full-cycle",
     "observed_stars": "14.5k",
     "observed_forks": "2.1k",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Automated scientific discovery loop",
     "stages": [
       "ideas",
@@ -61,7 +61,7 @@
     "category": "full-cycle",
     "observed_stars": "14.4k",
     "observed_forks": "1.7k",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "End-to-end idea-to-paper automation",
     "stages": [
       "ideas",
@@ -80,8 +80,8 @@
     "url": "https://github.com/openags/paper-search-mcp",
     "category": "literature",
     "observed_stars": "2.6k",
-    "observed_forks": "256",
-    "date_checked": "2026-09-07",
+    "observed_forks": "268",
+    "date_checked": "2026-09-14",
     "best_for": "Academic paper search and download through MCP",
     "stages": [
       "literature",
@@ -93,9 +93,9 @@
     "name": "federicodeponte/opendraft",
     "url": "https://github.com/federicodeponte/opendraft",
     "category": "paper-writing",
-    "observed_stars": "402",
+    "observed_stars": "415",
     "observed_forks": "75",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Long-form thesis and research draft generation",
     "stages": [
       "literature",
@@ -113,7 +113,7 @@
     "category": "review",
     "observed_stars": "154",
     "observed_forks": "24",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "AI-assisted meta-review",
     "stages": [
       "review"
@@ -126,7 +126,7 @@
     "category": "reading-list",
     "observed_stars": "171",
     "observed_forks": "12",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Reading list on AI Scientist and Robot Scientist literature",
     "stages": [
       "literature"
@@ -139,7 +139,7 @@
     "category": "literature",
     "observed_stars": "85",
     "observed_forks": "10",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Local literature database using OpenAlex",
     "stages": [
       "literature",
@@ -152,9 +152,9 @@
     "name": "Technion-Kishony-lab/data-to-paper",
     "url": "https://github.com/Technion-Kishony-lab/data-to-paper",
     "category": "full-cycle",
-    "observed_stars": "819",
+    "observed_stars": "823",
     "observed_forks": "95",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Backward-traceable research from raw data to paper",
     "stages": [
       "ideas",
@@ -171,8 +171,8 @@
     "url": "https://github.com/InternScience/InternAgent",
     "category": "full-cycle",
     "observed_stars": "1.4k",
-    "observed_forks": "129",
-    "date_checked": "2026-09-07",
+    "observed_forks": "130",
+    "date_checked": "2026-09-14",
     "best_for": "Long-horizon autonomous scientific discovery",
     "stages": [
       "ideas",
@@ -189,7 +189,7 @@
     "category": "hypothesis",
     "observed_stars": "59",
     "observed_forks": "13",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Hypothesis generation, review, ranking, and evolution",
     "stages": [
       "ideas",
@@ -205,7 +205,7 @@
     "category": "research-assistant",
     "observed_stars": "292",
     "observed_forks": "16",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Self-hosted research assistant with LaTeX and Overleaf workflows",
     "stages": [
       "literature",
@@ -219,9 +219,9 @@
     "name": "mlnjsh/ai-research-radar",
     "url": "https://github.com/mlnjsh/ai-research-radar",
     "category": "research-radar",
-    "observed_stars": "9",
+    "observed_stars": "10",
     "observed_forks": "2",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Self-updating arXiv tracker and trend monitor",
     "stages": [
       "literature",
@@ -235,9 +235,9 @@
     "name": "tarun7r/deep-research-agent",
     "url": "https://github.com/tarun7r/deep-research-agent",
     "category": "deep-research",
-    "observed_stars": "185",
+    "observed_stars": "186",
     "observed_forks": "32",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Citation-backed research reports with credibility scoring",
     "stages": [
       "planning",
@@ -254,7 +254,7 @@
     "category": "citation",
     "observed_stars": "28",
     "observed_forks": "5",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Citation generation and LaTeX cite insertion",
     "stages": [
       "citation",
@@ -267,9 +267,9 @@
     "name": "markrussinovich/refchecker",
     "url": "https://github.com/markrussinovich/refchecker",
     "category": "citation",
-    "observed_stars": "491",
+    "observed_stars": "497",
     "observed_forks": "59",
-    "date_checked": "2026-09-07",
+    "date_checked": "2026-09-14",
     "best_for": "Reference validation",
     "stages": [
       "citation-verification",
