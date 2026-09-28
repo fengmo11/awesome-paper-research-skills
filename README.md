@@ -133,26 +133,26 @@ Find topics, generate hypotheses, check novelty, and turn broad interests into r
 
 | Rank | Repository | Stars | Forks | Lang | Summary / 简述 |
 | ---: | --- | ---: | ---: | --- | --- |
-| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 45857 | 4159 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 rea... |
-| 2 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 16439 | 1397 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea... |
-| 3 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 14483 | 1682 | Python | Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
-| 4 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 5589 | 436 | Python | Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CL... |
-| 5 | [OpenNSWM-Lab/FAROS](https://github.com/OpenNSWM-Lab/FAROS) | 3036 | 390 | Python | A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper w... |
-| 6 | [webfuse-com/awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) | 2536 | 191 | - | A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autorese... |
-| 7 | [InternScience/InternAgent](https://github.com/InternScience/InternAgent) | 1442 | 130 | Python | InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery |
-| 8 | [pdfernhout/High-Performance-Organizations-Reading-List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) | 1266 | 55 | - | Ideas for creating and sustaining high performance organizations |
-| 9 | [pzqpzq/Principia](https://github.com/pzqpzq/Principia) | 841 | 39 | Rich Text Format | Principia extracts reusable principles, composes those principles into traceable research ideas, and helps researchers inspect... |
-| 10 | [yibie/awesome-autoresearch](https://github.com/yibie/awesome-autoresearch) | 755 | 57 | Python | awesome autoresearch list |
-| 11 | [worldbench/awesome-ai-auto-research](https://github.com/worldbench/awesome-ai-auto-research) | 522 | 37 | HTML | 🔥 A Survey on AI Auto-Research |
-| 12 | [yogsoth-ai/de-anthropocentric-research-engine](https://github.com/yogsoth-ai/de-anthropocentric-research-engine) | 496 | 40 | HTML | 900+ pure-markdown skills for autonomous AI research, organized as 9 freely-composable packages over a 4-layer hierarchy (Campa... |
-| 13 | [HKUST-KnowComp/Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) | 439 | 53 | - | [EMNLP2025] From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery |
-| 14 | [Sibyl-Research-Team/AutoResearch-SibylSystem](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) | 281 | 38 | Python | Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code |
-| 15 | [AI4Scientist/awesome-autoresearch](https://github.com/AI4Scientist/awesome-autoresearch) | 160 | 26 | - | A curated list of awesome autonomous researcher frameworks |
-| 16 | [smileformylove/XScientist](https://github.com/smileformylove/XScientist) | 128 | 2 | Python | Turn ideas into autonomous research with Git-like evidence histories—inspectable, reproducible, and reversible. |
-| 17 | [THU-KEG/Awesome-AI-for-Research](https://github.com/THU-KEG/Awesome-AI-for-Research) | 118 | 11 | Python | A collection of awesome AI-for-research papers and projects, covering all stages of the research process and a wide range of sc... |
-| 18 | [Omni-Scientist/Awesome-AI-Scientist](https://github.com/Omni-Scientist/Awesome-AI-Scientist) | 99 | 1 | Python | 🧪 Awesome list of AI Scientist papers, systems, benchmarks, datasets and open-source platforms. |
-| 19 | [tsinghua-fib-lab/Awesome-AI-Scientists](https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists) | 52 | 8 | - | A curated list of awesome resources on AI Scientists based on our survey "A Comprehensive Survey of AI Scientists". |
-| 20 | [usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery](https://github.com/usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery) | 36 | 3 | - | [NeurIPS2025] Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition |
+| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 46918 | 4233 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 rea... |
+| 2 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 16742 | 1418 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea... |
+| 3 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 14550 | 1689 | Python | Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
+| 4 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 5647 | 443 | Python | Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CL... |
+| 5 | [OpenNSWM-Lab/FAROS](https://github.com/OpenNSWM-Lab/FAROS) | 3040 | 390 | Python | A blueprint-driven AutoResearch runtime for orchestrating AI research workflows from idea generation and experiments to paper w... |
+| 6 | [webfuse-com/awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) | 2544 | 193 | - | A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autorese... |
+| 7 | [InternScience/InternAgent](https://github.com/InternScience/InternAgent) | 1443 | 130 | Python | InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery |
+| 8 | [pdfernhout/High-Performance-Organizations-Reading-List](https://github.com/pdfernhout/High-Performance-Organizations-Reading-List) | 1267 | 55 | - | Ideas for creating and sustaining high performance organizations |
+| 9 | [pzqpzq/Principia](https://github.com/pzqpzq/Principia) | 914 | 44 | Rich Text Format | Principia extracts reusable principles, composes those principles into traceable research ideas, and helps researchers inspect... |
+| 10 | [yibie/awesome-autoresearch](https://github.com/yibie/awesome-autoresearch) | 767 | 58 | Python | awesome autoresearch list |
+| 11 | [worldbench/awesome-ai-auto-research](https://github.com/worldbench/awesome-ai-auto-research) | 536 | 41 | HTML | 🔥 A Survey on AI Auto-Research |
+| 12 | [HKUST-KnowComp/Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) | 439 | 53 | - | [EMNLP2025] From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery |
+| 13 | [Sibyl-Research-Team/AutoResearch-SibylSystem](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) | 281 | 38 | Python | Fully Autonomous AI Research System with Self-Evolution, built natively on Claude Code |
+| 14 | [AI4Scientist/awesome-autoresearch](https://github.com/AI4Scientist/awesome-autoresearch) | 162 | 26 | - | A curated list of awesome autonomous researcher frameworks |
+| 15 | [smileformylove/XScientist](https://github.com/smileformylove/XScientist) | 129 | 2 | Python | Turn ideas into autonomous research with Git-like evidence histories—inspectable, reproducible, and reversible. |
+| 16 | [THU-KEG/Awesome-AI-for-Research](https://github.com/THU-KEG/Awesome-AI-for-Research) | 125 | 11 | Python | A collection of awesome AI-for-research papers and projects, covering all stages of the research process and a wide range of sc... |
+| 17 | [Omni-Scientist/Awesome-AI-Scientist](https://github.com/Omni-Scientist/Awesome-AI-Scientist) | 108 | 3 | Python | 🧪 Awesome list of AI Scientist papers, systems, benchmarks, datasets and open-source platforms. |
+| 18 | [tsinghua-fib-lab/Awesome-AI-Scientists](https://github.com/tsinghua-fib-lab/Awesome-AI-Scientists) | 52 | 8 | - | A curated list of awesome resources on AI Scientists based on our survey "A Comprehensive Survey of AI Scientists". |
+| 19 | [usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery](https://github.com/usail-hkust/Awesome-Foundation-Models-for-Scientific-Discovery) | 36 | 3 | - | [NeurIPS2025] Foundation Models for Scientific Discovery: From Paradigm Enhancement to Paradigm Transition |
+| 20 | [NuoJohnChen/Idea2Proposal](https://github.com/NuoJohnChen/Idea2Proposal) | 35 | 2 | Python | Framework for AI-Powered Academic Discussion and Research Collaboration. |
 
 ### Literature Search And Reading / 文献检索与论文阅读
 
@@ -160,26 +160,26 @@ Search papers, build reading lists, summarize PDFs, and organize literature revi
 
 | Rank | Repository | Stars | Forks | Lang | Summary / 简述 |
 | ---: | --- | ---: | ---: | --- | --- |
-| 1 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 48940 | 3797 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 2 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 16439 | 1397 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea... |
-| 3 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 14483 | 1682 | Python | Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
-| 4 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 11338 | 491 | Python | Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows |
-| 5 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 9114 | 829 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search e... |
-| 6 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8917 | 869 | - | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect.... |
-| 7 | [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) | 8602 | 702 | - | Explanation to key concepts in ML |
-| 8 | [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) | 3540 | 887 | - | A curated list of Generative AI tools, works, models, and references |
-| 9 | [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | 2447 | 241 | - | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimo... |
-| 10 | [AI-in-Health/MedLLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide) | 2041 | 178 | - | [Nature Reviews Bioengineering🔥] Application of Large Language Models in Medicine. A curated list of practical guide resources... |
-| 11 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1986 | 241 | - | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from phy... |
-| 12 | [handsome-rich/Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) | 1196 | 92 | Python | A curated collection of automated research tools, covering literature search, paper reading, experiment management, and code ge... |
-| 13 | [OpenLAIR/dr-claw](https://github.com/OpenLAIR/dr-claw) | 1137 | 129 | JavaScript | A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power. |
-| 14 | [EdinburghNLP/awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection) | 1131 | 92 | - | List of papers on hallucination detection in LLMs. |
-| 15 | [xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) | 1004 | 144 | TeX | Summarization Papers |
-| 16 | [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | 911 | 76 | Python | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discove... |
-| 17 | [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw) | 904 | 104 | TypeScript | 🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory. |
-| 18 | [OpenDataBox/awesome-data-llm](https://github.com/OpenDataBox/awesome-data-llm) | 826 | 73 | - | Official Repository of "LLM × DATA" Survey Paper |
-| 19 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 764 | 54 | TeX | Universal LaTeX document skill for Claude Code: 27 templates, 27 scripts, 26 reference guides. Made with Claude Code on ✦ Happy... |
-| 20 | [AgentTeam-TaichuAI/ScienceClaw](https://github.com/AgentTeam-TaichuAI/ScienceClaw) | 668 | 71 | Python | ScienceClaw is a personal research assistant built with LangChain DeepAgents and AIO Sandbox infrastructure, adopting a complet... |
+| 1 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 49717 | 3844 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 2 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 16742 | 1418 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea... |
+| 3 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 14550 | 1689 | Python | Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
+| 4 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 11760 | 507 | Python | Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows |
+| 5 | [Companion-Inc/feynman](https://github.com/Companion-Inc/feynman) | 9812 | 1093 | TypeScript | The open source AI research agent. |
+| 6 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 9140 | 831 | Python | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search e... |
+| 7 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8954 | 873 | - | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect.... |
+| 8 | [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained) | 8812 | 727 | - | Explanation to key concepts in ML |
+| 9 | [filipecalegario/awesome-generative-ai](https://github.com/filipecalegario/awesome-generative-ai) | 3544 | 893 | - | A curated list of Generative AI tools, works, models, and references |
+| 10 | [AI-Efficiency/Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) | 2450 | 241 | - | A curated collection of papers, benchmarks, surveys, and tools for model quantization, covering low-bit networks, LLMs, multimo... |
+| 11 | [AI-in-Health/MedLLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide) | 2042 | 178 | - | [Nature Reviews Bioengineering🔥] Application of Large Language Models in Medicine. A curated list of practical guide resources... |
+| 12 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 2004 | 244 | - | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from phy... |
+| 13 | [handsome-rich/Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) | 1204 | 92 | Python | A curated collection of automated research tools, covering literature search, paper reading, experiment management, and code ge... |
+| 14 | [OpenLAIR/dr-claw](https://github.com/OpenLAIR/dr-claw) | 1142 | 132 | JavaScript | A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power. |
+| 15 | [EdinburghNLP/awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection) | 1134 | 92 | - | List of papers on hallucination detection in LLMs. |
+| 16 | [xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) | 1004 | 144 | TeX | Summarization Papers |
+| 17 | [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | 929 | 80 | Python | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discove... |
+| 18 | [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw) | 906 | 104 | TypeScript | 🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory. |
+| 19 | [OpenDataBox/awesome-data-llm](https://github.com/OpenDataBox/awesome-data-llm) | 827 | 74 | - | Official Repository of "LLM × DATA" Survey Paper |
+| 20 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 771 | 56 | TeX | Universal LaTeX document skill for Claude Code: 27 templates, 27 scripts, 26 reference guides. Made with Claude Code on ✦ Happy... |
 
 ### Citation Management And Source Verification / 引用管理与来源验证
 
@@ -187,26 +187,26 @@ Manage BibTeX, DOI metadata, citation graphs, references, and hallucination chec
 
 | Rank | Repository | Stars | Forks | Lang | Summary / 简述 |
 | ---: | --- | ---: | ---: | --- | --- |
-| 1 | [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 37116 | 3332 | Python | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/O... |
-| 2 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 14483 | 1682 | Python | Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
-| 3 | [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) | 11423 | 964 | Jupyter Notebook | Reference PyTorch implementation and models for DINOv3 |
-| 4 | [Future-House/paper-qa](https://github.com/Future-House/paper-qa) | 9230 | 922 | Python | High accuracy RAG for answering questions from scientific documents with citations |
-| 5 | [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) | 7141 | 389 | TypeScript | Make Zotero effective for us LaTeX holdouts |
-| 6 | [zotero-chinese/styles](https://github.com/zotero-chinese/styles) | 6322 | 939 | XML | 中文 CSL 样式 - Zotero 中文社区 |
-| 7 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 5589 | 436 | Python | Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CL... |
-| 8 | [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) | 5099 | 407 | Python | Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss... |
-| 9 | [dvanoni/notero](https://github.com/dvanoni/notero) | 3223 | 139 | TypeScript | A Zotero plugin for syncing items and notes into Notion |
-| 10 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 3094 | 175 | TypeScript | An open-source research agent system for your Zotero library. |
-| 11 | [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) | 2650 | 96 | JavaScript | A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.7, Claude Fable 5, Claude Opus 5, DeepSeek V4, Grok, OpenRouter, Kim... |
-| 12 | [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) | 2293 | 114 | TypeScript | An open-source academic paper management tool. |
-| 13 | [delibae/claude-prism](https://github.com/delibae/claude-prism) | 1784 | 163 | TypeScript | An offline-first scientific writing workspace powered by Claude. LaTeX + Python + 100+ scientific skills all running locally. |
-| 14 | [community-archive/obsidian-zotero-integration](https://github.com/community-archive/obsidian-zotero-integration) | 1770 | 104 | TypeScript | Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian. |
+| 1 | [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 37235 | 3339 | Python | [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/O... |
+| 2 | [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) | 14550 | 1689 | Python | Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 |
+| 3 | [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3) | 11461 | 968 | Jupyter Notebook | Reference PyTorch implementation and models for DINOv3 |
+| 4 | [Future-House/paper-qa](https://github.com/Future-House/paper-qa) | 9261 | 922 | Python | High accuracy RAG for answering questions from scientific documents with citations |
+| 5 | [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex) | 7164 | 388 | TypeScript | Make Zotero effective for us LaTeX holdouts |
+| 6 | [zotero-chinese/styles](https://github.com/zotero-chinese/styles) | 6326 | 937 | XML | 中文 CSL 样式 - Zotero 中文社区 |
+| 7 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 5647 | 443 | Python | Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CL... |
+| 8 | [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) | 5184 | 407 | Python | Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss... |
+| 9 | [dvanoni/notero](https://github.com/dvanoni/notero) | 3232 | 139 | TypeScript | A Zotero plugin for syncing items and notes into Notion |
+| 10 | [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) | 3160 | 179 | TypeScript | An open-source research agent system for your Zotero library. |
+| 11 | [papersgpt/papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) | 2659 | 98 | JavaScript | A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3.7, Claude Fable 5, Claude Opus 5, DeepSeek V4, Grok, OpenRouter, Kim... |
+| 12 | [Future-Scholars/paperlib](https://github.com/Future-Scholars/paperlib) | 2295 | 113 | TypeScript | An open-source academic paper management tool. |
+| 13 | [delibae/claude-prism](https://github.com/delibae/claude-prism) | 1787 | 166 | TypeScript | An offline-first scientific writing workspace powered by Claude. LaTeX + Python + 100+ scientific skills all running locally. |
+| 14 | [community-archive/obsidian-zotero-integration](https://github.com/community-archive/obsidian-zotero-integration) | 1772 | 104 | TypeScript | Insert and import citations, bibliographies, notes, and PDF annotations from Zotero into Obsidian. |
 | 15 | [bwiernik/zotero-shortdoi](https://github.com/bwiernik/zotero-shortdoi) | 1631 | 81 | JavaScript | Zotero extension to retrieve and validate DOIs and shortDOIs |
-| 16 | [urschrei/pyzotero](https://github.com/urschrei/pyzotero) | 1416 | 131 | Python | Pyzotero: a Python client for the Zotero API |
-| 17 | [MuiseDestiny/zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger) | 1358 | 40 | TypeScript | Attanger (Attachment Manager) organizes Zotero attachments: attach recent downloads, match files to items, rename them with Zot... |
-| 18 | [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) | 1339 | 113 | TypeScript | Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within O... |
-| 19 | [MuiseDestiny/zotero-citation](https://github.com/MuiseDestiny/zotero-citation) | 1282 | 27 | TypeScript | Make Zotero's citation in Word easier and clearer. |
-| 20 | [cookjohn/zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 1169 | 99 | TypeScript | It's a plugin extension in Zotero. Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP. Zotero M... |
+| 16 | [urschrei/pyzotero](https://github.com/urschrei/pyzotero) | 1421 | 132 | Python | Pyzotero: a Python client for the Zotero API |
+| 17 | [MuiseDestiny/zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger) | 1366 | 40 | TypeScript | Attanger (Attachment Manager) organizes Zotero attachments: attach recent downloads, match files to items, rename them with Zot... |
+| 18 | [hans/obsidian-citation-plugin](https://github.com/hans/obsidian-citation-plugin) | 1338 | 113 | TypeScript | Obsidian plugin which integrates your academic reference manager with the Obsidian editor. Search your references from within O... |
+| 19 | [MuiseDestiny/zotero-citation](https://github.com/MuiseDestiny/zotero-citation) | 1284 | 27 | TypeScript | Make Zotero's citation in Word easier and clearer. |
+| 20 | [cookjohn/zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 1194 | 99 | TypeScript | It's a plugin extension in Zotero. Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP. Zotero M... |
 
 ### Experiment Execution And Reproducibility / 实验执行与可复现性
 
@@ -214,26 +214,26 @@ Run experiments, track results, manage datasets, and keep work reproducible.<br>
 
 | Rank | Repository | Stars | Forks | Lang | Summary / 简述 |
 | ---: | --- | ---: | ---: | --- | --- |
-| 1 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 48940 | 3797 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 2 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 16439 | 1397 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea... |
-| 3 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 11338 | 491 | Python | Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows |
-| 4 | [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) | 8193 | 1155 | Python | [SIGMOD'27] Easy Data Preparation with latest LLMs-based Operators and Pipelines. |
-| 5 | [JGalego/awesome-safety-critical-ai](https://github.com/JGalego/awesome-safety-critical-ai) | 65 | 18 | JavaScript | When the stakes are high, intelligence is only half the equation - reliability is the other ⚠️ |
+| 1 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 49717 | 3844 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 2 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 16742 | 1418 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea... |
+| 3 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 11760 | 507 | Python | Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows |
+| 4 | [OpenDCAI/DataFlow](https://github.com/OpenDCAI/DataFlow) | 8215 | 1188 | Python | [SIGMOD'27] Easy Data Preparation with latest LLMs-based Operators and Pipelines. |
+| 5 | [JGalego/awesome-safety-critical-ai](https://github.com/JGalego/awesome-safety-critical-ai) | 65 | 19 | JavaScript | When the stakes are high, intelligence is only half the equation - reliability is the other ⚠️ |
 | 6 | [Minyus/Tools_for_ML_Lifecycle_Management](https://github.com/Minyus/Tools_for_ML_Lifecycle_Management) | 8 | 0 | - | Comparison of ML Life Cycle Management (Experiment Tracking, Model Management, etc.): MLflow, DVC, Pachyderm, Sacred, Polyaxon,... |
 | 7 | [mgoldey/attestation](https://github.com/mgoldey/attestation) | 1 | 0 | Python | Auditable research provenance as local-first MCP tools. The claim checker, paper feed, knowledge graph and symbolic math assume... |
-| 8 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 320677 | 15053 | - | A list of Free Software network services and web applications which can be hosted on your own servers |
-| 9 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 137915 | 14542 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
-| 10 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 95369 | 16412 | - | A collection of MCP servers. |
-| 11 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 94614 | 12522 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all... |
-| 12 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 83056 | 9664 | - | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
-| 13 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 74382 | 15651 | Python | A curated list of awesome Machine Learning frameworks, libraries and software. |
-| 14 | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 59473 | 3628 | Rust | A curated list of Rust code and resources. |
-| 15 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 55118 | 9697 | Python | Learn it. Build it. Ship it for others. |
-| 16 | [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) | 53421 | 7009 | Swift | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |
-| 17 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 46680 | 6805 | Python | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and p... |
-| 18 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 45857 | 4159 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 rea... |
-| 19 | [open-guides/og-aws](https://github.com/open-guides/og-aws) | 36469 | 3879 | Shell | 📙 Amazon Web Services — a practical guide |
-| 20 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 34669 | 3691 | - | A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemin... |
+| 8 | [daniel-debrun/preregister](https://github.com/daniel-debrun/preregister) | 1 | 0 | Python | Ledger for ML experiments |
+| 9 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 322345 | 15117 | - | A list of Free Software network services and web applications which can be hosted on your own servers |
+| 10 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | 138744 | 14643 | HTML | A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev |
+| 11 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 95615 | 16733 | - | A collection of MCP servers. |
+| 12 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | 95247 | 12592 | Rust | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all... |
+| 13 | [mlabonne/llm-course](https://github.com/mlabonne/llm-course) | 83187 | 9685 | - | Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. |
+| 14 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | 74478 | 15662 | Python | A curated list of awesome Machine Learning frameworks, libraries and software. |
+| 15 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | 59917 | 10306 | Python | Learn it. Build it. Ship it for others. |
+| 16 | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 59587 | 3644 | Rust | A curated list of Rust code and resources. |
+| 17 | [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) | 53465 | 7009 | Swift | A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects |
+| 18 | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | 47014 | 6845 | Python | AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and p... |
+| 19 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 46918 | 4233 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 rea... |
+| 20 | [open-guides/og-aws](https://github.com/open-guides/og-aws) | 36471 | 3880 | Shell | 📙 Amazon Web Services — a practical guide |
 
 ### Analysis, Statistics, Figures And Tables / 数据分析、统计、图表与表格
 
@@ -241,26 +241,26 @@ Analyze data, create publication-quality figures, tables, schematics, and statis
 
 | Rank | Repository | Stars | Forks | Lang | Summary / 简述 |
 | ---: | --- | ---: | ---: | --- | --- |
-| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 45857 | 4159 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 rea... |
-| 2 | [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) | 29353 | 8017 | Python | Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop... |
-| 3 | [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) | 6267 | 1135 | Python | macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim,... |
-| 4 | [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) | 5293 | 801 | - | Long list of geospatial tools and resources |
-| 5 | [rasbt/mlxtend](https://github.com/rasbt/mlxtend) | 5175 | 916 | Python | A library of extension and helper modules for Python's data analysis and machine learning libraries. |
-| 6 | [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) | 4929 | 388 | C++ | Matplot++: A C++ Graphics Library for Data Visualization 📊🗾 |
-| 7 | [TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials](https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials) | 4004 | 1625 | Python | A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas o... |
-| 8 | [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) | 2788 | 367 | Jupyter Notebook | 📊⚽ A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of pu... |
-| 9 | [Haojae/scipilot-figure-skill](https://github.com/Haojae/scipilot-figure-skill) | 2434 | 84 | Python | SciPilot Skills family - Publication-grade scientific figure copilot for Claude Code |
-| 10 | [PavelGrigoryevDS/awesome-data-analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) | 1974 | 284 | - | 🚀 500+ curated resources for Data Analysis & Data Science: Python, SQL, Statistics, ML, AI, Visualization, Cheatsheets, Roadmap... |
-| 11 | [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | 1903 | 174 | Python | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. |
-| 12 | [erikgahner/awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) | 1764 | 179 | - | A curated list of awesome ggplot2 tutorials, packages etc. |
-| 13 | [beita6969/ScienceClaw](https://github.com/beita6969/ScienceClaw) | 904 | 104 | TypeScript | 🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory. |
-| 14 | [shubhomoydas/ad_examples](https://github.com/shubhomoydas/ad_examples) | 872 | 179 | Python | A collection of anomaly detection methods (iid/point-based, graph and time series) including active learning for anomaly detect... |
-| 15 | [Axect/Peroxide](https://github.com/Axect/Peroxide) | 728 | 43 | Rust | Rust numeric library with high performance and friendly syntax |
-| 16 | [faridrashidi/cnsplots](https://github.com/faridrashidi/cnsplots) | 676 | 73 | Python | 🎨 Toolkit for generating publication-quality plots for Cell, Nature and Science journals |
-| 17 | [achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project](https://github.com/achuthasubhash/Complete-Life-Cycle-of-a-Data-Science-Project) | 654 | 257 | - | Complete-Life-Cycle-of-a-Data-Science-Project |
-| 18 | [mdozmorov/HiC_tools](https://github.com/mdozmorov/HiC_tools) | 653 | 137 | Python | A collection of tools for Hi-C data analysis |
-| 19 | [xjtulyc/MedgeClaw](https://github.com/xjtulyc/MedgeClaw) | 641 | 149 | TeX | Open-source AI research assistant for biomedicine — chat to run RNA-seq, drug discovery, clinical analysis, and more. Built on... |
-| 20 | [xiejhhhhhh/Draftpaper_loop](https://github.com/xiejhhhhhh/Draftpaper_loop) | 392 | 23 | Python | Local-first research paper loop engine for auditable, traceable manuscript drafts. |
+| 1 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 46918 | 4233 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 rea... |
+| 2 | [academic/awesome-datascience](https://github.com/academic/awesome-datascience) | 30082 | 6652 | - | :memo: An awesome Data Science repository to learn and apply for real world problems. |
+| 3 | [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) | 29827 | 4053 | HTML | A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance) |
+| 4 | [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) | 29357 | 8015 | Python | Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop... |
+| 5 | [qinwf/awesome-R](https://github.com/qinwf/awesome-R) | 6517 | 1512 | R | A curated list of awesome R packages, frameworks and software. |
+| 6 | [donnemartin/dev-setup](https://github.com/donnemartin/dev-setup) | 6270 | 1134 | Python | macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim,... |
+| 7 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 5647 | 443 | Python | Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CL... |
+| 8 | [wuyoscar/GPT-Image2-Skill](https://github.com/wuyoscar/GPT-Image2-Skill) | 5583 | 470 | Python | GPT Image 2/2.5 prompt gallery, image prompt library, agentic skill, and CLI for OpenAI image generation/editing |
+| 9 | [sacridini/Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) | 5303 | 807 | - | Long list of geospatial tools and resources |
+| 10 | [rasbt/mlxtend](https://github.com/rasbt/mlxtend) | 5179 | 918 | Python | A library of extension and helper modules for Python's data analysis and machine learning libraries. |
+| 11 | [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus) | 4932 | 388 | C++ | Matplot++: A C++ Graphics Library for Data Visualization 📊🗾 |
+| 12 | [briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis) | 4117 | 640 | R | A curated list of awesome network analysis resources. |
+| 13 | [seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell) | 3863 | 1095 | - | Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc. |
+| 14 | [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) | 3599 | 463 | - | Probably the best curated list of data science software in Python. |
+| 15 | [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) | 2797 | 369 | Jupyter Notebook | 📊⚽ A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of pu... |
+| 16 | [protontypes/open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) | 2556 | 332 | - | A directory and analysis of the open source ecosystem in the areas of climate change, sustainable energy, biodiversity and natu... |
+| 17 | [Haojae/scipilot-figure-skill](https://github.com/Haojae/scipilot-figure-skill) | 2508 | 85 | Python | SciPilot Skills family - Publication-grade scientific figure copilot for Claude Code |
+| 18 | [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) | 2396 | 277 | Python | A general purpose scientific writer |
+| 19 | [PavelGrigoryevDS/awesome-data-analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) | 1984 | 287 | - | 🚀 500+ curated resources for Data Analysis & Data Science: Python, SQL, Statistics, ML, AI, Visualization, Cheatsheets, Roadmap... |
+| 20 | [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | 1932 | 177 | Python | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. |
 
 ### Paper Writing And Drafting / 论文写作与初稿生成
 
@@ -268,26 +268,26 @@ Draft abstracts, related work, methods, results, discussion, and full manuscript
 
 | Rank | Repository | Stars | Forks | Lang | Summary / 简述 |
 | ---: | --- | ---: | ---: | --- | --- |
-| 1 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 48940 | 3797 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 2 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8917 | 870 | - | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect.... |
-| 3 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 5589 | 436 | Python | Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CL... |
-| 4 | [hzwer/WritingAIPaper](https://github.com/hzwer/WritingAIPaper) | 4088 | 152 | - | Writing AI Conference Papers: A Handbook for Beginners |
-| 5 | [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | 3024 | 410 | Python | The largest open-source medical AI skills library for OpenClaw🦞. |
-| 6 | [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) | 2376 | 273 | Python | A general purpose scientific writer |
-| 7 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1986 | 241 | - | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from phy... |
-| 8 | [bohyy/academic-ai-prompt](https://github.com/bohyy/academic-ai-prompt) | 1938 | 124 | - | 一套为研究生和学术研究者设计的完整AI Prompt库 📖 包含内容： ✨ 40+ 精心设计的AI Prompt ✨ 论文选题系统方法（生成、评估、论证） ✨ 论文查找快速方案（8个不同方案） ✨ 文献综述框架和工具 ✨ Excel自动评估表格 ✨ 3个... |
-| 9 | [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | 1903 | 174 | Python | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. |
-| 10 | [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) | 1642 | 141 | - | Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A... |
-| 11 | [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) | 1594 | 3046 | HTML | A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, a... |
-| 12 | [lishix520/academic-paper-skills](https://github.com/lishix520/academic-paper-skills) | 1326 | 143 | Python | Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (w... |
-| 13 | [handsome-rich/Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) | 1196 | 92 | Python | A curated collection of automated research tools, covering literature search, paper reading, experiment management, and code ge... |
-| 14 | [OpenLAIR/dr-claw](https://github.com/OpenLAIR/dr-claw) | 1137 | 129 | JavaScript | A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power. |
-| 15 | [Muuuun/luxas](https://github.com/Muuuun/luxas) | 1121 | 18 | TypeScript | An autonomous research colleague — from a question to a compiled manuscript, while you sleep. |
-| 16 | [LeonChaoX/qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | 911 | 76 | Python | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discove... |
-| 17 | [luwill/research-skills](https://github.com/luwill/research-skills) | 844 | 99 | Python | Some commonly used research experiences and processes are encapsulated into Agent skills. |
-| 18 | [WantongC/journal-adapt-writing-skill](https://github.com/WantongC/journal-adapt-writing-skill) | 781 | 46 | - | Learn any journal's writing conventions from its published papers, then revise your manuscript to match — section by section. |
-| 19 | [best-of-ai/best-of-ai](https://github.com/best-of-ai/best-of-ai) | 726 | 125 | HTML | A curated list of best ai tools |
-| 20 | [M1n-n9/paper-lifecycle](https://github.com/M1n-n9/paper-lifecycle) | 681 | 38 | - | Codex skill for full academic paper lifecycle analysis and revision |
+| 1 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 49717 | 3844 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | 46918 | 4233 | Python | Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 rea... |
+| 3 | [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | 44924 | 2350 | Python | 符合nature论文学术表达和科研绘图的Skill |
+| 4 | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 34441 | 2477 | - | Elevate your AI research writing, no more tedious polishing ✨ |
+| 5 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8954 | 873 | - | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect.... |
+| 6 | [anbeime/skill](https://github.com/anbeime/skill) | 7302 | 671 | Python | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comp... |
+| 7 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 5647 | 443 | Python | Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CL... |
+| 8 | [brycewang-stanford/Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) | 4415 | 530 | Stata | 🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. \| 精选 23,000+ AI Age... |
+| 9 | [zLanqing/codex-claude-academic-skills](https://github.com/zLanqing/codex-claude-academic-skills) | 4366 | 243 | Python | 本仓库包含三个面向学术科研人员的Skills，覆盖从文献阅读、论文写作到科学计算的完整研究工作流。office-academic-skill 负责论文阅读报告与学术 PPT/Word 文档生成；research-writing-skill 提供论文写作、... |
+| 10 | [hzwer/WritingAIPaper](https://github.com/hzwer/WritingAIPaper) | 4093 | 153 | - | Writing AI Conference Papers: A Handbook for Beginners |
+| 11 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | 3264 | 478 | Python | A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code and... |
+| 12 | [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | 3034 | 411 | Python | The largest open-source medical AI skills library for OpenClaw🦞. |
+| 13 | [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) | 2396 | 277 | Python | A general purpose scientific writer |
+| 14 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 2004 | 244 | - | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from phy... |
+| 15 | [bohyy/academic-ai-prompt](https://github.com/bohyy/academic-ai-prompt) | 1993 | 124 | - | 一套为研究生和学术研究者设计的完整AI Prompt库 📖 包含内容： ✨ 40+ 精心设计的AI Prompt ✨ 论文选题系统方法（生成、评估、论证） ✨ 论文查找快速方案（8个不同方案） ✨ 文献综述框架和工具 ✨ Excel自动评估表格 ✨ 3个... |
+| 16 | [aipoch/medical-research-skills](https://github.com/aipoch/medical-research-skills) | 1932 | 177 | Python | Hundreds of agent skills for medical research, including protocol design, data analysis, evidence insights, and academic writing. |
+| 17 | [AIScientists-Dev/academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer) | 1725 | 146 | - | Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A... |
+| 18 | [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) | 1600 | 3057 | HTML | A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, a... |
+| 19 | [lishix520/academic-paper-skills](https://github.com/lishix520/academic-paper-skills) | 1341 | 147 | Python | Systematic framework for planning and writing academic papers using Claude Code. Includes strategist (planning) and composer (w... |
+| 20 | [handsome-rich/Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) | 1204 | 92 | Python | A curated collection of automated research tools, covering literature search, paper reading, experiment management, and code ge... |
 
 ### Peer Review, Self Review And Revision / 同行评审、自审与修改
 
@@ -295,26 +295,26 @@ Review manuscripts, score quality, generate rebuttals, and plan revisions.<br>�
 
 | Rank | Repository | Stars | Forks | Lang | Summary / 简述 |
 | ---: | --- | ---: | ---: | --- | --- |
-| 1 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 48941 | 3797 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| 2 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 16439 | 1397 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea... |
-| 3 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 11338 | 491 | Python | Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows |
-| 4 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8917 | 870 | - | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect.... |
-| 5 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 5589 | 436 | Python | Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CL... |
-| 6 | [joho/awesome-code-review](https://github.com/joho/awesome-code-review) | 5155 | 390 | - | An "Awesome" list of code review resources - articles, papers, tools, etc |
-| 7 | [hzwer/WritingAIPaper](https://github.com/hzwer/WritingAIPaper) | 4088 | 152 | - | Writing AI Conference Papers: A Handbook for Beginners |
-| 8 | [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) | 3442 | 239 | - | [TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets. |
-| 9 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1986 | 241 | - | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from phy... |
-| 10 | [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) | 1716 | 158 | TypeScript | Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemi... |
-| 11 | [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) | 1594 | 3046 | HTML | A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, a... |
+| 1 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | 49717 | 3844 | Python | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
+| 2 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 16742 | 1418 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea... |
+| 3 | [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) | 11760 | 507 | Python | Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows |
+| 4 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8954 | 873 | - | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect.... |
+| 5 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 5647 | 443 | Python | Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CL... |
+| 6 | [joho/awesome-code-review](https://github.com/joho/awesome-code-review) | 5152 | 392 | - | An "Awesome" list of code review resources - articles, papers, tools, etc |
+| 7 | [hzwer/WritingAIPaper](https://github.com/hzwer/WritingAIPaper) | 4093 | 153 | - | Writing AI Conference Papers: A Handbook for Beginners |
+| 8 | [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) | 3440 | 239 | - | [TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets. |
+| 9 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 2004 | 244 | - | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from phy... |
+| 10 | [NeoLabHQ/context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit) | 1732 | 159 | TypeScript | Hand-crafted Claude Code Skills focused on improving agent results quality. Compatible with OpenCode, Cursor, Antigravity, Gemi... |
+| 11 | [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) | 1600 | 3058 | HTML | A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, a... |
 | 12 | [tmgthb/Autonomous-Agents](https://github.com/tmgthb/Autonomous-Agents) | 1379 | 102 | - | Autonomous Agents (LLMs) research papers. Updated Daily. |
-| 13 | [handsome-rich/Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) | 1196 | 92 | Python | A curated collection of automated research tools, covering literature search, paper reading, experiment management, and code ge... |
-| 14 | [zhijing-jin/nlp-phd-global-equality](https://github.com/zhijing-jin/nlp-phd-global-equality) | 1091 | 90 | - | A repo for open resources & information for people to succeed in PhD in CS & career in AI / NLP |
-| 15 | [Spark-To-Paper-Skills/spark-to-paper-skills](https://github.com/Spark-To-Paper-Skills/spark-to-paper-skills) | 1090 | 19 | Python | One sentence in, one draft paper out: spark-to-paper-skills automatically reviews papers, plans and runs experiments, and write... |
+| 13 | [handsome-rich/Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) | 1204 | 92 | Python | A curated collection of automated research tools, covering literature search, paper reading, experiment management, and code ge... |
+| 14 | [Spark-To-Paper-Skills/spark-to-paper-skills](https://github.com/Spark-To-Paper-Skills/spark-to-paper-skills) | 1166 | 20 | Python | One sentence in, one draft paper out: spark-to-paper-skills automatically reviews papers, plans and runs experiments, and write... |
+| 15 | [zhijing-jin/nlp-phd-global-equality](https://github.com/zhijing-jin/nlp-phd-global-equality) | 1093 | 90 | - | A repo for open resources & information for people to succeed in PhD in CS & career in AI / NLP |
 | 16 | [xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers) | 1004 | 144 | TeX | Summarization Papers |
-| 17 | [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) | 902 | 105 | - | A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks... |
-| 18 | [LigphiDonk/Oh-my--paper](https://github.com/LigphiDonk/Oh-my--paper) | 735 | 53 | TypeScript | A Claude Code plugin that turns your terminal into an autonomous research lab — literature survey, experiment execution, paper... |
-| 19 | [M1n-n9/paper-lifecycle](https://github.com/M1n-n9/paper-lifecycle) | 681 | 38 | - | Codex skill for full academic paper lifecycle analysis and revision |
-| 20 | [jtleek/reviews](https://github.com/jtleek/reviews) | 530 | 104 | - | Writing reviews of academic papers |
+| 17 | [benchflow-ai/awesome-evals](https://github.com/benchflow-ai/awesome-evals) | 914 | 109 | - | A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blogs, talks, tools, benchmarks... |
+| 18 | [LigphiDonk/Oh-my--paper](https://github.com/LigphiDonk/Oh-my--paper) | 736 | 53 | TypeScript | A Claude Code plugin that turns your terminal into an autonomous research lab — literature survey, experiment execution, paper... |
+| 19 | [M1n-n9/paper-lifecycle](https://github.com/M1n-n9/paper-lifecycle) | 685 | 38 | - | Codex skill for full academic paper lifecycle analysis and revision |
+| 20 | [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) | 541 | 17 | TypeScript | Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the... |
 
 ### LaTeX, Word Formatting And Submission / LaTeX、Word 排版与投稿准备
 
@@ -322,26 +322,26 @@ Prepare LaTeX templates, DOCX/PDF exports, journal formatting, camera-ready pack
 
 | Rank | Repository | Stars | Forks | Lang | Summary / 简述 |
 | ---: | --- | ---: | ---: | --- | --- |
-| 1 | [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 16439 | 1397 | Python | ARIS ⚔️ (Auto-Research-In-Sleep) — Lightweight Markdown-only skills for autonomous ML research: cross-model review loops, idea... |
-| 2 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | 8917 | 870 | - | Curated list of chatgpt prompts from the top-rated GPTs in the GPTs Store. Prompt Engineering, prompt attack & prompt protect.... |
-| 3 | [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) | 5589 | 436 | Python | Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CL... |
-| 4 | [codefuse-ai/Awesome-Code-LLM](https://github.com/codefuse-ai/Awesome-Code-LLM) | 3442 | 239 | - | [TMLR] A curated list of language modeling researches for code (and other software engineering activities), plus related datasets. |
-| 5 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 1986 | 241 | - | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from phy... |
-| 6 | [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) | 1594 | 3046 | HTML | A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, a... |
-| 7 | [dspinellis/latex-advice](https://github.com/dspinellis/latex-advice) | 1287 | 131 | TeX | Advice for writing LaTeX documents |
-| 8 | [Muuuun/luxas](https://github.com/Muuuun/luxas) | 1121 | 18 | TypeScript | An autonomous research colleague — from a question to a compiled manuscript, while you sleep. |
-| 9 | [Spark-To-Paper-Skills/spark-to-paper-skills](https://github.com/Spark-To-Paper-Skills/spark-to-paper-skills) | 1090 | 19 | Python | One sentence in, one draft paper out: spark-to-paper-skills automatically reviews papers, plans and runs experiments, and write... |
-| 10 | [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) | 1006 | 69 | - | :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX |
-| 11 | [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) | 869 | 125 | Ruby | 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎 |
-| 12 | [hantang/latex-templates](https://github.com/hantang/latex-templates) | 832 | 40 | - | A collection of awesome LaTeX Thesis/Dissertation templates and beyond! //（LaTeX / Word / Typst / Markdown 格式的学位论文、演示文稿、报告、项目申请... |
-| 13 | [AlonzoLeeeooo/awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation) | 784 | 46 | TeX | A collection of awesome video generation studies. |
-| 14 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 764 | 54 | TeX | Universal LaTeX document skill for Claude Code: 27 templates, 27 scripts, 26 reference guides. Made with Claude Code on ✦ Happy... |
-| 15 | [borisveytsman/acmart](https://github.com/borisveytsman/acmart) | 707 | 270 | TeX | ACM consolidated LaTeX styles |
-| 16 | [open-spaced-repetition/awesome-fsrs](https://github.com/open-spaced-repetition/awesome-fsrs) | 699 | 47 | - | A curated list of awesome FSRS implementations, papers and resources |
-| 17 | [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting) | 689 | 129 | - | No description provided. |
-| 18 | [Ar9av/PaperOrchestra](https://github.com/Ar9av/PaperOrchestra) | 662 | 92 | Python | An automated AI research-paper writer based off Google's PaperOrchestra paper's implementation through a skills - benchmark + a... |
-| 19 | [hanlulong/econ-writing-skill](https://github.com/hanlulong/econ-writing-skill) | 614 | 96 | Python | Agent Skill that transforms AI assistants into expert economics paper writers. Synthesizes 50+ guides by Cochrane, McCloskey, S... |
-| 20 | [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) | 521 | 16 | TypeScript | Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the... |
+| 1 | [ai4s-research/awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) | 2004 | 244 | - | A curated list of awesome AI tools, libraries, papers, datasets, and frameworks that accelerate scientific discovery — from phy... |
+| 2 | [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) | 1007 | 69 | - | :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX |
+| 3 | [superiorlu/AITreasureBox](https://github.com/superiorlu/AITreasureBox) | 868 | 125 | Ruby | 🤖 Automatically collected AI repos, tools, websites, papers & tutorials. 实用AI百宝箱 💎 |
+| 4 | [hantang/latex-templates](https://github.com/hantang/latex-templates) | 835 | 40 | - | A collection of awesome LaTeX Thesis/Dissertation templates and beyond! //（LaTeX / Word / Typst / Markdown 格式的学位论文、演示文稿、报告、项目申请... |
+| 5 | [ndpvt-web/latex-document-skill](https://github.com/ndpvt-web/latex-document-skill) | 771 | 56 | TeX | Universal LaTeX document skill for Claude Code: 27 templates, 27 scripts, 26 reference guides. Made with Claude Code on ✦ Happy... |
+| 6 | [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting) | 690 | 129 | - | No description provided. |
+| 7 | [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) | 461 | 86 | Python | Free & open-source AI research-paper writer: 19 agents draft 20k-word academic papers in ~10 min with citations verified agains... |
+| 8 | [Oleafly/Oleafly](https://github.com/Oleafly/Oleafly) | 183 | 20 | TypeScript | The local-first AI assisted research workspace for scientific writing & publishing. Research, Write, Compile, Verify and Publis... |
+| 9 | [ChicagoHAI/OpenAIReview](https://github.com/ChicagoHAI/OpenAIReview) | 168 | 23 | Python | AI reviewing paper drafts for improvement. |
+| 10 | [flonat/flonat-research](https://github.com/flonat/flonat-research) | 144 | 28 | Python | Shareable Claude Code + Codex infrastructure for PhD researchers — skills, agents, hooks, and rules for academic workflows |
+| 11 | [kael-odin/awesome-academic-research-skills](https://github.com/kael-odin/awesome-academic-research-skills) | 113 | 9 | Python | 面向中文用户的学术论文与科研 Agent Skill 每日排行榜 · 自动搜索、过滤并排名 GitHub 上的 Claude Code / Codex / OpenCode 科研 Skill 仓库 |
+| 12 | [maxwell2732/my-submission-formatting-agent](https://github.com/maxwell2732/my-submission-formatting-agent) | 111 | 27 | Python | A structured Claude Code workflow to reformat research manuscripts for any journal's submission requirements without altering s... |
+| 13 | [GRIND-Lab-Core/night_owl_research_agent](https://github.com/GRIND-Lab-Core/night_owl_research_agent) | 105 | 24 | Python | Fully automatic AI research agent for Geoscientists, Remote Sensing researchers, and GIScientists. Features harness engineering... |
+| 14 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 322345 | 15117 | - | A list of Free Software network services and web applications which can be hosted on your own servers |
+| 15 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 95615 | 16734 | - | A collection of MCP servers. |
+| 16 | [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 59587 | 3644 | Rust | A curated list of Rust code and resources. |
+| 17 | [cporter202/API-mega-list](https://github.com/cporter202/API-mega-list) | 7647 | 1462 | JavaScript | This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations... |
+| 18 | [aymericdamien/TopDeepLearning](https://github.com/aymericdamien/TopDeepLearning) | 6357 | 1255 | Python | A list of popular github projects related to deep learning |
+| 19 | [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) | 3264 | 478 | Python | A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code and... |
+| 20 | [FreedomIntelligence/OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | 3034 | 411 | Python | The largest open-source medical AI skills library for OpenClaw🦞. |
 <!-- HOMEPAGE_FLOW_END -->
 
 ## Workflow Categories
