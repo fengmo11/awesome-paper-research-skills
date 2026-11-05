@@ -114,6 +114,9 @@ paper skills:
 | [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) | ~114 stars / ~24 forks | Multi-agent draft generation with verified citations and PDF/DOCX/LaTeX export |
 | [openags/paper-search-mcp](https://github.com/openags/paper-search-mcp) | ~450 stars / ~71 forks | Paper-search MCP building block |
 | [markrussinovich/refchecker](https://github.com/markrussinovich/refchecker) | dynamic | Reference validation gate |
+| [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon) | ~54 stars / ~5 forks | Cross-disciplinary autoresearch on Prompt Economy; smallest prompt footprint among such systems (18 roles, 230.6 KiB); human navigates, AI drives |
+| [AutoResearch-Factory/AutoSR](https://github.com/AutoResearch-Factory/AutoSR) | ~4 stars | Multi-agent symbolic regression via research-state search; free trial at [autosr.app](https://autosr.app) |
+| [AutoResearch-Factory/SciPIvot](https://github.com/AutoResearch-Factory/SciPIvot) | ~14 stars / ~1 fork | Benchmark for Principal-Investigator judgment at pivotal AutoResearch moments (248 questions from real research corrections) |
 
 <!-- HOMEPAGE_FLOW_START -->
 ## Maintained Here / 本仓库维护项目
@@ -374,6 +377,7 @@ The map follows the full paper publication workflow:
 
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - Automated scientific discovery from idea generation through experiments, writeup, and review.
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - End-to-end research automation with literature search, sandboxed experiments, charts, LaTeX, BibTeX, and multi-agent review.
+- [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon) - Cross-disciplinary autoresearch system built on Prompt Economy (18 roles, 230.6 KiB total); human navigates, AI drives.
 - [Technion-Kishony-lab/data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper) - Backward-traceable AI-driven research from raw data to human-verifiable papers.
 - [InternScience/InternAgent](https://github.com/InternScience/InternAgent) - Long-horizon autonomous scientific discovery with hypothesis generation and automated experimental execution.
 - [jataware/open-coscientist](https://github.com/jataware/open-coscientist) - Open adaptation of AI co-scientist style hypothesis generation, review, ranking, and evolution.
