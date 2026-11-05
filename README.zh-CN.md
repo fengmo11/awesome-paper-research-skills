@@ -62,6 +62,9 @@ flowchart LR
 | [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) | 523 / 90 | 长论文、毕业论文和研究草稿生成参考。 | literature, writing, citation-verification, pdf, docx, latex |
 | [poldrack/ai-peer-review](https://github.com/poldrack/ai-peer-review) | 157 / 24 | AI 辅助论文 meta-review 和审稿总结参考。 | review |
 | [openags/Awesome-AI-Scientist-Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) | 178 / 13 | AI Scientist 与 Robot Scientist 方向的论文阅读清单。 | literature |
+| [AutoResearch-Factory/Agon](https://github.com/AutoResearch-Factory/Agon) | 54 / 5 | 基于 Prompt Economy 的全学科自动科研系统；提示词量最小（18 个角色共 230.6 KiB）；human navigates, AI drives。 | ideas, experiments, writing, review |
+| [AutoResearch-Factory/AutoSR](https://github.com/AutoResearch-Factory/AutoSR) | 4 / 0 | 多 agent 符号回归；精确恢复 3 道此前已发表系统都解不出的 cp3-bench 题；[autosr.app](https://autosr.app) 免费试用。 | experiments, analysis |
+| [AutoResearch-Factory/SciPIvot](https://github.com/AutoResearch-Factory/SciPIvot) | 14 / 1 | 评测科研 agent 在关键节点上像 Principal Investigator 一样做判断的 benchmark（248 题，26 项目，6 学科）。 | review, evaluation |
 
 ## 按论文发表流程分类的 Top 仓库
 
